@@ -1,0 +1,23 @@
+[ballot] 100427 unit-elections
+[settlement] 11791 unit-elections
+{'unit': 'settlement', 'method': 'kmeans', 'K': 4, 'n_clusters_used': 4, 'silhouette': 0.368, 'calinski_harabasz': 3767.772, 'davies_bouldin': 1.045, 'stability_ari': 0.99, 'stability_sd': 0.003}
+{'unit': 'settlement', 'method': 'kmeans', 'K': 6, 'n_clusters_used': 6, 'silhouette': 0.329, 'calinski_harabasz': 3419.545, 'davies_bouldin': 0.996, 'stability_ari': 0.878, 'stability_sd': 0.098}
+{'unit': 'settlement', 'method': 'kmeans', 'K': 8, 'n_clusters_used': 8, 'silhouette': 0.305, 'calinski_harabasz': 3001.884, 'davies_bouldin': 1.172, 'stability_ari': 0.699, 'stability_sd': 0.113}
+{'unit': 'settlement', 'method': 'kmeans', 'K': 10, 'n_clusters_used': 10, 'silhouette': 0.248, 'calinski_harabasz': 2643.801, 'davies_bouldin': 1.332, 'stability_ari': 0.916, 'stability_sd': 0.027}
+{'unit': 'settlement', 'method': 'kmeans', 'K': 12, 'n_clusters_used': 12, 'silhouette': 0.243, 'calinski_harabasz': 2395.79, 'davies_bouldin': 1.348, 'stability_ari': 0.747, 'stability_sd': 0.082}
+{'unit': 'settlement', 'method': 'kmeans', 'K': 14, 'n_clusters_used': 14, 'silhouette': 0.214, 'calinski_harabasz': 2226.394, 'davies_bouldin': 1.427, 'stability_ari': 0.629, 'stability_sd': 0.065}
+{'unit': 'settlement', 'method': 'gmm', 'K': 4, 'n_clusters_used': 4, 'silhouette': 0.329, 'calinski_harabasz': 3437.316, 'davies_bouldin': 1.161, 'bic': -207790.4, 'stability_ari': 0.878, 'stability_sd': 0.064}
+{'unit': 'settlement', 'method': 'gmm', 'K': 6, 'n_clusters_used': 6, 'silhouette': 0.283, 'calinski_harabasz': 2959.257, 'davies_bouldin': 1.283, 'bic': -220843.792, 'stability_ari': 0.745, 'stability_sd': 0.17}
+{'unit': 'settlement', 'method': 'gmm', 'K': 8, 'n_clusters_used': 8, 'silhouette': 0.245, 'calinski_harabasz': 2229.077, 'davies_bouldin': 1.49, 'bic': -233956.733, 'stability_ari': 0.732, 'stability_sd': 0.081}
+{'unit': 'settlement', 'method': 'gmm', 'K': 10, 'n_clusters_used': 10, 'silhouette': 0.231, 'calinski_harabasz': 2036.159, 'davies_bouldin': 1.419, 'bic': -238519.945, 'stability_ari': 0.74, 'stability_sd': 0.018}
+{'unit': 'settlement', 'method': 'gmm', 'K': 12, 'n_clusters_used': 12, 'silhouette': 0.185, 'calinski_harabasz': 1788.783, 'davies_bouldin': 1.573, 'bic': -241941.231, 'stability_ari': 0.714, 'stability_sd': 0.092}
+{'unit': 'settlement', 'method': 'gmm', 'K': 14, 'n_clusters_used': 14, 'silhouette': 0.182, 'calinski_harabasz': 1796.305, 'davies_bouldin': 1.687, 'bic': -243749.14, 'stability_ari': 0.563, 'stability_sd': 0.032}
+{'unit': 'settlement', 'method': 'ward', 'K': 4, 'n_clusters_used': 4, 'silhouette': 0.374, 'calinski_harabasz': 3714.14, 'davies_bouldin': 1.022}
+{'unit': 'settlement', 'method': 'ward', 'K': 6, 'n_clusters_used': 6, 'silhouette': 0.295, 'calinski_harabasz': 3270.834, 'davies_bouldin': 1.254}
+{'unit': 'settlement', 'method': 'ward', 'K': 8, 'n_clusters_used': 8, 'silhouette': 0.266, 'calinski_harabasz': 2963.134, 'davies_bouldin': 1.244}
+{'unit': 'settlement', 'method': 'ward', 'K': 10, 'n_clusters_used': 10, 'silhouette': 0.242, 'calinski_harabasz': 2574.962, 'davies_bouldin': 1.414}
+{'unit': 'settlement', 'method': 'ward', 'K': 12, 'n_clusters_used': 12, 'silhouette': 0.226, 'calinski_harabasz': 2329.864, 'davies_bouldin': 1.458}
+{'unit': 'settlement', 'method': 'ward', 'K': 14, 'n_clusters_used': 14, 'silhouette': 0.22, 'calinski_harabasz': 2125.994, 'davies_bouldin': 1.442}
+{'unit': 'settlement', 'method': 'nmf', 'K': 4, 'n_clusters_used': 4, 'silhouette': 0.199, 'calinski_harabasz': 2863.13, 'davies_bouldin': 1.16, 'nmf_recon_err': 23.166, 'stability_ari': 0.939, 'stability_sd': 0.018}
+{'unit': 'settlement', 'method': 'nmf', 'K': 6, 'n_clusters_used': 6, 'silhouette': 0.203, 'calinski_harabasz': 2517.045, 'davies_bouldin': 1.243, 'nmf_recon_err': 9.687, 'stability_ari': 0.933, 'stability_sd': 0.023}
+{'unit': 'settlement', 'method': 'nmf', 'K': 8, 'n_clusters_used': 8, 'silhouette': 0.176, 'calinski_harabasz': 1942.336, 'davies_bouldin': 1.275, 'nmf_recon_err': 4.085, 'stability_ari': 0.854, 'stability_sd': 0.024}

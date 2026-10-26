@@ -1,0 +1,44 @@
+[ballot] 100484 unit-elections
+{'unit': 'ballot', 'method': 'kmeans', 'K': 4, 'n_clusters_used': 4, 'silhouette': 0.333, 'calinski_harabasz': 4128.928, 'davies_bouldin': 1.02, 'stability_ari': 0.979, 'stability_sd': 0.013}
+{'unit': 'ballot', 'method': 'kmeans', 'K': 6, 'n_clusters_used': 6, 'silhouette': 0.265, 'calinski_harabasz': 3340.281, 'davies_bouldin': 1.301, 'stability_ari': 0.71, 'stability_sd': 0.178}
+{'unit': 'ballot', 'method': 'kmeans', 'K': 8, 'n_clusters_used': 8, 'silhouette': 0.274, 'calinski_harabasz': 2927.864, 'davies_bouldin': 1.251, 'stability_ari': 0.839, 'stability_sd': 0.081}
+{'unit': 'ballot', 'method': 'kmeans', 'K': 10, 'n_clusters_used': 10, 'silhouette': 0.244, 'calinski_harabasz': 2618.896, 'davies_bouldin': 1.277, 'stability_ari': 0.885, 'stability_sd': 0.051}
+{'unit': 'ballot', 'method': 'kmeans', 'K': 12, 'n_clusters_used': 12, 'silhouette': 0.241, 'calinski_harabasz': 2420.982, 'davies_bouldin': 1.287, 'stability_ari': 0.753, 'stability_sd': 0.081}
+{'unit': 'ballot', 'method': 'kmeans', 'K': 14, 'n_clusters_used': 14, 'silhouette': 0.221, 'calinski_harabasz': 2207.44, 'davies_bouldin': 1.365, 'stability_ari': 0.603, 'stability_sd': 0.1}
+{'unit': 'ballot', 'method': 'gmm', 'K': 4, 'n_clusters_used': 4, 'silhouette': 0.283, 'calinski_harabasz': 3347.418, 'davies_bouldin': 1.193, 'bic': -687851.426, 'stability_ari': 0.889, 'stability_sd': 0.047}
+{'unit': 'ballot', 'method': 'gmm', 'K': 6, 'n_clusters_used': 6, 'silhouette': 0.257, 'calinski_harabasz': 2507.648, 'davies_bouldin': 1.431, 'bic': -764726.894, 'stability_ari': 0.856, 'stability_sd': 0.082}
+{'unit': 'ballot', 'method': 'gmm', 'K': 8, 'n_clusters_used': 8, 'silhouette': 0.214, 'calinski_harabasz': 2316.474, 'davies_bouldin': 1.425, 'bic': -792499.222, 'stability_ari': 0.595, 'stability_sd': 0.134}
+{'unit': 'ballot', 'method': 'gmm', 'K': 10, 'n_clusters_used': 10, 'silhouette': 0.181, 'calinski_harabasz': 2115.654, 'davies_bouldin': 1.71, 'bic': -808355.693, 'stability_ari': 0.649, 'stability_sd': 0.067}
+{'unit': 'ballot', 'method': 'gmm', 'K': 12, 'n_clusters_used': 12, 'silhouette': 0.19, 'calinski_harabasz': 1980.793, 'davies_bouldin': 1.523, 'bic': -821442.913, 'stability_ari': 0.721, 'stability_sd': 0.107}
+{'unit': 'ballot', 'method': 'gmm', 'K': 14, 'n_clusters_used': 14, 'silhouette': 0.192, 'calinski_harabasz': 1859.822, 'davies_bouldin': 1.498, 'bic': -836345.796, 'stability_ari': 0.57, 'stability_sd': 0.061}
+{'unit': 'ballot', 'method': 'ward', 'K': 4, 'n_clusters_used': 4, 'silhouette': 0.331, 'calinski_harabasz': 4084.525, 'davies_bouldin': 1.0, 'stability_ari': 0.893, 'stability_sd': 0.045}
+{'unit': 'ballot', 'method': 'ward', 'K': 6, 'n_clusters_used': 6, 'silhouette': 0.29, 'calinski_harabasz': 3344.296, 'davies_bouldin': 1.184, 'stability_ari': 0.54, 'stability_sd': 0.113}
+{'unit': 'ballot', 'method': 'ward', 'K': 8, 'n_clusters_used': 8, 'silhouette': 0.265, 'calinski_harabasz': 2887.794, 'davies_bouldin': 1.241, 'stability_ari': 0.438, 'stability_sd': 0.029}
+{'unit': 'ballot', 'method': 'ward', 'K': 10, 'n_clusters_used': 10, 'silhouette': 0.252, 'calinski_harabasz': 2533.074, 'davies_bouldin': 1.236, 'stability_ari': 0.487, 'stability_sd': 0.017}
+{'unit': 'ballot', 'method': 'ward', 'K': 12, 'n_clusters_used': 12, 'silhouette': 0.233, 'calinski_harabasz': 2321.349, 'davies_bouldin': 1.351, 'stability_ari': 0.539, 'stability_sd': 0.026}
+{'unit': 'ballot', 'method': 'ward', 'K': 14, 'n_clusters_used': 14, 'silhouette': 0.228, 'calinski_harabasz': 2109.999, 'davies_bouldin': 1.384, 'stability_ari': 0.604, 'stability_sd': 0.06}
+{'unit': 'ballot', 'method': 'nmf', 'K': 4, 'n_clusters_used': 4, 'silhouette': 0.324, 'calinski_harabasz': 3995.904, 'davies_bouldin': 1.029, 'nmf_recon_err': 40.379, 'stability_ari': 0.988, 'stability_sd': 0.004}
+{'unit': 'ballot', 'method': 'nmf', 'K': 6, 'n_clusters_used': 6, 'silhouette': 0.279, 'calinski_harabasz': 2973.04, 'davies_bouldin': 1.138, 'nmf_recon_err': 23.561, 'stability_ari': 0.987, 'stability_sd': 0.003}
+{'unit': 'ballot', 'method': 'nmf', 'K': 8, 'n_clusters_used': 8, 'silhouette': 0.256, 'calinski_harabasz': 2453.496, 'davies_bouldin': 1.215, 'nmf_recon_err': 6.112, 'stability_ari': 0.992, 'stability_sd': 0.002}
+[settlement] 11791 unit-elections
+{'unit': 'settlement', 'method': 'kmeans', 'K': 4, 'n_clusters_used': 4, 'silhouette': 0.375, 'calinski_harabasz': 3897.56, 'davies_bouldin': 1.001, 'stability_ari': 0.992, 'stability_sd': 0.003}
+{'unit': 'settlement', 'method': 'kmeans', 'K': 6, 'n_clusters_used': 6, 'silhouette': 0.331, 'calinski_harabasz': 3459.983, 'davies_bouldin': 0.988, 'stability_ari': 0.819, 'stability_sd': 0.126}
+{'unit': 'settlement', 'method': 'kmeans', 'K': 8, 'n_clusters_used': 8, 'silhouette': 0.306, 'calinski_harabasz': 3027.611, 'davies_bouldin': 1.179, 'stability_ari': 0.766, 'stability_sd': 0.124}
+{'unit': 'settlement', 'method': 'kmeans', 'K': 10, 'n_clusters_used': 10, 'silhouette': 0.251, 'calinski_harabasz': 2670.369, 'davies_bouldin': 1.331, 'stability_ari': 0.823, 'stability_sd': 0.02}
+{'unit': 'settlement', 'method': 'kmeans', 'K': 12, 'n_clusters_used': 12, 'silhouette': 0.236, 'calinski_harabasz': 2432.655, 'davies_bouldin': 1.39, 'stability_ari': 0.651, 'stability_sd': 0.008}
+{'unit': 'settlement', 'method': 'kmeans', 'K': 14, 'n_clusters_used': 14, 'silhouette': 0.212, 'calinski_harabasz': 2226.208, 'davies_bouldin': 1.445, 'stability_ari': 0.728, 'stability_sd': 0.008}
+{'unit': 'settlement', 'method': 'gmm', 'K': 4, 'n_clusters_used': 4, 'silhouette': 0.334, 'calinski_harabasz': 3520.939, 'davies_bouldin': 1.126, 'bic': -207792.211, 'stability_ari': 0.862, 'stability_sd': 0.008}
+{'unit': 'settlement', 'method': 'gmm', 'K': 6, 'n_clusters_used': 6, 'silhouette': 0.286, 'calinski_harabasz': 3016.879, 'davies_bouldin': 1.301, 'bic': -220824.258, 'stability_ari': 0.74, 'stability_sd': 0.022}
+{'unit': 'settlement', 'method': 'gmm', 'K': 8, 'n_clusters_used': 8, 'silhouette': 0.249, 'calinski_harabasz': 2251.587, 'davies_bouldin': 1.585, 'bic': -233957.167, 'stability_ari': 0.682, 'stability_sd': 0.142}
+{'unit': 'settlement', 'method': 'gmm', 'K': 10, 'n_clusters_used': 10, 'silhouette': 0.237, 'calinski_harabasz': 2061.28, 'davies_bouldin': 1.484, 'bic': -238509.222, 'stability_ari': 0.677, 'stability_sd': 0.052}
+{'unit': 'settlement', 'method': 'gmm', 'K': 12, 'n_clusters_used': 12, 'silhouette': 0.185, 'calinski_harabasz': 1807.544, 'davies_bouldin': 1.629, 'bic': -241943.532, 'stability_ari': 0.674, 'stability_sd': 0.04}
+{'unit': 'settlement', 'method': 'gmm', 'K': 14, 'n_clusters_used': 14, 'silhouette': 0.18, 'calinski_harabasz': 1777.034, 'davies_bouldin': 1.765, 'bic': -243748.432, 'stability_ari': 0.553, 'stability_sd': 0.03}
+{'unit': 'settlement', 'method': 'ward', 'K': 4, 'n_clusters_used': 4, 'silhouette': 0.383, 'calinski_harabasz': 3869.7, 'davies_bouldin': 0.994}
+{'unit': 'settlement', 'method': 'ward', 'K': 6, 'n_clusters_used': 6, 'silhouette': 0.307, 'calinski_harabasz': 3438.782, 'davies_bouldin': 1.207}
+{'unit': 'settlement', 'method': 'ward', 'K': 8, 'n_clusters_used': 8, 'silhouette': 0.305, 'calinski_harabasz': 2981.686, 'davies_bouldin': 1.264}
+{'unit': 'settlement', 'method': 'ward', 'K': 10, 'n_clusters_used': 10, 'silhouette': 0.247, 'calinski_harabasz': 2625.461, 'davies_bouldin': 1.372}
+{'unit': 'settlement', 'method': 'ward', 'K': 12, 'n_clusters_used': 12, 'silhouette': 0.232, 'calinski_harabasz': 2378.391, 'davies_bouldin': 1.414}
+{'unit': 'settlement', 'method': 'ward', 'K': 14, 'n_clusters_used': 14, 'silhouette': 0.227, 'calinski_harabasz': 2130.368, 'davies_bouldin': 1.417}
+{'unit': 'settlement', 'method': 'nmf', 'K': 4, 'n_clusters_used': 4, 'silhouette': 0.288, 'calinski_harabasz': 3318.908, 'davies_bouldin': 1.123, 'nmf_recon_err': 23.166, 'stability_ari': 0.95, 'stability_sd': 0.034}
+{'unit': 'settlement', 'method': 'nmf', 'K': 6, 'n_clusters_used': 6, 'silhouette': 0.32, 'calinski_harabasz': 3194.063, 'davies_bouldin': 1.161, 'nmf_recon_err': 9.686, 'stability_ari': 0.99, 'stability_sd': 0.003}
+{'unit': 'settlement', 'method': 'nmf', 'K': 8, 'n_clusters_used': 8, 'silhouette': 0.311, 'calinski_harabasz': 2460.879, 'davies_bouldin': 1.138, 'nmf_recon_err': 4.085, 'stability_ari': 0.99, 'stability_sd': 0.009}

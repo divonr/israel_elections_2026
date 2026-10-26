@@ -1,0 +1,85 @@
+
+(A) industry bias regression (log poll/actual; negative = polls UNDER-estimate)
+                    coef     se      p
+C(family)[ARAB]   -0.029  0.086  0.739
+C(family)[CENTER]  0.064  0.074  0.388
+C(family)[LEFT]    0.106  0.064  0.095
+C(family)[LIKUD]  -0.048  0.047  0.301
+C(family)[NATREL]  0.199  0.084  0.017
+C(family)[SHAS]   -0.040  0.068  0.552
+C(family)[UTJ]     0.008  0.026  0.764
+C(family)[YB]      0.004  0.064  0.949
+new_list           0.014  0.055  0.798
+small             -0.014  0.094  0.883
+   family  n_elections  mean_log_err  pct_bias      t    p_t  p_wilcoxon
+0    ARAB            8        -0.040    -3.922 -0.909  0.394       0.383
+1  CENTER            8        -0.044    -4.300 -1.276  0.243       0.461
+2    LEFT            8         0.105    11.082  1.408  0.202       0.195
+3   LIKUD            8        -0.048    -4.697 -1.087  0.313       0.383
+4  NATREL            8         0.180    19.681  2.885  0.023       0.055
+5    SHAS            8        -0.107   -10.183 -2.273  0.057       0.055
+6     UTJ            8         0.006     0.604  0.250  0.810       0.742
+7      YB            7        -0.002    -0.184 -0.031  0.976       0.578
+
+(B) house-effect persistence: {'n_pairs': 460, 'pearson_r': np.float64(0.162), 'p_param': np.float64(0.0), 'p_permutation': np.float64(0.011), 'carryover_slope': np.float64(0.294), 'slope_se': np.float64(0.084)}
+   family     n      r
+0    ARAB  59.0 -0.059
+1  CENTER  59.0  0.436
+2    LEFT  59.0 -0.050
+3   LIKUD  59.0  0.131
+4  NATREL  59.0  0.298
+5    SHAS  59.0  0.622
+6     UTJ  59.0 -0.003
+7      YB  47.0 -0.412
+  backtest K18 done
+  backtest K19 done
+  backtest K20 done
+  backtest K21 done
+  backtest K22 done
+  backtest K23 done
+  backtest K24 done
+  backtest K25 done
+
+(D) backtest (sum |seat error| per election, LOEO):
+                                               mean_score  median      sd  mean_diff_vs_raw  wins  losses  p_wilcoxon  p_signflip
+method                                                                                                                           
+M3_comp_pollster_lam0.02_ward_K4_settlement         18.00    18.0  10.029             -2.00     4       2       0.125       0.219
+M3_comp_industry_ward_K8_ballot                     18.25    16.0   9.468             -1.75     4       2       0.219       0.281
+M3_comp_industry_ward_K4_settlement                 18.25    18.0   9.347             -1.75     5       2       0.266       0.266
+M3_comp_pollster_lam0.1_ward_K4_settlement          18.25    18.0   9.765             -1.75     4       2       0.219       0.281
+M3_comp_pollster_lam0.1_ward_K8_ballot              18.25    16.0   9.468             -1.75     4       2       0.219       0.281
+M3_comp_pollster_lam0.02_gmm_K12_settlement         18.50    17.0   9.181             -1.50     5       1       0.375       0.375
+M3_comp_industry_nmf_K6_ballot                      18.50    18.0   9.426             -1.50     4       1       0.312       0.312
+M3_comp_industry_gmm_K10_settlement                 18.50    17.0  10.836             -1.50     4       2       0.469       0.531
+M3_comp_pollster_lam0.02_ward_K6_ballot             18.50    18.0  10.296             -1.50     5       2       0.266       0.266
+M3_comp_pollster_lam0.1_gmm_K4_settlement           18.50    17.0   9.426             -1.50     4       2       0.375       0.375
+M3_comp_pollster_lam0.1_kmeans_K4_settlement        18.50    18.0   9.118             -1.50     4       2       0.375       0.375
+M3_comp_pollster_lam0.1_kmeans_K4_ballot            18.50    17.0   9.899             -1.50     4       0       0.125       0.125
+M3_comp_pollster_lam0.02_ward_K8_ballot             18.50    16.0  10.014             -1.50     4       2       0.219       0.281
+M3_comp_pollster_lam0.1_gmm_K10_settlement          18.50    17.0  10.836             -1.50     4       2       0.469       0.531
+M3_comp_pollster_lam0.02_gmm_K4_settlement          18.50    17.0   9.426             -1.50     4       2       0.375       0.375
+M3_comp_industry_nmf_K4_settlement                  18.50    17.0   8.668             -1.50     4       2       0.406       0.406
+M3_comp_pollster_lam0.02_nmf_K4_ballot              18.75    17.0   9.968             -1.25     3       0       0.250       0.250
+M3_comp_pollster_lam0.02_kmeans_K4_ballot           18.75    17.0  10.138             -1.25     4       1       0.312       0.312
+M3_comp_pollster_lam0.02_kmeans_K6_ballot           18.75    17.0  10.195             -1.25     5       2       0.359       0.344
+M3_comp_pollster_lam0.1_gmm_K6_ballot               18.75    17.0  10.846             -1.25     4       2       0.625       0.625
+M3_comp_pollster_lam0.1_gmm_K8_settlement           18.75    17.0  10.846             -1.25     4       3       0.562       0.625
+M3_comp_pollster_lam0.1_nmf_K4_settlement           18.75    17.0   9.254             -1.25     4       2       0.406       0.438
+M3_comp_pollster_lam0.1_kmeans_K6_ballot            18.75    17.0  10.195             -1.25     5       2       0.359       0.344
+M3_comp_pollster_lam0.02_nmf_K4_settlement          18.75    17.0   9.254             -1.25     4       2       0.406       0.438
+M3_comp_pollster_lam0.02_kmeans_K4_settlement       18.75    18.0   9.130             -1.25     4       2       0.531       0.500
+M3_comp_pollster_lam0.02_gmm_K4_ballot              18.75    17.0  10.740             -1.25     5       2       0.250       0.281
+M3_comp_industry_gmm_K8_settlement                  18.75    17.0  10.846             -1.25     4       3       0.562       0.625
+M3_comp_industry_gmm_K4_settlement                  18.75    17.0   9.254             -1.25     4       3       0.516       0.500
+M3_comp_industry_kmeans_K6_ballot                   18.75    17.0  10.195             -1.25     5       2       0.359       0.344
+M3_comp_industry_kmeans_K4_settlement               18.75    18.0   9.618             -1.25     5       3       0.562       0.500
+M3_comp_industry_nmf_K8_settlement                  18.75    16.0  10.471             -1.25     3       2       0.625       0.625
+M1s_industry_family_shrunk                          18.75    18.0  10.195             -1.25     4       1       0.312       0.312
+M3_comp_pollster_lam0.1_nmf_K4_ballot               18.75    17.0   9.558             -1.25     3       0       0.250       0.250
+M3_comp_pollster_lam0.1_nmf_K6_ballot               18.75    18.0   9.192             -1.25     3       1       0.500       0.500
+M3_comp_pollster_lam0.1_gmm_K4_ballot               18.75    17.0  10.740             -1.25     5       2       0.250       0.281
+M3_comp_pollster_lam0.02_gmm_K6_ballot              18.75    17.0  10.846             -1.25     4       2       0.625       0.625
+M3_comp_pollster_lam0.02_gmm_K8_settlement          18.75    17.0  10.846             -1.25     4       3       0.562       0.625
+M3_comp_pollster_lam0.1_ward_K4_ballot              18.75    17.0  10.138             -1.25     4       1       0.312       0.312
+M3_comp_pollster_lam0.02_gmm_K10_settlement         19.00    17.0  10.690             -1.00     4       3       0.688       0.734
+M2h_pollster_house_half                             19.00    18.0   9.739             -1.00     4       3       0.766       0.656

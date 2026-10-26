@@ -1,0 +1,77 @@
+
+(A) industry bias regression (log poll/actual; negative = polls UNDER-estimate)
+                    coef     se      p
+C(family)[ARAB]   -0.029  0.086  0.739
+C(family)[CENTER]  0.064  0.074  0.388
+C(family)[LEFT]    0.106  0.064  0.095
+C(family)[LIKUD]  -0.048  0.047  0.301
+C(family)[NATREL]  0.199  0.084  0.017
+C(family)[SHAS]   -0.040  0.068  0.552
+C(family)[UTJ]     0.008  0.026  0.764
+C(family)[YB]      0.004  0.064  0.949
+new_list           0.014  0.055  0.798
+small             -0.014  0.094  0.883
+   family  n_elections  mean_log_err  pct_bias      t    p_t  p_wilcoxon
+0    ARAB            8        -0.040    -3.922 -0.909  0.394       0.383
+1  CENTER            8        -0.044    -4.300 -1.276  0.243       0.461
+2    LEFT            8         0.105    11.082  1.408  0.202       0.195
+3   LIKUD            8        -0.048    -4.697 -1.087  0.313       0.383
+4  NATREL            8         0.180    19.681  2.885  0.023       0.055
+5    SHAS            8        -0.107   -10.183 -2.273  0.057       0.055
+6     UTJ            8         0.006     0.604  0.250  0.810       0.742
+7      YB            7        -0.002    -0.184 -0.031  0.976       0.578
+(1) pollster x family bias (main firms, %):
+family          ARAB  CENTER  LEFT  LIKUD  NATREL  SHAS  UTJ    YB
+lineage                                                           
+Dialog_Fuchs     0.8    -2.7  12.3   -7.0    16.9 -12.6 -2.2  -5.6
+DirectPolls      0.2    -4.3   7.5   -2.2    10.7  -8.5 -1.9  10.7
+Geocartography  -6.6   -15.2  13.5   -1.4    33.0   3.1  9.5  16.3
+Kantar          -3.4    -3.2  11.8   -5.1    17.8 -11.3  0.2   3.8
+Lazar_Panels    -3.6    -4.4   9.1   -5.2    22.2 -12.2 -1.7   2.9
+MaagarMochot     1.0    -5.9  10.0   -4.6    20.9  -6.3  2.2   0.3
+Midgam          -5.4    -4.3  16.0   -6.7    16.8 -12.2 -0.2   1.6
+MidgamProject   -4.8    -6.0  26.4   -9.6    38.9 -28.6 -4.4  -6.6
+Smith           -1.1    -5.2   9.1   -5.4    16.4  -4.0 -2.6  -0.2
+
+(2) bias+slope: industry slope b = 0.843
+       lineage     b
+      INDUSTRY 0.843
+  Dialog_Fuchs 0.844
+   DirectPolls 0.845
+Geocartography 0.831
+        Kantar 0.834
+  Lazar_Panels 0.848
+  MaagarMochot 0.840
+        Midgam 0.852
+ MidgamProject 0.843
+         Smith 0.848
+calibration regression (truth on poll): industry slope d = 0.988 | intercepts: {'LIKUD': np.float64(0.028), 'SHAS': np.float64(0.025), 'UTJ': np.float64(-0.045), 'NATREL': np.float64(-0.234), 'YB': np.float64(-0.053), 'CENTER': np.float64(-0.044), 'LEFT': np.float64(-0.152), 'ARAB': np.float64(-0.013)}
+                 method  mean  wins  losses  p_wilcoxon
+      M7_calib_industry 18.75     3       3       0.656
+ M7_calib_pollster_lam2 19.00     2       3       0.812
+M7_calib_pollster_lam50 19.00     3       3       0.531
+M7_calib_pollster_lam10 19.25     2       3       0.625
+         M0_raw_average 20.00     0       0         NaN
+      M6_slope_industry 25.75     1       6       0.109
+ M6_slope_pollster_lam2 26.00     1       6       0.062
+M6_slope_pollster_lam10 26.00     1       6       0.047
+M6_slope_pollster_lam50 26.00     1       6       0.047
+  composition profiles nmf K4 ballot done
+  composition profiles nmf K4 settlement done
+  composition profiles nmf K6 ballot done
+  composition profiles nmf K6 settlement done
+  composition profiles nmf K8 ballot done
+  composition profiles nmf K8 settlement done
+
+(3) composition-implied pollster family bias (%, avg of NMF cfgs):
+family          ARAB  CENTER  LEFT  LIKUD  NATREL  SHAS  UTJ   YB
+lineage                                                          
+Dialog_Fuchs    -5.4     0.7   7.3   -5.3    14.7  -7.4 -4.9  1.3
+DirectPolls     -9.4     0.0   5.9   -4.1    16.2  -5.7 -3.7  2.2
+Geocartography  -9.2    -1.1   4.8   -4.1    17.6  -4.8 -2.0  2.1
+Kantar          -8.7     0.6   6.9   -4.7    15.7  -6.5 -4.0  1.8
+Lazar_Panels    -8.0     0.3   6.6   -4.8    16.9  -6.9 -5.1  1.7
+MaagarMochot   -20.6     0.9   6.6   -3.0    18.8  -4.1 -1.6  3.5
+Midgam         -10.4     1.7   8.3   -5.2    16.0  -7.5 -4.7  1.5
+MidgamProject   -8.8     0.4   6.9   -4.9    18.7  -7.6 -6.8  1.7
+Smith           -6.9    -0.7   5.2   -4.3    16.6  -5.7 -4.1  1.9

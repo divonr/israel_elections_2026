@@ -1,0 +1,56 @@
+[ballot] 100427 unit-elections
+{'unit': 'ballot', 'method': 'kmeans', 'K': 4, 'n_clusters_used': 4, 'silhouette': 0.33, 'calinski_harabasz': 3989.924, 'davies_bouldin': 1.02, 'stability_ari': 0.98, 'stability_sd': 0.011}
+{'unit': 'ballot', 'method': 'kmeans', 'K': 6, 'n_clusters_used': 6, 'silhouette': 0.302, 'calinski_harabasz': 3305.579, 'davies_bouldin': 1.162, 'stability_ari': 0.834, 'stability_sd': 0.177}
+{'unit': 'ballot', 'method': 'kmeans', 'K': 8, 'n_clusters_used': 8, 'silhouette': 0.272, 'calinski_harabasz': 2897.21, 'davies_bouldin': 1.239, 'stability_ari': 0.834, 'stability_sd': 0.127}
+{'unit': 'ballot', 'method': 'kmeans', 'K': 10, 'n_clusters_used': 10, 'silhouette': 0.251, 'calinski_harabasz': 2558.145, 'davies_bouldin': 1.305, 'stability_ari': 0.866, 'stability_sd': 0.051}
+{'unit': 'ballot', 'method': 'kmeans', 'K': 12, 'n_clusters_used': 12, 'silhouette': 0.241, 'calinski_harabasz': 2372.118, 'davies_bouldin': 1.274, 'stability_ari': 0.75, 'stability_sd': 0.104}
+{'unit': 'ballot', 'method': 'kmeans', 'K': 14, 'n_clusters_used': 14, 'silhouette': 0.219, 'calinski_harabasz': 2171.435, 'davies_bouldin': 1.371, 'stability_ari': 0.748, 'stability_sd': 0.109}
+{'unit': 'ballot', 'method': 'gmm', 'K': 4, 'n_clusters_used': 4, 'silhouette': 0.282, 'calinski_harabasz': 3269.086, 'davies_bouldin': 1.182, 'bic': -688167.22, 'stability_ari': 0.93, 'stability_sd': 0.023}
+{'unit': 'ballot', 'method': 'gmm', 'K': 6, 'n_clusters_used': 6, 'silhouette': 0.256, 'calinski_harabasz': 2416.054, 'davies_bouldin': 1.457, 'bic': -763768.876, 'stability_ari': 0.91, 'stability_sd': 0.015}
+{'unit': 'ballot', 'method': 'gmm', 'K': 8, 'n_clusters_used': 8, 'silhouette': 0.224, 'calinski_harabasz': 2175.679, 'davies_bouldin': 1.384, 'bic': -790147.941, 'stability_ari': 0.452, 'stability_sd': 0.116}
+{'unit': 'ballot', 'method': 'gmm', 'K': 10, 'n_clusters_used': 10, 'silhouette': 0.201, 'calinski_harabasz': 1953.168, 'davies_bouldin': 1.486, 'bic': -805073.507, 'stability_ari': 0.594, 'stability_sd': 0.027}
+{'unit': 'ballot', 'method': 'gmm', 'K': 12, 'n_clusters_used': 12, 'silhouette': 0.204, 'calinski_harabasz': 1868.534, 'davies_bouldin': 1.356, 'bic': -821294.527, 'stability_ari': 0.721, 'stability_sd': 0.014}
+{'unit': 'ballot', 'method': 'gmm', 'K': 14, 'n_clusters_used': 14, 'silhouette': 0.191, 'calinski_harabasz': 1734.116, 'davies_bouldin': 1.388, 'bic': -829087.601, 'stability_ari': 0.662, 'stability_sd': 0.093}
+{'unit': 'ballot', 'method': 'ward', 'K': 4, 'n_clusters_used': 4, 'silhouette': 0.329, 'calinski_harabasz': 3972.86, 'davies_bouldin': 1.033, 'stability_ari': 0.936, 'stability_sd': 0.013}
+{'unit': 'ballot', 'method': 'ward', 'K': 6, 'n_clusters_used': 6, 'silhouette': 0.251, 'calinski_harabasz': 3238.414, 'davies_bouldin': 1.323, 'stability_ari': 0.525, 'stability_sd': 0.023}
+{'unit': 'ballot', 'method': 'ward', 'K': 8, 'n_clusters_used': 8, 'silhouette': 0.276, 'calinski_harabasz': 2792.43, 'davies_bouldin': 1.286, 'stability_ari': 0.544, 'stability_sd': 0.029}
+{'unit': 'ballot', 'method': 'ward', 'K': 10, 'n_clusters_used': 10, 'silhouette': 0.24, 'calinski_harabasz': 2537.831, 'davies_bouldin': 1.306, 'stability_ari': 0.59, 'stability_sd': 0.028}
+{'unit': 'ballot', 'method': 'ward', 'K': 12, 'n_clusters_used': 12, 'silhouette': 0.223, 'calinski_harabasz': 2295.225, 'davies_bouldin': 1.327, 'stability_ari': 0.549, 'stability_sd': 0.074}
+{'unit': 'ballot', 'method': 'ward', 'K': 14, 'n_clusters_used': 14, 'silhouette': 0.222, 'calinski_harabasz': 2134.132, 'davies_bouldin': 1.365, 'stability_ari': 0.542, 'stability_sd': 0.033}
+{'unit': 'ballot', 'method': 'nmf', 'K': 4, 'n_clusters_used': 4, 'silhouette': 0.294, 'calinski_harabasz': 3318.508, 'davies_bouldin': 1.058, 'nmf_recon_err': np.float64(40.152), 'stability_ari': 0.974, 'stability_sd': 0.008}
+{'unit': 'ballot', 'method': 'nmf', 'K': 6, 'n_clusters_used': 6, 'silhouette': 0.19, 'calinski_harabasz': 2379.402, 'davies_bouldin': 1.356, 'nmf_recon_err': np.float64(23.589), 'stability_ari': 0.531, 'stability_sd': 0.316}
+{'unit': 'ballot', 'method': 'nmf', 'K': 8, 'n_clusters_used': 8, 'silhouette': 0.175, 'calinski_harabasz': 2075.094, 'davies_bouldin': 1.485, 'nmf_recon_err': np.float64(6.125), 'stability_ari': 0.867, 'stability_sd': 0.052}
+Traceback (most recent call last):
+  File "C:\Users\DELL\Documents\סקרים בחירות 2026\forecast_k26\code\05_clustering.py", line 149, in <module>
+    main()
+    ~~~~^^
+  File "C:\Users\DELL\Documents\סקרים בחירות 2026\forecast_k26\code\05_clustering.py", line 124, in main
+    lab, model = fit_predict(method, k, Z, S, fit_idx)
+                 ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\Documents\סקרים בחירות 2026\forecast_k26\code\05_clustering.py", line 81, in fit_predict
+    m = NMF(k, init="nndsvda", random_state=0, max_iter=400).fit(S[fit_idx])
+  File "C:\Users\DELL\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\sklearn\decomposition\_nmf.py", line 1285, in fit
+    self.fit_transform(X, **params)
+    ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\sklearn\utils\_set_output.py", line 327, in wrapped
+    data_to_wrap = f(self, X, *args, **kwargs)
+  File "C:\Users\DELL\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\sklearn\base.py", line 1403, in wrapper
+    return fit_method(estimator, *args, **kwargs)
+  File "C:\Users\DELL\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\sklearn\decomposition\_nmf.py", line 1621, in fit_transform
+    W, H, n_iter = self._fit_transform(X, W=W, H=H)
+                   ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\sklearn\decomposition\_nmf.py", line 1683, in _fit_transform
+    W, H = self._check_w_h(X, W, H, update_H)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\sklearn\decomposition\_nmf.py", line 1243, in _check_w_h
+    W, H = _initialize_nmf(
+           ~~~~~~~~~~~~~~~^
+        X, self._n_components, init=self.init, random_state=self.random_state
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\DELL\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\sklearn\decomposition\_nmf.py", line 284, in _initialize_nmf
+    raise ValueError(
+    ...<2 lines>...
+    )
+ValueError: init = 'nndsvda' can only be used when n_components <= min(n_samples, n_features)

@@ -1,0 +1,2 @@
+Hebrew-source polls: 299; matched to English Wikipedia: 272 (identical seat tables: 262, mean |diff| 0.06 seats)
+new polls (not in English Wikipedia): {'2009': 1, '2013': 19, '2015': 6, '2021': 1} | of which in the final fortnight: {'2013': 8, '2015': 3, '2021': 1}

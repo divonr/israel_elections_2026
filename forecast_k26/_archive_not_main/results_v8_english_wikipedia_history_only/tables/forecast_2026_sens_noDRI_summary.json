@@ -1,0 +1,38 @@
+{
+ "tag": "sens_noDRI",
+ "n_polls": 27,
+ "n_firms": 8,
+ "expected_abs_error": 19.366,
+ "expected_abs_error_unconstrained_medians": 18.936999999999998,
+ "p_coalition_61": 0.012875,
+ "bloc_median": 51.0,
+ "disagreement_axis": {
+  "LIKUD": -0.152,
+  "YASHAR": 0.028,
+  "TOGETHER": 0.104,
+  "DEMOCRATS": 0.026,
+  "YB": 0.118,
+  "OTZMA": 0.013,
+  "SHAS": -0.078,
+  "UTJ": 0.001,
+  "RZP_ZEHUT": 0.004,
+  "JOINT": 0.042,
+  "RAAM": -0.011,
+  "HENDEL_ZELICHA": 0.145,
+  "AMCHA": 0.15
+ },
+ "settings": {
+  "WINDOW_DAYS": 10,
+  "HALF_LIFE": 4.0,
+  "CORRECTION": "selected",
+  "HOUSE_CARRY": 0.0,
+  "FAMILY_SD": 0.08,
+  "DISAGREE_SCALE": 0.5,
+  "EXCLUDE_FIRMS": [
+   "DRI"
+  ],
+  "FIRM_WEIGHTS": {},
+  "RAW_MODE": "seats",
+  "N_SIM": 8000
+ }
+}

@@ -1,0 +1,5 @@
+06c ok
+06d ok
+07 ok
+07b ok
+chain3 exit 0

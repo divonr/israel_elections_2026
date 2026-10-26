@@ -1,0 +1,182 @@
+﻿election,table_idx,row_idx,date_raw,text
+2013,0,5,2013,2013
+2013,0,9,,
+2013,0,38,2012,2012
+2013,0,53,6 Dec,Atzmaut announces withdrawal
+2013,0,72,25 Oct,Likud and Yisrael Beiteinu announce joint list
+2013,0,83,17 Jul,Kadima leaves the coalition
+2013,0,88,8 May,Kadima joins the coalition
+2013,0,97,27 Mar,Shaul Mofaz wins 2012 Kadima leadership election
+2013,0,103,31 Jan,Benjamin Netanyahu wins 2012 Likud leadership election
+2013,0,114,2011,2011
+2013,0,118,21 Sept,Shelly Yachimovich wins 2011 Israeli Labor Party leadership election
+2013,0,122,,
+2013,1,2,2012,2012
+2013,1,3,27 Mar,Shaul Mofaz wins 2012 Kadima leadership election
+2013,1,7,31 Jan,Benjamin Netanyahu wins 2012 Likud leadership election
+2015,0,6,2015,2015
+2015,0,11,13 Mar,"Deadline for publishing election polls; under Israeli law, publishing election polls in the last five days before an election is prohibited."
+2015,0,35,3 Mar,PM Netanyahu delivers a speech about Iran to a joint meeting of U.S. Congress
+2015,0,45,26 Feb,"Television debate of the leaders of all parties except Likud , Zionist Union , and UTJ"
+2015,0,86,29 Jan,Deadline for parties to submit final Knesset candidate lists to the Central Elections Commission
+2015,0,88,29 Jan,Otzma Yehudit and Yachad reach agreement to run a joint list
+2015,0,97,22 Jan,"United Arab List , Ta'al , Hadash , Balad and Islamic Movement in Israel reach agreement to run as a united list"
+2015,0,114,2014,2014
+2015,0,131,15 Dec,"Former Shas chairman Eli Yishai forms a new party, Yachad"
+2015,0,138,10 Dec,"Labor (led by Isaac Herzog ) and Hatnuah (led by Tzipi Livni ) agree to run on a joint list, called Zionist Union"
+2015,0,141,8 Dec,"19th Knesset dissolved, elections called"
+2015,0,153,2 Dec,Netanyahu dismisses Yair Lapid and Tzipi Livni from the cabinet
+2015,0,158,23 Nov,Coalition crisis begins as PM Netanyahu re-launches the Jewish nation-state bill
+2015,0,174,17 Sept,"Interior minister Gideon Sa'ar , no 2 of the leading Likud party, announces that he will take a timeout from politics"
+2015,0,187,26 Aug,Ceasefire in the 2014 Israel–Gaza conflict
+2015,0,194,7 Jul,Alliance between Likud and Yisrael Beiteinu dissolved
+2015,0,199,10 Mar,Electoral threshold raised from 2% to 3.25%
+2015,0,215,2013,2013
+2019a,0,7,5 Apr,Election silence starting end of Friday before election day.
+2019a,0,72,21 Feb,Deadline for party lists to be submitted
+2019a,0,73,21 Feb,The Joint List splits up. Hadash joins Ta'al as Balad runs with Ra'am .
+2019a,0,74,21 Feb,Yesh Atid and Hosen L'Yisrael reach agreement to run as one list called Blue & White
+2019a,0,75,20 Feb,"The Jewish Home , Tkuma and Otzma Yehudit reach agreement to run as one list called URWP"
+2019a,1,4,18 Feb,Hatnuah announces withdrawal
+2019a,1,9,14 Feb,Meretz holds its primaries
+2019a,1,14,11 Feb,Labor holds its primaries
+2019a,1,23,5 Feb,Likud holds its primaries
+2019a,1,25,3 Feb,The Jewish Home chooses Rabbi Rafi Peretz as its leader
+2019a,1,32,29 Jan,Moshe Feiglin 's Zehut party holds Israel's first open primaries
+2019a,1,33,29 Jan,Hosen L'Yisrael announces they will run a joint list with Moshe Ya'alon 's Telem party
+2019a,1,40,8 Jan,Ta'al withdraws from the Joint List
+2019a,2,11,1 Jan,Labor splits the Zionist Union alliance with Hatnuah
+2019a,3,7,29 Dec,"Ayelet Shaked and Naftali Bennett break away from The Jewish Home to create a new party, the New Right"
+2019a,3,8,27 Dec,"Former IDF General Chief of Staff Benny Gantz registers a new party, Hosen L'Yisrael"
+2019a,3,11,26 Dec,The government is dissolved
+2019a,3,19,24 Dec,Prime Minister Netanyahu calls the election for 9 April 2019
+2019a,3,31,14 Nov,"Yisrael Beiteinu leaves the coalition government, down to just 61 MKs in support"
+2019b,0,7,13 Sep,Election silence starting end of Friday before election day.
+2019b,0,28,29 Aug,Zehut announces withdrawal
+2019b,0,47,1 Aug,Deadline for submitting the candidate lists
+2019b,0,50,31 Jul,Kulanu officially dissolves and its remaining members join Likud
+2019b,0,52,29 Jul,The URWP and the New Right agree to run together as Yamina
+2019b,1,8,25 Jul,"Meretz , IDP and the Green Movement agree to run together as the Democratic Union"
+2019b,2,4,21 Jul,Ayelet Shaked becomes the leader of the New Right
+2019b,2,9,18 Jul,Labor and Gesher agree to run on a joint list
+2019b,3,7,9 Jul,The Jewish Home and Tkuma agree to run together again as the URWP
+2019b,3,11,2 Jul,Labor elects Amir Peretz as its leader
+2019b,3,12,27 Jun,Meretz elects Nitzan Horowitz as its leader
+2019b,3,14,26 Jun,Former PM Ehud Barak announces the founding of the Israel Democratic Party
+2019b,3,15,25 Jun,Otzma Yehudit leaves the Union of the Right-Wing Parties
+2019b,3,16,20 Jun,Hadash – Ta'al and Ra'am – Balad agree to re-establish the Joint List
+2019b,4,10,30 May,The 21st Knesset is dissolved
+2019b,4,11,28 May,Kulanu and Likud agree to run on a joint list
+2020,0,7,28 Feb 2020,Election silence starting end of Friday before election day
+2020,0,43,28 Jan 2020,Announcement of Trump's Peace Plan
+2020,0,52,16 Jan 2020 (midnight),Deadline to submit the candidate lists
+2020,0,53,15 Jan 2020,"Yamina alliance reestablished, United Jewish Home dissolves"
+2020,0,54,15 Jan 2020,Green Party withdrawal
+2020,1,4,14 Jan 2020 (noon),Beginning of registration for candidate lists
+2020,1,5,14 Jan 2020,New Right and National Union merger
+2020,1,9,13 Jan 2020,"Labor - Gesher and Meretz merger, Democratic Union dissolves"
+2020,2,18,7 Jan 2020,Meretz and Democratic Choice agree to run together as the Democratic Union list
+2020,2,26,26 Dec 2019,Likud reelects Benjamin Netanyahu as its leader
+2020,2,27,20 Dec 2019,The Jewish Home and Otzma Yehudit agree to run together on a list called the United Jewish Home
+2020,2,29,19 Dec 2019,Stav Shaffir announces independent run of the Green Party
+2020,3,8,12 Dec 2019,The Knesset is dissolved
+2020,3,25,21 Nov 2019,Attorney General indicts incumbent PM Benjamin Netanyahu on corruption charges
+2020,3,30,10 Oct 2019,Yamina splits into two factions
+2021,0,7,19 Mar 21,Election silence starting end of Friday before election day
+2021,0,53,4 Feb 21,Deadline for submitting the lists of candidates
+2021,0,54,4 Feb 21,Gesher announces a joint run with Likud
+2021,0,55,4 Feb 21,"The Israelis , Tnufa and The Jewish Home drop out of the race"
+2021,1,4,3 Feb 21,Religious Zionist Party announces a joint list with Noam - Otzma Yehudit
+2021,1,5,3 Feb 21,Ta'al rejoins the Joint List ; Ra'am confirms independent run
+2021,1,9,1 Feb 21,Telem drops out of the race
+2021,1,12,31 Jan 21,Noam and Otzma Yehudit announce a joint list
+2021,1,13,28 Jan 21,Ra'am and Ta'al officially split from the Joint List
+2021,2,8,24 Jan 21,Merav Michaeli is elected chairwoman of the Israeli Labor Party
+2021,2,10,20 Jan 21,Religious Zionist Party officially splits from Yamina
+2021,2,11,19 Jan 21,Hagit Moshe is elected chairwoman of The Jewish Home
+2021,2,18,10 Jan 21,Yesh Atid and Telem split
+2021,3,9,5 Jan 21,"Jewish Home leader, Rafi Peretz , announces his retirement from politics"
+2021,3,10,4 Jan 21,"Former Mossad head Danny Yatom announces his intention to form a new political party for retirees, later named the Israeli Veterans Party"
+2021,3,15,30 Dec 20,Former accountant general Yaron Zelekha forms the New Economic Party
+2021,3,17,29 Dec 20,Tel Aviv Mayor Ron Huldai forms The Israelis
+2021,3,20,24 Dec 20,"MK Ofer Shelah leaves Yesh Atid with plans to start his own political party, later named Tnufa"
+2021,4,4,23 Dec 20,Likud Minister Ze'ev Elkin and MK Sharren Haskel join New Hope
+2021,4,5,23 Dec 20,Minister Amir Peretz announces that he will not run for Labor Party leadership
+2021,4,6,23 Dec 20,The 23rd Knesset is dispersed
+2021,4,10,22 Dec 20,Likud MK Michal Shir joins New Hope
+2021,4,17,15 Dec 20,Likud MK Yifat Shasha-Biton joins New Hope
+2021,4,23,9 Dec 20,Derekh Eretz MKs Zvi Hauser and Yoaz Hendel join New Hope
+2021,4,26,8 Dec 20,Likud MK Gideon Sa'ar forms New Hope
+2021,5,61,14 Jul 20,The Jewish Home splits from Yamina
+2021,5,73,17 May 20,New government is formed
+2021,5,74,14 May 20,The Jewish Home unofficially splits from Yamina
+2021,6,8,6 Apr 20,Labor splits from Meretz
+2021,6,10,29 Mar 20,"Israel Resilience Party and Derekh Eretz split from Yesh Atid and Telem , and keep the name Blue and White"
+2021,6,12,26 Mar 20,Yesh Atid and Telem unofficially split from Blue and White
+2021,6,13,23 Mar 20,Gesher splits from Labor and Meretz
+2021,7,5,10 Mar 20,Gesher unofficially splits from Labor and Meretz
+2022,0,10,28 Oct 22,Election silence starting end of Friday before election day
+2022,0,60,15 Sep 22,Deadline for party lists to be submitted
+2022,0,61,15 Sep 22,Joint List splits into Hadash–Ta'al and Balad
+2022,1,5,14 Sep 22,Noam rejoins Religious Zionist Party - Otzma Yehudit
+2022,1,6,13 Sep 22,Zionist Spirit drops out
+2022,1,8,13 Sep 22,Yamina officially announces that it will run as part of The Jewish Home
+2022,1,12,11 Sep 22,"Yamina and Derekh Eretz split, with Ayelet Shaked considering a partnership with Jewish Home and Yoaz Hendel keeping the Zionist Spirit name"
+2022,2,4,4 Sep 22,"MK Abir Kara , formerly of Yamina , forms a new political party called Economic Freedom"
+2022,2,10,28 Aug 22,Noam announces it will run independently
+2022,2,11,26 Aug 22,The Religious Zionist Party and Otzma Yehudit agree on a joint list
+2022,3,7,23 Aug 22,Zehava Gal-On defeats Yair Golan in the Meretz leadership primary
+2022,3,9,15 Aug 22,Otzma Yehudit announces an independent run
+2022,4,6,14 Aug 22,Former IDF Chief of Staff Gadi Eizenkot and former Yamina MK Matan Kahana join Blue and White – New Hope to form the National Unity Party
+2022,4,14,2 Aug 22,Former Yisrael Beiteinu MK Eli Avidar forms a new political party called Free Democratic Israel
+2022,4,19,27 Jul 22,Yamina and Derekh Eretz announce a joint alliance called Zionist Spirit
+2022,4,23,18 Jul 22,Merav Michaeli defeats Eran Hermoni in the Labor leadership primary
+2022,4,28,10 Jul 22,"Blue and White and New Hope announce a joint run, Derekh Eretz left out of the alliance."
+2022,5,4,1 Jul 22,Lapid becomes caretaker prime minister
+2022,5,5,30 Jun 22,The 24th Knesset is dissolved
+2022,5,8,29 Jun 22,PM Bennett announces he will not seek re-election. Interior Minister Shaked replaces him as Yamina leader
+2022,5,15,20 Jun 22,PM Bennett and Alternate PM Lapid agree to dissolve the Knesset
+2022,5,16,13 Jun 22,MK Nir Orbach of Yamina leaves the coalition
+2022,5,22,22 May 22,MK Ghaida Rinawie Zoabi of Meretz returns to the coalition
+2022,5,24,19 May 22,MK Ghaida Rinawie Zoabi of Meretz leaves the coalition
+2022,5,27,25 Apr 22,MK Amichai Chikli ousted from Yamina
+2022,5,34,6 Apr 22,MK Idit Silman of Yamina leaves the coalition
+2022,5,45,2021,2021
+2022,5,69,13 Jun 21,The thirty-sixth government of Israel is sworn in
+2026,1,2,23 Oct,"From 23:59 local time on Friday 23 October until the close of polls on Tuesday 27 October, no new opinion polls may be published"
+2026,1,18,19 Oct,Blue & White withdraws from race
+2026,2,6,16 Oct,Deadline for submission of surplus-vote agreements to the Central Elections Committee
+2026,2,16,11 Oct,Shas and United Torah Judaism sign a surplus-vote agreement
+2026,2,23,6 Oct,Likud and RZP-Zehut sign a surplus-vote agreement
+2026,2,26,2 Oct,"The Supreme Court overturns the decision to disqualify Joint List , Ra'am and Ofer Cassif"
+2026,2,27,2 Oct,Sami Abu Shehadeh submits his withdrawal to the Central Elections Committee after being advised to do so by the Supreme Court
+2026,2,38,24 Sep,"The Central Elections Committee decides not to disqualify The Democrats, Otzma Yehudit and Religious Zionism"
+2026,2,43,23 Sep,"The Central Elections Committee disqualifies Ra'am and Joint List (alongside its candidates Ofer Cassif and Sami Abu Shehadeh ), pending review by the Supreme Court"
+2026,2,55,12 Sep,Joint List and Ra'am sign a surplus-vote agreement
+2026,2,56,10 Sep,"The following pairs of parties sign surplus-vote agreements: Yashar and The Democrats , Together and Yisrael Beiteinu"
+2026,2,66,8 Sep,Final day of submission of candidate lists to the Central Elections Committee
+2026,2,71,7 Sep,First day of submission of candidate lists to the Central Elections Committee
+2026,2,73,6 Sep,"Zionist Home leader Hili Tropper announces he is running with Yashar , dissolving his alliance with The Reservists , which then runs together with the New Economic Party"
+2026,2,74,4 Sep,Unity withdraws from the election
+2026,3,4,3 Sep,Likud MK Tally Gotliv announces she is running with Otzma Yehudit
+2026,3,11,1 Sep,The Religious Zionist Party and Zehut agree to run together as a technical bloc
+2026,3,12,31 Aug,Former Yesh Atid MK Yoav Segalovitz announces he will run with Ra'am as a technical bloc
+2026,3,24,25 Aug,"Ofer Winter forms a new political party, called Amcha Yisrael"
+2026,4,8,22 Aug,Ra'am conducts a primary to select candidates for the election
+2026,4,13,19 Aug,"Hadash , Ta'al and Balad re-form the Joint List"
+2026,4,19,17 Aug,Likud conducts a primary to select candidates for the election
+2026,4,29,9 Aug,Ta'al withdraws from Joint List negotiations after being given the fewest seats on the proposed list
+2026,4,33,6 Aug,"Gilad Erdan and Yuli Edelstein form a new political party, named Unity"
+2026,5,25,20 Jul,The Democrats conduct a primary to select candidates for the election
+2026,5,28,17 Jul,The Knesset approves its dissolution
+2026,5,41,7 Jul,"Yoaz Hendel of The Reservists runs jointly with Hili Tropper under the eventual name ""Zionist Home – The Reservists"""
+2026,6,25,17 Jun,"The Islamabad Memorandum is signed, which aims to end the 2026 Iran war"
+2026,6,34,10 Jun,Hadash–Ta'al and Balad commit to re-form the Joint List and end negotiations with Ra'am
+2026,6,55,16 May,Former Hadash MK Yousef Jabareen is chosen to lead the party's electoral list
+2026,6,59,13 May,"The coalition and opposition submit Knesset dissolution bills, aiming to bring the election date forward"
+2026,6,77,26 Apr,Bennett 2026 and Yesh Atid form the Together alliance under Bennett's leadership
+2026,7,13,16 Apr,2026 Israel–Lebanon ceasefire goes into effect
+2026,7,20,30 Mar,"A new budget is passed, avoiding a snap election"
+2026,7,34,2 Mar,Start of the 2026 Lebanon war
+2026,7,35,28 Feb,Start of the 2026 Iran war
+2026,7,63,22 Jan,"Ra'am , Hadash–Ta'al , and Balad publicly commit to re-establish the Joint List"

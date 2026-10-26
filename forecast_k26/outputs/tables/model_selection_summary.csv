@@ -1,0 +1,10 @@
+method,mean,mean_diff_vs_raw,pct_improvement,wins,losses,p_wilcoxon
+M0_raw_average,20.0,0.0,-0.0,0,0,
+M1s_industry_family_shrunk,18.75,-1.25,6.25,4,1,0.3125
+M2h_pollster_house_half,19.0,-1.0,5.0,4,3,0.765625
+N_nested_best_M3,20.5,0.5,-2.5,2,4,0.78125
+E1_M1s+compAll,18.5,-1.5,7.5,4,2,0.375
+E2_M1s+compNMF,18.75,-1.25,6.25,4,2,0.53125
+E3_M1s+compAll+pollster,18.5,-1.5,7.5,4,2,0.375
+E4_compAll_only,20.0,0.0,-0.0,4,4,1.0
+E5_compNMF_only,19.0,-1.0,5.0,3,2,0.75

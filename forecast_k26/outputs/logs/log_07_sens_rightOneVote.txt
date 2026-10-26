@@ -1,0 +1,16 @@
+                           list             id  raw_poll_avg_share  corrected_share  sim_mean_share  seats_mean  seats_median  p10  p90  p_pass_threshold  FORECAST_SEATS
+                          Likud          LIKUD               16.05            16.67           16.62       21.35          21.0 17.0 25.0              1.00              22
+             Yashar! (Eisenkot)         YASHAR               17.06            17.32           17.18       22.04          22.0 19.0 25.0              1.00              22
+       Together (Bennett-Lapid)       TOGETHER               10.39            10.56           10.60       13.51          13.0 10.0 17.0              1.00              14
+                  The Democrats      DEMOCRATS                7.13             6.74            6.75        8.35           8.0  6.0 10.0              1.00               9
+               Yisrael Beiteinu             YB                6.23             6.17            6.18        7.66           8.0  6.0 10.0              1.00               8
+                  Otzma Yehudit          OTZMA                6.42             5.64            5.66        6.80           7.0  5.0  9.0              1.00               7
+                           Shas           SHAS                6.18             6.59            6.61        8.30           8.0  6.0 10.0              1.00               8
+           United Torah Judaism            UTJ                6.06             6.14            6.15        7.69           8.0  6.0 10.0              1.00               8
+      Religious Zionism & Zehut      RZP_ZEHUT                5.47             4.80            4.81        5.73           6.0  4.0  7.0              0.98               6
+Joint List (Hadash-Ta'al-Balad)          JOINT                7.02             7.44            7.46        9.43           9.0  7.0 12.0              1.00              10
+                          Ra'am           RAAM                4.43             4.69            4.68        5.65           6.0  4.0  7.0              0.98               6
+  Hendel & Zelicha (Reservists) HENDEL_ZELICHA                3.09             3.14            3.30        2.28           0.0  0.0  6.0              0.45               0
+          Amcha Israel (Winter)          AMCHA                2.97             2.61            2.74        1.21           0.0  0.0  5.0              0.26               0
+        Blue & White (withdrew)     BLUE_WHITE                 NaN              NaN             NaN         NaN           NaN  NaN  NaN               NaN               0
+{'tag': 'sens_rightOneVote', 'n_polls': 28, 'n_firms': 9, 'expected_abs_error': 19.57175, 'expected_abs_error_unconstrained_medians': 19.1885, 'p_coalition_61': 0.007125, 'bloc_median': 50.0, 'disagreement_axis': {'LIKUD': -0.161, 'YASHAR': 0.006, 'TOGETHER': 0.146, 'DEMOCRATS': 0.039, 'YB': 0.09, 'OTZMA': 0.011, 'SHAS': -0.059, 'UTJ': 0.016, 'RZP_ZEHUT': -0.059, 'JOINT': 0.046, 'RAAM': 0.008, 'HENDEL_ZELICHA': 0.212, 'AMCHA': 0.207}, 'settings': {'WINDOW_DAYS': 10, 'HALF_LIFE': 4.0, 'CORRECTION': 'selected', 'HOUSE_CARRY': 0.0, 'FAMILY_SD': 0.08, 'DISAGREE_SCALE': 0.5, 'EXCLUDE_FIRMS': [], 'FIRM_WEIGHTS': {'NextData_Filber': 0.3333, 'DirectPolls': 0.3333, 'DRI': 0.3333}, 'RAW_MODE': 'seats', 'N_SIM': 8000}}

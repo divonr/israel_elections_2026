@@ -1,0 +1,36 @@
+
+(A) industry bias regression (log poll/actual; negative = polls UNDER-estimate)
+                    coef     se      p
+C(family)[ARAB]   -0.029  0.086  0.739
+C(family)[CENTER]  0.064  0.074  0.388
+C(family)[LEFT]    0.106  0.064  0.095
+C(family)[LIKUD]  -0.048  0.047  0.301
+C(family)[NATREL]  0.199  0.084  0.017
+C(family)[SHAS]   -0.040  0.068  0.552
+C(family)[UTJ]     0.008  0.026  0.764
+C(family)[YB]      0.004  0.064  0.949
+new_list           0.014  0.055  0.798
+small             -0.014  0.094  0.883
+   family  n_elections  mean_log_err  pct_bias      t    p_t  p_wilcoxon
+0    ARAB            8        -0.040    -3.922 -0.909  0.394       0.383
+1  CENTER            8        -0.044    -4.300 -1.276  0.243       0.461
+2    LEFT            8         0.105    11.082  1.408  0.202       0.195
+3   LIKUD            8        -0.048    -4.697 -1.087  0.313       0.383
+4  NATREL            8         0.180    19.681  2.885  0.023       0.055
+5    SHAS            8        -0.107   -10.183 -2.273  0.057       0.055
+6     UTJ            8         0.006     0.604  0.250  0.810       0.742
+7      YB            7        -0.002    -0.184 -0.031  0.976       0.578
+selection by backtest mean: {'e2': 18.75, 'comp': 19.0, 'm1s': 18.75} -> e2
+E2 log-factors: {'LIKUD': np.float64(0.041), 'SHAS': np.float64(0.068), 'UTJ': np.float64(0.015), 'NATREL': np.float64(-0.128), 'YB': np.float64(-0.008), 'CENTER': np.float64(0.018), 'LEFT': np.float64(-0.054), 'ARAB': np.float64(0.06)}
+  M1s part: {'LIKUD': np.float64(0.034), 'SHAS': np.float64(0.074), 'UTJ': np.float64(-0.005), 'NATREL': np.float64(-0.101), 'YB': np.float64(0.001), 'CENTER': np.float64(0.035), 'LEFT': np.float64(-0.049), 'ARAB': np.float64(0.029)}
+  composition part (=E5): {'LIKUD': np.float64(0.047), 'SHAS': np.float64(0.062), 'UTJ': np.float64(0.036), 'NATREL': np.float64(-0.154), 'YB': np.float64(-0.018), 'CENTER': np.float64(0.001), 'LEFT': np.float64(-0.059), 'ARAB': np.float64(0.09)} sd across NMF cfgs: {'LIKUD': np.float64(0.019), 'SHAS': np.float64(0.012), 'UTJ': np.float64(0.029), 'NATREL': np.float64(0.008), 'YB': np.float64(0.05), 'CENTER': np.float64(0.016), 'LEFT': np.float64(0.02), 'ARAB': np.float64(0.012)}
+  LOEO residuals K18
+  LOEO residuals K19
+  LOEO residuals K20
+  LOEO residuals K21
+  LOEO residuals K22
+  LOEO residuals K23
+  LOEO residuals K24
+  LOEO residuals K25
+total resid sd by size (measured lists): {Interval(0.0, 0.04, closed='right'): 0.356, Interval(0.04, 0.08, closed='right'): 0.182, Interval(0.08, 0.15, closed='right'): 0.184, Interval(0.15, 1.0, closed='right'): 0.114} n: {Interval(0.0, 0.04, closed='right'): 28, Interval(0.04, 0.08, closed='right'): 36, Interval(0.08, 0.15, closed='right'): 16, Interval(0.15, 1.0, closed='right'): 14}
+raw vs corrected mean |log err|: 0.175 0.1691

@@ -1,0 +1,9 @@
+knesset,method,chosen,score
+18,N_nested_best_M3,M3_comp_pollster_lam0.1_ward_K4_settlement,18.0
+19,N_nested_best_M3,M3_comp_industry_nmf_K4_settlement,18.0
+20,N_nested_best_M3,M3_comp_industry_nmf_K4_settlement,20.0
+21,N_nested_best_M3,M3_comp_pollster_lam0.02_nmf_K4_settlement,38.0
+22,N_nested_best_M3,M3_comp_pollster_lam0.02_ward_K8_ballot,14.0
+23,N_nested_best_M3,M3_comp_industry_nmf_K4_settlement,8.0
+24,N_nested_best_M3,M3_comp_industry_gmm_K10_settlement,34.0
+25,N_nested_best_M3,M3_comp_industry_nmf_K4_settlement,16.0

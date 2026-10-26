@@ -1,0 +1,4339 @@
+{
+ "forecast": [
+  {
+   "id": "LIKUD",
+   "name": "Likud",
+   "letters": "מחל",
+   "raw": 17.23,
+   "corrected": 17.89,
+   "median": 23.0,
+   "mean": 22.92,
+   "p10": 19.0,
+   "p90": 27.0,
+   "p_pass": 1.0,
+   "seats": 23,
+   "raw_seats": 23
+  },
+  {
+   "id": "YASHAR",
+   "name": "Yashar! (Eisenkot)",
+   "letters": "דרך",
+   "raw": 16.91,
+   "corrected": 17.13,
+   "median": 22.0,
+   "mean": 21.84,
+   "p10": 19.0,
+   "p90": 25.0,
+   "p_pass": 1.0,
+   "seats": 22,
+   "raw_seats": 22
+  },
+  {
+   "id": "TOGETHER",
+   "name": "Together (Bennett-Lapid)",
+   "letters": "רק",
+   "raw": 9.91,
+   "corrected": 10.05,
+   "median": 13.0,
+   "mean": 12.85,
+   "p10": 10.0,
+   "p90": 16.0,
+   "p_pass": 1.0,
+   "seats": 13,
+   "raw_seats": 13
+  },
+  {
+   "id": "DEMOCRATS",
+   "name": "The Democrats",
+   "letters": "אמת",
+   "raw": 7.04,
+   "corrected": 6.63,
+   "median": 8.0,
+   "mean": 8.23,
+   "p10": 6.0,
+   "p90": 10.0,
+   "p_pass": 1.0,
+   "seats": 8,
+   "raw_seats": 9
+  },
+  {
+   "id": "YB",
+   "name": "Yisrael Beiteinu",
+   "letters": "ל",
+   "raw": 5.98,
+   "corrected": 5.91,
+   "median": 7.0,
+   "mean": 7.35,
+   "p10": 6.0,
+   "p90": 9.0,
+   "p_pass": 0.999,
+   "seats": 8,
+   "raw_seats": 8
+  },
+  {
+   "id": "OTZMA",
+   "name": "Otzma Yehudit",
+   "letters": "ב",
+   "raw": 6.44,
+   "corrected": 5.67,
+   "median": 7.0,
+   "mean": 6.84,
+   "p10": 5.0,
+   "p90": 9.0,
+   "p_pass": 0.999,
+   "seats": 7,
+   "raw_seats": 8
+  },
+  {
+   "id": "SHAS",
+   "name": "Shas",
+   "letters": "שס",
+   "raw": 6.31,
+   "corrected": 6.74,
+   "median": 8.0,
+   "mean": 8.5,
+   "p10": 6.0,
+   "p90": 11.0,
+   "p_pass": 1.0,
+   "seats": 9,
+   "raw_seats": 8
+  },
+  {
+   "id": "UTJ",
+   "name": "United Torah Judaism",
+   "letters": "ג",
+   "raw": 6.04,
+   "corrected": 6.13,
+   "median": 8.0,
+   "mean": 7.67,
+   "p10": 6.0,
+   "p90": 10.0,
+   "p_pass": 1.0,
+   "seats": 8,
+   "raw_seats": 8
+  },
+  {
+   "id": "RZP_ZEHUT",
+   "name": "Religious Zionism & Zehut",
+   "letters": "ט",
+   "raw": 5.58,
+   "corrected": 4.91,
+   "median": 6.0,
+   "mean": 5.9,
+   "p10": 5.0,
+   "p90": 8.0,
+   "p_pass": 0.984,
+   "seats": 6,
+   "raw_seats": 7
+  },
+  {
+   "id": "JOINT",
+   "name": "Joint List (Hadash-Ta'al-Balad)",
+   "letters": "ודם",
+   "raw": 6.91,
+   "corrected": 7.34,
+   "median": 9.0,
+   "mean": 9.28,
+   "p10": 7.0,
+   "p90": 12.0,
+   "p_pass": 1.0,
+   "seats": 10,
+   "raw_seats": 9
+  },
+  {
+   "id": "RAAM",
+   "name": "Ra'am",
+   "letters": "עם",
+   "raw": 4.44,
+   "corrected": 4.71,
+   "median": 6.0,
+   "mean": 5.71,
+   "p10": 4.0,
+   "p90": 7.0,
+   "p_pass": 0.975,
+   "seats": 6,
+   "raw_seats": 5
+  },
+  {
+   "id": "HENDEL_ZELICHA",
+   "name": "Hendel & Zelicha (Reservists)",
+   "letters": "די",
+   "raw": 2.88,
+   "corrected": 2.92,
+   "median": 0.0,
+   "mean": 1.86,
+   "p10": 0.0,
+   "p90": 5.0,
+   "p_pass": 0.377,
+   "seats": 0,
+   "raw_seats": 0
+  },
+  {
+   "id": "AMCHA",
+   "name": "Amcha Israel (Winter)",
+   "letters": "ך",
+   "raw": 2.82,
+   "corrected": 2.48,
+   "median": 0.0,
+   "mean": 1.06,
+   "p10": 0.0,
+   "p90": 5.0,
+   "p_pass": 0.224,
+   "seats": 0,
+   "raw_seats": 0
+  },
+  {
+   "id": "BLUE_WHITE",
+   "name": "Blue & White (withdrew)",
+   "letters": "כן",
+   "raw": null,
+   "corrected": null,
+   "median": null,
+   "mean": null,
+   "p10": null,
+   "p90": null,
+   "p_pass": null,
+   "seats": 0,
+   "raw_seats": null
+  }
+ ],
+ "summary": {
+  "tag": "main",
+  "n_polls": 28,
+  "n_firms": 9,
+  "expected_abs_error": 19.0266,
+  "expected_abs_error_unconstrained_medians": 18.6536,
+  "p_coalition_61": 0.023575,
+  "bloc_median": 52.0,
+  "disagreement_axis": {
+   "LIKUD": -0.161,
+   "YASHAR": 0.006,
+   "TOGETHER": 0.146,
+   "DEMOCRATS": 0.039,
+   "YB": 0.09,
+   "OTZMA": 0.011,
+   "SHAS": -0.059,
+   "UTJ": 0.016,
+   "RZP_ZEHUT": -0.059,
+   "JOINT": 0.046,
+   "RAAM": 0.008,
+   "HENDEL_ZELICHA": 0.212,
+   "AMCHA": 0.207
+  },
+  "settings": {
+   "WINDOW_DAYS": 10,
+   "HALF_LIFE": 4.0,
+   "CORRECTION": "selected",
+   "HOUSE_CARRY": 0.0,
+   "FAMILY_SD": 0.08,
+   "DISAGREE_SCALE": 0.5,
+   "EXCLUDE_FIRMS": [],
+   "FIRM_WEIGHTS": {},
+   "RAW_MODE": "seats",
+   "N_SIM": 40000
+  }
+ },
+ "turnout": {
+  "turnout_median": 71.16357723066574,
+  "turnout_mean": 71.16749271585049,
+  "p10": 69.01252622300075,
+  "p90": 73.31852431836663,
+  "voters_median": 5217699.961472737,
+  "nonarab_domestic_turnout_2022": 0.8167779991478115,
+  "domestic_turnout_2022": 0.7747215373427223
+ },
+ "firms": [
+  {
+   "id": "Ch13_Madad2026",
+   "label": "Midgam Project / Madad (Channel 13)",
+   "right": false,
+   "values": {
+    "LIKUD": 14.49,
+    "YASHAR": 16.08,
+    "TOGETHER": 10.81,
+    "DEMOCRATS": 7.69,
+    "YB": 6.48,
+    "OTZMA": 6.03,
+    "SHAS": 5.66,
+    "UTJ": 6.25,
+    "RZP_ZEHUT": 6.12,
+    "JOINT": 7.17,
+    "RAAM": 5.21,
+    "HENDEL_ZELICHA": 3.27,
+    "AMCHA": 3.25
+   }
+  },
+  {
+   "id": "DRI",
+   "label": "DRI (CEC report only)",
+   "right": true,
+   "values": {
+    "LIKUD": 21.56,
+    "YASHAR": 17.77,
+    "TOGETHER": 7.19,
+    "DEMOCRATS": 6.43,
+    "YB": 5.67,
+    "OTZMA": 6.43,
+    "SHAS": 6.43,
+    "UTJ": 5.67,
+    "RZP_ZEHUT": 7.19,
+    "JOINT": 6.43,
+    "RAAM": 4.16,
+    "HENDEL_ZELICHA": 1.77,
+    "AMCHA": 1.81
+   }
+  },
+  {
+   "id": "DirectPolls",
+   "label": "Direct Polls (i24 News)",
+   "right": true,
+   "values": {
+    "LIKUD": 19.74,
+    "YASHAR": 15.92,
+    "TOGETHER": 9.56,
+    "DEMOCRATS": 6.79,
+    "YB": 5.12,
+    "OTZMA": 6.96,
+    "SHAS": 6.39,
+    "UTJ": 6.04,
+    "RZP_ZEHUT": 5.12,
+    "JOINT": 6.73,
+    "RAAM": 4.54,
+    "HENDEL_ZELICHA": 2.37,
+    "AMCHA": 3.21
+   }
+  },
+  {
+   "id": "Kantar",
+   "label": "Kantar (Kan 11, Israel Hayom)",
+   "right": false,
+   "values": {
+    "LIKUD": 16.05,
+    "YASHAR": 17.64,
+    "TOGETHER": 10.57,
+    "DEMOCRATS": 6.59,
+    "YB": 6.18,
+    "OTZMA": 6.53,
+    "SHAS": 6.1,
+    "UTJ": 5.96,
+    "RZP_ZEHUT": 5.34,
+    "JOINT": 7.07,
+    "RAAM": 4.17,
+    "HENDEL_ZELICHA": 3.42,
+    "AMCHA": 2.87
+   }
+  },
+  {
+   "id": "Lazar_Panels",
+   "label": "Lazar / Panel4All (Maariv, Walla)",
+   "right": false,
+   "values": {
+    "LIKUD": 14.73,
+    "YASHAR": 16.85,
+    "TOGETHER": 11.32,
+    "DEMOCRATS": 7.63,
+    "YB": 6.47,
+    "OTZMA": 6.07,
+    "SHAS": 6.35,
+    "UTJ": 5.83,
+    "RZP_ZEHUT": 5.35,
+    "JOINT": 6.87,
+    "RAAM": 4.55,
+    "HENDEL_ZELICHA": 3.43,
+    "AMCHA": 3.05
+   }
+  },
+  {
+   "id": "MaagarMochot",
+   "label": "Maagar Mochot (Channel 16)",
+   "right": false,
+   "values": {
+    "LIKUD": 13.95,
+    "YASHAR": 16.28,
+    "TOGETHER": 11.61,
+    "DEMOCRATS": 7.4,
+    "YB": 5.84,
+    "OTZMA": 7.4,
+    "SHAS": 5.52,
+    "UTJ": 6.3,
+    "RZP_ZEHUT": 5.52,
+    "JOINT": 7.4,
+    "RAAM": 4.28,
+    "HENDEL_ZELICHA": 3.5,
+    "AMCHA": 3.5
+   }
+  },
+  {
+   "id": "Midgam",
+   "label": "Midgam (Channel 12)",
+   "right": false,
+   "values": {
+    "LIKUD": 15.64,
+    "YASHAR": 17.8,
+    "TOGETHER": 11.46,
+    "DEMOCRATS": 7.46,
+    "YB": 6.38,
+    "OTZMA": 6.13,
+    "SHAS": 6.38,
+    "UTJ": 5.63,
+    "RZP_ZEHUT": 5.05,
+    "JOINT": 7.13,
+    "RAAM": 4.13,
+    "HENDEL_ZELICHA": 2.46,
+    "AMCHA": 2.86
+   }
+  },
+  {
+   "id": "NextData_Filber",
+   "label": "Filber / NEXT DATA (Channel 14)",
+   "right": true,
+   "values": {
+    "LIKUD": 22.77,
+    "YASHAR": 15.48,
+    "TOGETHER": 7.99,
+    "DEMOCRATS": 6.91,
+    "YB": 4.48,
+    "OTZMA": 6.17,
+    "SHAS": 7.56,
+    "UTJ": 6.22,
+    "RZP_ZEHUT": 5.63,
+    "JOINT": 6.34,
+    "RAAM": 4.72,
+    "HENDEL_ZELICHA": 2.32,
+    "AMCHA": 1.92
+   }
+  },
+  {
+   "id": "Tatika",
+   "label": "Tatika (Zman Yisrael)",
+   "right": false,
+   "values": {
+    "LIKUD": 16.13,
+    "YASHAR": 18.34,
+    "TOGETHER": 8.72,
+    "DEMOCRATS": 6.45,
+    "YB": 7.2,
+    "OTZMA": 6.27,
+    "SHAS": 6.45,
+    "UTJ": 6.45,
+    "RZP_ZEHUT": 4.93,
+    "JOINT": 7.03,
+    "RAAM": 4.17,
+    "HENDEL_ZELICHA": 3.41,
+    "AMCHA": 2.95
+   }
+  }
+ ],
+ "bias": [
+  {
+   "family": "ARAB",
+   "label": "Arab lists",
+   "pct": -3.8,
+   "p_t": 0.4055270666833528,
+   "p_w": 0.3828125,
+   "e2_pct": 6.5
+  },
+  {
+   "family": "CENTER",
+   "label": "Centre lists",
+   "pct": -4.3,
+   "p_t": 0.2431056075837745,
+   "p_w": 0.546875,
+   "e2_pct": 1.6
+  },
+  {
+   "family": "LEFT",
+   "label": "Left (Labor/Meretz/Democrats)",
+   "pct": 11.2,
+   "p_t": 0.1970369712365731,
+   "p_w": 0.1953125,
+   "e2_pct": -5.5
+  },
+  {
+   "family": "LIKUD",
+   "label": "Likud",
+   "pct": -4.7,
+   "p_t": 0.3297825137866371,
+   "p_w": 0.3828125,
+   "e2_pct": 4.2
+  },
+  {
+   "family": "NATREL",
+   "label": "Religious-Zionist / far right",
+   "pct": 19.7,
+   "p_t": 0.0234654100023267,
+   "p_w": 0.0546875,
+   "e2_pct": -11.9
+  },
+  {
+   "family": "SHAS",
+   "label": "Shas (Sephardi Haredi)",
+   "pct": -9.9,
+   "p_t": 0.0710284355215273,
+   "p_w": 0.109375,
+   "e2_pct": 7.0
+  },
+  {
+   "family": "UTJ",
+   "label": "UTJ (Ashkenazi Haredi)",
+   "pct": 0.5,
+   "p_t": 0.8463766005097833,
+   "p_w": 0.9453125,
+   "e2_pct": 1.7
+  },
+  {
+   "family": "YB",
+   "label": "Yisrael Beiteinu",
+   "pct": 0.2,
+   "p_t": 0.9723075256538058,
+   "p_w": 0.46875,
+   "e2_pct": -1.0
+  }
+ ],
+ "model_selection": [
+  {
+   "method": "M0_raw_average",
+   "mean": 20.0,
+   "mean_diff_vs_raw": 0.0,
+   "pct_improvement": -0.0,
+   "wins": 0,
+   "losses": 0,
+   "p_wilcoxon": null
+  },
+  {
+   "method": "M1s_industry_family_shrunk",
+   "mean": 18.75,
+   "mean_diff_vs_raw": -1.25,
+   "pct_improvement": 6.25,
+   "wins": 4,
+   "losses": 1,
+   "p_wilcoxon": 0.3125
+  },
+  {
+   "method": "M2h_pollster_house_half",
+   "mean": 19.25,
+   "mean_diff_vs_raw": -0.75,
+   "pct_improvement": 3.75,
+   "wins": 4,
+   "losses": 3,
+   "p_wilcoxon": 0.828125
+  },
+  {
+   "method": "N_nested_best_M3",
+   "mean": 20.75,
+   "mean_diff_vs_raw": 0.75,
+   "pct_improvement": -3.75,
+   "wins": 2,
+   "losses": 4,
+   "p_wilcoxon": 0.75
+  },
+  {
+   "method": "E1_M1s+compAll",
+   "mean": 18.5,
+   "mean_diff_vs_raw": -1.5,
+   "pct_improvement": 7.5,
+   "wins": 4,
+   "losses": 2,
+   "p_wilcoxon": 0.375
+  },
+  {
+   "method": "E2_M1s+compNMF",
+   "mean": 18.25,
+   "mean_diff_vs_raw": -1.75,
+   "pct_improvement": 8.75,
+   "wins": 5,
+   "losses": 1,
+   "p_wilcoxon": 0.15625
+  },
+  {
+   "method": "E3_M1s+compAll+pollster",
+   "mean": 18.5,
+   "mean_diff_vs_raw": -1.5,
+   "pct_improvement": 7.5,
+   "wins": 4,
+   "losses": 2,
+   "p_wilcoxon": 0.375
+  },
+  {
+   "method": "E4_compAll_only",
+   "mean": 19.5,
+   "mean_diff_vs_raw": -0.5,
+   "pct_improvement": 2.5,
+   "wins": 4,
+   "losses": 4,
+   "p_wilcoxon": 0.9609375
+  },
+  {
+   "method": "E5_compNMF_only",
+   "mean": 19.75,
+   "mean_diff_vs_raw": -0.25,
+   "pct_improvement": 1.25,
+   "wins": 3,
+   "losses": 2,
+   "p_wilcoxon": 1.0
+  }
+ ],
+ "friedman_classes": [
+  {
+   "method": "E2_M1s+compNMF",
+   "mean_score": 18.25,
+   "mean_rank": 3.9375,
+   "friedman_chi2": 7.786666666666679,
+   "friedman_p": 0.4545819293603842,
+   "nemenyi_CD": 4.247588433452563
+  },
+  {
+   "method": "E1_M1s+compAll",
+   "mean_score": 18.5,
+   "mean_rank": 4.375,
+   "friedman_chi2": 7.786666666666679,
+   "friedman_p": 0.4545819293603842,
+   "nemenyi_CD": 4.247588433452563
+  },
+  {
+   "method": "E3_M1s+compAll+pollster",
+   "mean_score": 18.5,
+   "mean_rank": 4.375,
+   "friedman_chi2": 7.786666666666679,
+   "friedman_p": 0.4545819293603842,
+   "nemenyi_CD": 4.247588433452563
+  },
+  {
+   "method": "M1s_industry_family_shrunk",
+   "mean_score": 18.75,
+   "mean_rank": 4.5625,
+   "friedman_chi2": 7.786666666666679,
+   "friedman_p": 0.4545819293603842,
+   "nemenyi_CD": 4.247588433452563
+  },
+  {
+   "method": "E4_compAll_only",
+   "mean_score": 19.5,
+   "mean_rank": 5.0,
+   "friedman_chi2": 7.786666666666679,
+   "friedman_p": 0.4545819293603842,
+   "nemenyi_CD": 4.247588433452563
+  },
+  {
+   "method": "M2h_pollster_house_half",
+   "mean_score": 19.25,
+   "mean_rank": 5.0625,
+   "friedman_chi2": 7.786666666666679,
+   "friedman_p": 0.4545819293603842,
+   "nemenyi_CD": 4.247588433452563
+  },
+  {
+   "method": "E5_compNMF_only",
+   "mean_score": 19.75,
+   "mean_rank": 5.25,
+   "friedman_chi2": 7.786666666666679,
+   "friedman_p": 0.4545819293603842,
+   "nemenyi_CD": 4.247588433452563
+  },
+  {
+   "method": "M0_raw_average",
+   "mean_score": 20.0,
+   "mean_rank": 5.6875,
+   "friedman_chi2": 7.786666666666679,
+   "friedman_p": 0.4545819293603842,
+   "nemenyi_CD": 4.247588433452563
+  },
+  {
+   "method": "N_nested_best_M3",
+   "mean_score": 20.75,
+   "mean_rank": 6.75,
+   "friedman_chi2": 7.786666666666679,
+   "friedman_p": 0.4545819293603842,
+   "nemenyi_CD": 4.247588433452563
+  }
+ ],
+ "friedman_algos": [
+  {
+   "algo": "gmm",
+   "mean_score": 19.55555555555556,
+   "mean_rank": 2.25,
+   "friedman_chi2": 1.5569620253164498,
+   "friedman_p": 0.6691872723929918,
+   "nemenyi_CD": 1.6582823694011422
+  },
+  {
+   "algo": "nmf",
+   "mean_score": 19.13888888888889,
+   "mean_rank": 2.25,
+   "friedman_chi2": 1.5569620253164498,
+   "friedman_p": 0.6691872723929918,
+   "nemenyi_CD": 1.6582823694011422
+  },
+  {
+   "algo": "ward",
+   "mean_score": 20.208333333333336,
+   "mean_rank": 2.5625,
+   "friedman_chi2": 1.5569620253164498,
+   "friedman_p": 0.6691872723929918,
+   "nemenyi_CD": 1.6582823694011422
+  },
+  {
+   "algo": "kmeans",
+   "mean_score": 20.11111111111111,
+   "mean_rank": 2.9375,
+   "friedman_chi2": 1.5569620253164498,
+   "friedman_p": 0.6691872723929918,
+   "nemenyi_CD": 1.6582823694011422
+  }
+ ],
+ "friedman_k": [
+  {
+   "K": 8,
+   "mean_score": 19.708333333333336,
+   "mean_rank": 2.875,
+   "friedman_chi2": 2.5181159420289894,
+   "friedman_p": 0.773764337090643,
+   "nemenyi_CD": 2.665930888076433
+  },
+  {
+   "K": 4,
+   "mean_score": 18.875,
+   "mean_rank": 3.25,
+   "friedman_chi2": 2.5181159420289894,
+   "friedman_p": 0.773764337090643,
+   "nemenyi_CD": 2.665930888076433
+  },
+  {
+   "K": 6,
+   "mean_score": 19.46875,
+   "mean_rank": 3.25,
+   "friedman_chi2": 2.5181159420289894,
+   "friedman_p": 0.773764337090643,
+   "nemenyi_CD": 2.665930888076433
+  },
+  {
+   "K": 10,
+   "mean_score": 20.319444444444443,
+   "mean_rank": 3.5625,
+   "friedman_chi2": 2.5181159420289894,
+   "friedman_p": 0.773764337090643,
+   "nemenyi_CD": 2.665930888076433
+  },
+  {
+   "K": 12,
+   "mean_score": 20.58333333333333,
+   "mean_rank": 4.0,
+   "friedman_chi2": 2.5181159420289894,
+   "friedman_p": 0.773764337090643,
+   "nemenyi_CD": 2.665930888076433
+  },
+  {
+   "K": 14,
+   "mean_score": 20.583333333333336,
+   "mean_rank": 4.0625,
+   "friedman_chi2": 2.5181159420289894,
+   "friedman_p": 0.773764337090643,
+   "nemenyi_CD": 2.665930888076433
+  }
+ ],
+ "backtest": [
+  {
+   "method": "M3_comp_industry_nmf_K4_settlement",
+   "mean_score": 18.25,
+   "median": 17.0,
+   "sd": 8.581541653039805,
+   "mean_diff_vs_raw": -1.75,
+   "wins": 4,
+   "losses": 1,
+   "p_wilcoxon": 0.3125,
+   "p_signflip": 0.3125
+  },
+  {
+   "method": "M3_comp_pollster_lam0.02_nmf_K4_settlement",
+   "mean_score": 18.25,
+   "median": 17.0,
+   "sd": 9.467991188359711,
+   "mean_diff_vs_raw": -1.75,
+   "wins": 4,
+   "losses": 1,
+   "p_wilcoxon": 0.3125,
+   "p_signflip": 0.3125
+  },
+  {
+   "method": "M3_comp_pollster_lam0.1_ward_K4_settlement",
+   "mean_score": 18.25,
+   "median": 18.0,
+   "sd": 9.765098200076784,
+   "mean_diff_vs_raw": -1.75,
+   "wins": 4,
+   "losses": 2,
+   "p_wilcoxon": 0.21875,
+   "p_signflip": 0.28125
+  },
+  {
+   "method": "M3_comp_pollster_lam0.1_nmf_K4_settlement",
+   "mean_score": 18.5,
+   "median": 17.0,
+   "sd": 9.54687682663064,
+   "mean_diff_vs_raw": -1.5,
+   "wins": 4,
+   "losses": 2,
+   "p_wilcoxon": 0.3125,
+   "p_signflip": 0.34375
+  },
+  {
+   "method": "M3_comp_pollster_lam0.02_ward_K8_ballot",
+   "mean_score": 18.5,
+   "median": 16.0,
+   "sd": 10.014275524755362,
+   "mean_diff_vs_raw": -1.5,
+   "wins": 4,
+   "losses": 2,
+   "p_wilcoxon": 0.21875,
+   "p_signflip": 0.28125
+  },
+  {
+   "method": "M3_comp_pollster_lam0.02_nmf_K6_ballot",
+   "mean_score": 18.5,
+   "median": 18.0,
+   "sd": 9.606545387688245,
+   "mean_diff_vs_raw": -1.5,
+   "wins": 3,
+   "losses": 1,
+   "p_wilcoxon": 0.375,
+   "p_signflip": 0.375
+  },
+  {
+   "method": "M3_comp_pollster_lam0.02_kmeans_K4_settlement",
+   "mean_score": 18.5,
+   "median": 19.0,
+   "sd": 9.72478424292429,
+   "mean_diff_vs_raw": -1.5,
+   "wins": 3,
+   "losses": 1,
+   "p_wilcoxon": 0.375,
+   "p_signflip": 0.375
+  },
+  {
+   "method": "M3_comp_industry_ward_K4_settlement",
+   "mean_score": 18.5,
+   "median": 18.0,
+   "sd": 9.365590516047863,
+   "mean_diff_vs_raw": -1.5,
+   "wins": 4,
+   "losses": 2,
+   "p_wilcoxon": 0.375,
+   "p_signflip": 0.375
+  },
+  {
+   "method": "M3_comp_pollster_lam0.1_ward_K8_ballot",
+   "mean_score": 18.5,
+   "median": 17.0,
+   "sd": 9.426406677899212,
+   "mean_diff_vs_raw": -1.5,
+   "wins": 4,
+   "losses": 3,
+   "p_wilcoxon": 0.28125,
+   "p_signflip": 0.390625
+  },
+  {
+   "method": "M3_comp_pollster_lam0.1_kmeans_K4_settlement",
+   "mean_score": 18.5,
+   "median": 19.0,
+   "sd": 9.72478424292429,
+   "mean_diff_vs_raw": -1.5,
+   "wins": 3,
+   "losses": 1,
+   "p_wilcoxon": 0.375,
+   "p_signflip": 0.375
+  },
+  {
+   "method": "M3_comp_pollster_lam0.1_kmeans_K4_ballot",
+   "mean_score": 18.75,
+   "median": 18.0,
+   "sd": 9.910312089651148,
+   "mean_diff_vs_raw": -1.25,
+   "wins": 3,
+   "losses": 0,
+   "p_wilcoxon": 0.25,
+   "p_signflip": 0.25
+  },
+  {
+   "method": "M3_comp_pollster_lam0.1_gmm_K10_settlement",
+   "mean_score": 18.75,
+   "median": 17.0,
+   "sd": 10.846329201294656,
+   "mean_diff_vs_raw": -1.25,
+   "wins": 4,
+   "losses": 2,
+   "p_wilcoxon": 0.53125,
+   "p_signflip": 0.625
+  },
+  {
+   "method": "M3_comp_industry_kmeans_K4_settlement",
+   "mean_score": 18.75,
+   "median": 19.0,
+   "sd": 9.315885051121782,
+   "mean_diff_vs_raw": -1.25,
+   "wins": 3,
+   "losses": 1,
+   "p_wilcoxon": 0.5,
+   "p_signflip": 0.5
+  },
+  {
+   "method": "M3_comp_pollster_lam0.02_gmm_K8_settlement",
+   "mean_score": 18.75,
+   "median": 17.0,
+   "sd": 10.846329201294656,
+   "mean_diff_vs_raw": -1.25,
+   "wins": 4,
+   "losses": 3,
+   "p_wilcoxon": 0.5625,
+   "p_signflip": 0.625
+  },
+  {
+   "method": "M1s_industry_family_shrunk",
+   "mean_score": 18.75,
+   "median": 18.0,
+   "sd": 10.194536351819607,
+   "mean_diff_vs_raw": -1.25,
+   "wins": 4,
+   "losses": 1,
+   "p_wilcoxon": 0.3125,
+   "p_signflip": 0.3125
+  },
+  {
+   "method": "M3_comp_industry_gmm_K10_settlement",
+   "mean_score": 18.75,
+   "median": 17.0,
+   "sd": 10.846329201294656,
+   "mean_diff_vs_raw": -1.25,
+   "wins": 4,
+   "losses": 2,
+   "p_wilcoxon": 0.53125,
+   "p_signflip": 0.625
+  },
+  {
+   "method": "M3_comp_industry_gmm_K4_settlement",
+   "mean_score": 18.75,
+   "median": 17.0,
+   "sd": 9.437766079503591,
+   "mean_diff_vs_raw": -1.25,
+   "wins": 4,
+   "losses": 2,
+   "p_wilcoxon": 0.53125,
+   "p_signflip": 0.5
+  },
+  {
+   "method": "M3_comp_pollster_lam0.02_kmeans_K6_ballot",
+   "mean_score": 19.0,
+   "median": 18.0,
+   "sd": 10.198039027185567,
+   "mean_diff_vs_raw": -1.0,
+   "wins": 4,
+   "losses": 2,
+   "p_wilcoxon": 0.53125,
+   "p_signflip": 0.5
+  },
+  {
+   "method": "M3_comp_pollster_lam0.02_kmeans_K4_ballot",
+   "mean_score": 19.0,
+   "median": 18.0,
+   "sd": 9.9713876380658,
+   "mean_diff_vs_raw": -1.0,
+   "wins": 2,
+   "losses": 0,
+   "p_wilcoxon": null,
+   "p_signflip": 0.5
+  },
+  {
+   "method": "M3_comp_pollster_lam0.1_gmm_K4_settlement",
+   "mean_score": 19.0,
+   "median": 18.0,
+   "sd": 9.441549509633315,
+   "mean_diff_vs_raw": -1.0,
+   "wins": 3,
+   "losses": 2,
+   "p_wilcoxon": 0.75,
+   "p_signflip": 0.6875
+  },
+  {
+   "method": "M3_comp_pollster_lam0.1_gmm_K8_settlement",
+   "mean_score": 19.0,
+   "median": 18.0,
+   "sd": 10.796824930109247,
+   "mean_diff_vs_raw": -1.0,
+   "wins": 4,
+   "losses": 3,
+   "p_wilcoxon": 0.6875,
+   "p_signflip": 0.734375
+  },
+  {
+   "method": "M3_comp_pollster_lam0.1_nmf_K4_ballot",
+   "mean_score": 19.0,
+   "median": 18.0,
+   "sd": 9.9713876380658,
+   "mean_diff_vs_raw": -1.0,
+   "wins": 2,
+   "losses": 0,
+   "p_wilcoxon": null,
+   "p_signflip": 0.5
+  },
+  {
+   "method": "M3_comp_pollster_lam0.02_nmf_K4_ballot",
+   "mean_score": 19.0,
+   "median": 18.0,
+   "sd": 9.9713876380658,
+   "mean_diff_vs_raw": -1.0,
+   "wins": 2,
+   "losses": 0,
+   "p_wilcoxon": null,
+   "p_signflip": 0.5
+  },
+  {
+   "method": "M3_comp_pollster_lam0.1_gmm_K10_ballot",
+   "mean_score": 19.0,
+   "median": 19.0,
+   "sd": 9.739463170891035,
+   "mean_diff_vs_raw": -1.0,
+   "wins": 4,
+   "losses": 3,
+   "p_wilcoxon": 0.6875,
+   "p_signflip": 0.640625
+  },
+  {
+   "method": "M3_comp_industry_nmf_K4_ballot",
+   "mean_score": 19.0,
+   "median": 17.0,
+   "sd": 9.621404708847278,
+   "mean_diff_vs_raw": -1.0,
+   "wins": 2,
+   "losses": 0,
+   "p_wilcoxon": null,
+   "p_signflip": 0.5
+  },
+  {
+   "method": "M3_comp_industry_ward_K8_ballot",
+   "mean_score": 19.0,
+   "median": 16.0,
+   "sd": 10.90216230190795,
+   "mean_diff_vs_raw": -1.0,
+   "wins": 4,
+   "losses": 2,
+   "p_wilcoxon": 0.59375,
+   "p_signflip": 0.65625
+  },
+  {
+   "method": "M3_comp_pollster_lam0.02_gmm_K4_settlement",
+   "mean_score": 19.0,
+   "median": 18.0,
+   "sd": 9.441549509633315,
+   "mean_diff_vs_raw": -1.0,
+   "wins": 3,
+   "losses": 2,
+   "p_wilcoxon": 0.75,
+   "p_signflip": 0.6875
+  },
+  {
+   "method": "M3_comp_pollster_lam0.02_gmm_K10_settlement",
+   "mean_score": 19.0,
+   "median": 17.0,
+   "sd": 10.690449676496977,
+   "mean_diff_vs_raw": -1.0,
+   "wins": 4,
+   "losses": 3,
+   "p_wilcoxon": 0.6875,
+   "p_signflip": 0.734375
+  },
+  {
+   "method": "M3_comp_industry_kmeans_K4_ballot",
+   "mean_score": 19.0,
+   "median": 17.0,
+   "sd": 9.621404708847278,
+   "mean_diff_vs_raw": -1.0,
+   "wins": 2,
+   "losses": 0,
+   "p_wilcoxon": null,
+   "p_signflip": 0.5
+  },
+  {
+   "method": "M3_comp_industry_gmm_K8_settlement",
+   "mean_score": 19.0,
+   "median": 18.0,
+   "sd": 10.796824930109247,
+   "mean_diff_vs_raw": -1.0,
+   "wins": 4,
+   "losses": 3,
+   "p_wilcoxon": 0.6875,
+   "p_signflip": 0.734375
+  },
+  {
+   "method": "M3_comp_pollster_lam0.02_ward_K4_ballot",
+   "mean_score": 19.0,
+   "median": 18.0,
+   "sd": 9.9713876380658,
+   "mean_diff_vs_raw": -1.0,
+   "wins": 2,
+   "losses": 0,
+   "p_wilcoxon": null,
+   "p_signflip": 0.5
+  },
+  {
+   "method": "M3_comp_industry_gmm_K6_ballot",
+   "mean_score": 19.0,
+   "median": 17.0,
+   "sd": 10.743768958264669,
+   "mean_diff_vs_raw": -1.0,
+   "wins": 3,
+   "losses": 2,
+   "p_wilcoxon": 0.6875,
+   "p_signflip": 0.6875
+  },
+  {
+   "method": "M3_comp_pollster_lam0.1_ward_K4_ballot",
+   "mean_score": 19.0,
+   "median": 19.0,
+   "sd": 9.856107606091625,
+   "mean_diff_vs_raw": -1.0,
+   "wins": 3,
+   "losses": 1,
+   "p_wilcoxon": 0.5,
+   "p_signflip": 0.5
+  },
+  {
+   "method": "M3_comp_industry_nmf_K8_settlement",
+   "mean_score": 19.25,
+   "median": 18.0,
+   "sd": 10.361329203202786,
+   "mean_diff_vs_raw": -0.75,
+   "wins": 3,
+   "losses": 3,
+   "p_wilcoxon": 0.625,
+   "p_signflip": 0.78125
+  },
+  {
+   "method": "M3_comp_industry_kmeans_K6_ballot",
+   "mean_score": 19.25,
+   "median": 18.0,
+   "sd": 9.852483370776556,
+   "mean_diff_vs_raw": -0.75,
+   "wins": 3,
+   "losses": 2,
+   "p_wilcoxon": 0.75,
+   "p_signflip": 0.6875
+  },
+  {
+   "method": "M0m_median_pollster",
+   "mean_score": 19.25,
+   "median": 19.0,
+   "sd": 9.130013299943371,
+   "mean_diff_vs_raw": -0.75,
+   "wins": 3,
+   "losses": 3,
+   "p_wilcoxon": 0.71875,
+   "p_signflip": 0.71875
+  },
+  {
+   "method": "M2h_pollster_house_half",
+   "mean_score": 19.25,
+   "median": 18.0,
+   "sd": 9.852483370776556,
+   "mean_diff_vs_raw": -0.75,
+   "wins": 4,
+   "losses": 3,
+   "p_wilcoxon": 0.828125,
+   "p_signflip": 0.75
+  },
+  {
+   "method": "M3_comp_industry_kmeans_K6_settlement",
+   "mean_score": 19.25,
+   "median": 18.0,
+   "sd": 11.055057019947284,
+   "mean_diff_vs_raw": -0.75,
+   "wins": 4,
+   "losses": 2,
+   "p_wilcoxon": 0.625,
+   "p_signflip": 0.75
+  },
+  {
+   "method": "M3_comp_pollster_lam0.02_gmm_K10_ballot",
+   "mean_score": 19.25,
+   "median": 19.0,
+   "sd": 9.617692030835672,
+   "mean_diff_vs_raw": -0.75,
+   "wins": 4,
+   "losses": 3,
+   "p_wilcoxon": 0.765625,
+   "p_signflip": 0.765625
+  },
+  {
+   "method": "M3_comp_pollster_lam0.02_nmf_K6_settlement",
+   "mean_score": 19.25,
+   "median": 18.0,
+   "sd": 11.055057019947284,
+   "mean_diff_vs_raw": -0.75,
+   "wins": 4,
+   "losses": 2,
+   "p_wilcoxon": 0.625,
+   "p_signflip": 0.75
+  },
+  {
+   "method": "M3_comp_pollster_lam0.1_kmeans_K6_ballot",
+   "mean_score": 19.25,
+   "median": 19.0,
+   "sd": 10.138328969101089,
+   "mean_diff_vs_raw": -0.75,
+   "wins": 4,
+   "losses": 3,
+   "p_wilcoxon": 0.765625,
+   "p_signflip": 0.671875
+  },
+  {
+   "method": "M3_comp_pollster_lam0.1_gmm_K14_settlement",
+   "mean_score": 19.25,
+   "median": 18.0,
+   "sd": 10.41633332799983,
+   "mean_diff_vs_raw": -0.75,
+   "wins": 4,
+   "losses": 2,
+   "p_wilcoxon": 0.75,
+   "p_signflip": 0.78125
+  },
+  {
+   "method": "M3_comp_pollster_lam0.1_nmf_K6_settlement",
+   "mean_score": 19.25,
+   "median": 18.0,
+   "sd": 11.055057019947284,
+   "mean_diff_vs_raw": -0.75,
+   "wins": 4,
+   "losses": 2,
+   "p_wilcoxon": 0.625,
+   "p_signflip": 0.75
+  },
+  {
+   "method": "M3_comp_pollster_lam0.02_kmeans_K8_settlement",
+   "mean_score": 19.25,
+   "median": 17.0,
+   "sd": 10.846329201294656,
+   "mean_diff_vs_raw": -0.75,
+   "wins": 4,
+   "losses": 3,
+   "p_wilcoxon": 0.609375,
+   "p_signflip": 0.765625
+  },
+  {
+   "method": "M3_comp_pollster_lam0.02_ward_K4_settlement",
+   "mean_score": 19.25,
+   "median": 18.0,
+   "sd": 11.00324627423328,
+   "mean_diff_vs_raw": -0.75,
+   "wins": 4,
+   "losses": 3,
+   "p_wilcoxon": 0.609375,
+   "p_signflip": 0.765625
+  },
+  {
+   "method": "M3_comp_pollster_lam0.02_gmm_K14_settlement",
+   "mean_score": 19.25,
+   "median": 18.0,
+   "sd": 10.41633332799983,
+   "mean_diff_vs_raw": -0.75,
+   "wins": 4,
+   "losses": 2,
+   "p_wilcoxon": 0.75,
+   "p_signflip": 0.78125
+  },
+  {
+   "method": "M3_comp_pollster_lam0.1_gmm_K6_ballot",
+   "mean_score": 19.25,
+   "median": 17.0,
+   "sd": 10.579630023236705,
+   "mean_diff_vs_raw": -0.75,
+   "wins": 3,
+   "losses": 3,
+   "p_wilcoxon": 0.75,
+   "p_signflip": 0.8125
+  },
+  {
+   "method": "M3_comp_pollster_lam0.1_gmm_K4_ballot",
+   "mean_score": 19.25,
+   "median": 18.0,
+   "sd": 10.740444257903992,
+   "mean_diff_vs_raw": -0.75,
+   "wins": 4,
+   "losses": 2,
+   "p_wilcoxon": 0.53125,
+   "p_signflip": 0.53125
+  },
+  {
+   "method": "M2_pollster_house_full",
+   "mean_score": 19.25,
+   "median": 18.0,
+   "sd": 9.852483370776556,
+   "mean_diff_vs_raw": -0.75,
+   "wins": 4,
+   "losses": 3,
+   "p_wilcoxon": 0.828125,
+   "p_signflip": 0.75
+  },
+  {
+   "method": "M3_comp_industry_gmm_K14_settlement",
+   "mean_score": 19.25,
+   "median": 18.0,
+   "sd": 10.41633332799983,
+   "mean_diff_vs_raw": -0.75,
+   "wins": 4,
+   "losses": 2,
+   "p_wilcoxon": 0.75,
+   "p_signflip": 0.78125
+  },
+  {
+   "method": "M3_comp_pollster_lam0.02_gmm_K6_ballot",
+   "mean_score": 19.25,
+   "median": 17.0,
+   "sd": 10.579630023236705,
+   "mean_diff_vs_raw": -0.75,
+   "wins": 3,
+   "losses": 3,
+   "p_wilcoxon": 0.75,
+   "p_signflip": 0.8125
+  },
+  {
+   "method": "M1_industry_family",
+   "mean_score": 19.25,
+   "median": 18.0,
+   "sd": 9.852483370776556,
+   "mean_diff_vs_raw": -0.75,
+   "wins": 4,
+   "losses": 3,
+   "p_wilcoxon": 0.828125,
+   "p_signflip": 0.75
+  },
+  {
+   "method": "M3_comp_industry_gmm_K4_ballot",
+   "mean_score": 19.25,
+   "median": 17.0,
+   "sd": 10.41633332799983,
+   "mean_diff_vs_raw": -0.75,
+   "wins": 4,
+   "losses": 2,
+   "p_wilcoxon": 0.53125,
+   "p_signflip": 0.53125
+  },
+  {
+   "method": "M3_comp_pollster_lam0.02_nmf_K8_settlement",
+   "mean_score": 19.25,
+   "median": 17.0,
+   "sd": 10.47104852165518,
+   "mean_diff_vs_raw": -0.75,
+   "wins": 3,
+   "losses": 3,
+   "p_wilcoxon": 0.625,
+   "p_signflip": 0.78125
+  },
+  {
+   "method": "M3_comp_pollster_lam0.1_kmeans_K6_settlement",
+   "mean_score": 19.5,
+   "median": 18.0,
+   "sd": 10.836446439150215,
+   "mean_diff_vs_raw": -0.5,
+   "wins": 3,
+   "losses": 2,
+   "p_wilcoxon": 0.875,
+   "p_signflip": 0.875
+  },
+  {
+   "method": "M3_comp_pollster_lam0.1_gmm_K12_settlement",
+   "mean_score": 19.5,
+   "median": 17.0,
+   "sd": 10.460811222298748,
+   "mean_diff_vs_raw": -0.5,
+   "wins": 5,
+   "losses": 2,
+   "p_wilcoxon": 0.796875,
+   "p_signflip": 0.875
+  },
+  {
+   "method": "M3_comp_pollster_lam0.02_kmeans_K6_settlement",
+   "mean_score": 19.5,
+   "median": 18.0,
+   "sd": 10.836446439150215,
+   "mean_diff_vs_raw": -0.5,
+   "wins": 3,
+   "losses": 2,
+   "p_wilcoxon": 0.875,
+   "p_signflip": 0.875
+  },
+  {
+   "method": "M3_comp_pollster_lam0.02_nmf_K8_ballot",
+   "mean_score": 19.5,
+   "median": 18.0,
+   "sd": 11.301074538037774,
+   "mean_diff_vs_raw": -0.5,
+   "wins": 3,
+   "losses": 3,
+   "p_wilcoxon": 0.96875,
+   "p_signflip": 0.9375
+  },
+  {
+   "method": "M3_comp_industry_kmeans_K8_ballot",
+   "mean_score": 19.5,
+   "median": 19.0,
+   "sd": 10.993504575754852,
+   "mean_diff_vs_raw": -0.5,
+   "wins": 4,
+   "losses": 3,
+   "p_wilcoxon": 0.796875,
+   "p_signflip": 0.875
+  },
+  {
+   "method": "M3_comp_industry_ward_K4_ballot",
+   "mean_score": 19.5,
+   "median": 18.0,
+   "sd": 9.783367810436532,
+   "mean_diff_vs_raw": -0.5,
+   "wins": 2,
+   "losses": 2,
+   "p_wilcoxon": 1.0,
+   "p_signflip": 0.875
+  },
+  {
+   "method": "M3_comp_pollster_lam0.02_gmm_K12_settlement",
+   "mean_score": 19.5,
+   "median": 17.0,
+   "sd": 10.460811222298748,
+   "mean_diff_vs_raw": -0.5,
+   "wins": 5,
+   "losses": 2,
+   "p_wilcoxon": 0.796875,
+   "p_signflip": 0.875
+  },
+  {
+   "method": "M3_comp_pollster_lam0.1_nmf_K8_ballot",
+   "mean_score": 19.5,
+   "median": 19.0,
+   "sd": 11.199489784296937,
+   "mean_diff_vs_raw": -0.5,
+   "wins": 3,
+   "losses": 3,
+   "p_wilcoxon": 0.96875,
+   "p_signflip": 0.9375
+  },
+  {
+   "method": "M3_comp_pollster_lam0.1_nmf_K8_settlement",
+   "mean_score": 19.5,
+   "median": 18.0,
+   "sd": 10.406042200842466,
+   "mean_diff_vs_raw": -0.5,
+   "wins": 3,
+   "losses": 4,
+   "p_wilcoxon": 0.734375,
+   "p_signflip": 0.890625
+  },
+  {
+   "method": "M3_comp_pollster_lam0.1_nmf_K6_ballot",
+   "mean_score": 19.5,
+   "median": 18.0,
+   "sd": 10.836446439150215,
+   "mean_diff_vs_raw": -0.5,
+   "wins": 3,
+   "losses": 2,
+   "p_wilcoxon": 0.875,
+   "p_signflip": 0.875
+  },
+  {
+   "method": "M3_comp_pollster_lam0.1_ward_K6_ballot",
+   "mean_score": 19.5,
+   "median": 18.0,
+   "sd": 10.783585409580354,
+   "mean_diff_vs_raw": -0.5,
+   "wins": 4,
+   "losses": 3,
+   "p_wilcoxon": 0.796875,
+   "p_signflip": 0.875
+  },
+  {
+   "method": "M3_comp_industry_gmm_K12_settlement",
+   "mean_score": 19.5,
+   "median": 17.0,
+   "sd": 10.460811222298748,
+   "mean_diff_vs_raw": -0.5,
+   "wins": 5,
+   "losses": 2,
+   "p_wilcoxon": 0.796875,
+   "p_signflip": 0.875
+  },
+  {
+   "method": "M3_comp_industry_nmf_K6_settlement",
+   "mean_score": 19.5,
+   "median": 18.0,
+   "sd": 10.836446439150215,
+   "mean_diff_vs_raw": -0.5,
+   "wins": 3,
+   "losses": 2,
+   "p_wilcoxon": 0.875,
+   "p_signflip": 0.875
+  },
+  {
+   "method": "M3_comp_pollster_lam0.1_ward_K6_settlement",
+   "mean_score": 19.5,
+   "median": 18.0,
+   "sd": 10.836446439150215,
+   "mean_diff_vs_raw": -0.5,
+   "wins": 3,
+   "losses": 2,
+   "p_wilcoxon": 0.875,
+   "p_signflip": 0.875
+  },
+  {
+   "method": "M3_comp_pollster_lam0.1_kmeans_K8_ballot",
+   "mean_score": 19.75,
+   "median": 19.0,
+   "sd": 10.76701311546389,
+   "mean_diff_vs_raw": -0.25,
+   "wins": 3,
+   "losses": 3,
+   "p_wilcoxon": 0.96875,
+   "p_signflip": 1.0
+  },
+  {
+   "method": "M3_comp_pollster_lam0.02_ward_K6_ballot",
+   "mean_score": 19.75,
+   "median": 18.0,
+   "sd": 11.234513149855925,
+   "mean_diff_vs_raw": -0.25,
+   "wins": 4,
+   "losses": 3,
+   "p_wilcoxon": 0.796875,
+   "p_signflip": 1.0
+  },
+  {
+   "method": "M3_comp_pollster_lam0.02_ward_K6_settlement",
+   "mean_score": 19.75,
+   "median": 19.0,
+   "sd": 10.76701311546389,
+   "mean_diff_vs_raw": -0.25,
+   "wins": 3,
+   "losses": 3,
+   "p_wilcoxon": 0.96875,
+   "p_signflip": 1.0
+  },
+  {
+   "method": "M3_comp_pollster_lam0.02_gmm_K4_ballot",
+   "mean_score": 19.75,
+   "median": 18.0,
+   "sd": 10.552589391099366,
+   "mean_diff_vs_raw": -0.25,
+   "wins": 2,
+   "losses": 2,
+   "p_wilcoxon": 1.0,
+   "p_signflip": 1.0
+  },
+  {
+   "method": "M0b_last_poll_avg",
+   "mean_score": 19.75,
+   "median": 19.0,
+   "sd": 11.13232102611901,
+   "mean_diff_vs_raw": -0.25,
+   "wins": 2,
+   "losses": 1,
+   "p_wilcoxon": 1.0,
+   "p_signflip": 1.0
+  },
+  {
+   "method": "M3_comp_industry_kmeans_K8_settlement",
+   "mean_score": 19.75,
+   "median": 18.0,
+   "sd": 10.38886766825776,
+   "mean_diff_vs_raw": -0.25,
+   "wins": 4,
+   "losses": 3,
+   "p_wilcoxon": 0.984375,
+   "p_signflip": 1.0
+  },
+  {
+   "method": "M4_accuracy_weighted",
+   "mean_score": 19.75,
+   "median": 17.0,
+   "sd": 11.386081729148843,
+   "mean_diff_vs_raw": -0.25,
+   "wins": 1,
+   "losses": 0,
+   "p_wilcoxon": null,
+   "p_signflip": 1.0
+  },
+  {
+   "method": "M3_comp_industry_nmf_K6_ballot",
+   "mean_score": 19.75,
+   "median": 18.0,
+   "sd": 10.443726756834868,
+   "mean_diff_vs_raw": -0.25,
+   "wins": 3,
+   "losses": 2,
+   "p_wilcoxon": 1.0,
+   "p_signflip": 1.0
+  },
+  {
+   "method": "M3_comp_industry_ward_K6_ballot",
+   "mean_score": 19.75,
+   "median": 18.0,
+   "sd": 11.080871549012482,
+   "mean_diff_vs_raw": -0.25,
+   "wins": 5,
+   "losses": 3,
+   "p_wilcoxon": 0.796875,
+   "p_signflip": 1.0
+  },
+  {
+   "method": "M3_comp_industry_nmf_K8_ballot",
+   "mean_score": 19.75,
+   "median": 19.0,
+   "sd": 10.76701311546389,
+   "mean_diff_vs_raw": -0.25,
+   "wins": 3,
+   "losses": 3,
+   "p_wilcoxon": 0.96875,
+   "p_signflip": 1.0
+  },
+  {
+   "method": "M3_comp_industry_ward_K6_settlement",
+   "mean_score": 19.75,
+   "median": 19.0,
+   "sd": 10.76701311546389,
+   "mean_diff_vs_raw": -0.25,
+   "wins": 3,
+   "losses": 3,
+   "p_wilcoxon": 0.96875,
+   "p_signflip": 1.0
+  },
+  {
+   "method": "M3_comp_industry_gmm_K10_ballot",
+   "mean_score": 19.75,
+   "median": 19.0,
+   "sd": 11.02918207043737,
+   "mean_diff_vs_raw": -0.25,
+   "wins": 4,
+   "losses": 4,
+   "p_wilcoxon": 1.0,
+   "p_signflip": 1.0
+  },
+  {
+   "method": "M3_comp_industry_ward_K12_ballot",
+   "mean_score": 20.0,
+   "median": 19.0,
+   "sd": 11.05828713163636,
+   "mean_diff_vs_raw": 0.0,
+   "wins": 4,
+   "losses": 4,
+   "p_wilcoxon": 1.0,
+   "p_signflip": 1.0
+  },
+  {
+   "method": "M3_comp_industry_gmm_K14_ballot",
+   "mean_score": 20.0,
+   "median": 18.0,
+   "sd": 10.796824930109247,
+   "mean_diff_vs_raw": 0.0,
+   "wins": 4,
+   "losses": 4,
+   "p_wilcoxon": 0.96875,
+   "p_signflip": 1.0
+  },
+  {
+   "method": "M3_comp_industry_ward_K10_ballot",
+   "mean_score": 20.0,
+   "median": 19.0,
+   "sd": 10.90216230190795,
+   "mean_diff_vs_raw": 0.0,
+   "wins": 4,
+   "losses": 4,
+   "p_wilcoxon": 0.96875,
+   "p_signflip": 1.0
+  },
+  {
+   "method": "M3_comp_pollster_lam0.02_gmm_K6_settlement",
+   "mean_score": 20.0,
+   "median": 19.0,
+   "sd": 10.36477551269546,
+   "mean_diff_vs_raw": 0.0,
+   "wins": 3,
+   "losses": 3,
+   "p_wilcoxon": 1.0,
+   "p_signflip": 1.0
+  },
+  {
+   "method": "M0t_trimmed_mean_pollster",
+   "mean_score": 20.0,
+   "median": 20.0,
+   "sd": 10.8496214548843,
+   "mean_diff_vs_raw": 0.0,
+   "wins": 1,
+   "losses": 2,
+   "p_wilcoxon": 1.0,
+   "p_signflip": 1.0
+  },
+  {
+   "method": "M0_raw_average",
+   "mean_score": 20.0,
+   "median": 18.0,
+   "sd": 11.36410388648648,
+   "mean_diff_vs_raw": 0.0,
+   "wins": 0,
+   "losses": 0,
+   "p_wilcoxon": null,
+   "p_signflip": 1.0
+  },
+  {
+   "method": "M3_comp_pollster_lam0.1_kmeans_K8_settlement",
+   "mean_score": 20.0,
+   "median": 19.0,
+   "sd": 10.36477551269546,
+   "mean_diff_vs_raw": 0.0,
+   "wins": 4,
+   "losses": 3,
+   "p_wilcoxon": 1.0,
+   "p_signflip": 1.0
+  },
+  {
+   "method": "M3_comp_pollster_lam0.1_ward_K12_ballot",
+   "mean_score": 20.0,
+   "median": 19.0,
+   "sd": 11.05828713163636,
+   "mean_diff_vs_raw": 0.0,
+   "wins": 4,
+   "losses": 4,
+   "p_wilcoxon": 1.0,
+   "p_signflip": 1.0
+  },
+  {
+   "method": "M3_comp_pollster_lam0.1_gmm_K6_settlement",
+   "mean_score": 20.0,
+   "median": 19.0,
+   "sd": 10.36477551269546,
+   "mean_diff_vs_raw": 0.0,
+   "wins": 3,
+   "losses": 3,
+   "p_wilcoxon": 1.0,
+   "p_signflip": 1.0
+  },
+  {
+   "method": "M3_comp_pollster_lam0.02_ward_K12_ballot",
+   "mean_score": 20.0,
+   "median": 19.0,
+   "sd": 11.05828713163636,
+   "mean_diff_vs_raw": 0.0,
+   "wins": 4,
+   "losses": 4,
+   "p_wilcoxon": 1.0,
+   "p_signflip": 1.0
+  },
+  {
+   "method": "M3_comp_pollster_lam0.02_kmeans_K8_ballot",
+   "mean_score": 20.0,
+   "median": 20.0,
+   "sd": 10.743768958264669,
+   "mean_diff_vs_raw": 0.0,
+   "wins": 3,
+   "losses": 3,
+   "p_wilcoxon": 1.0,
+   "p_signflip": 1.0
+  },
+  {
+   "method": "M3_comp_pollster_lam0.1_gmm_K14_ballot",
+   "mean_score": 20.0,
+   "median": 18.0,
+   "sd": 10.796824930109247,
+   "mean_diff_vs_raw": 0.0,
+   "wins": 4,
+   "losses": 4,
+   "p_wilcoxon": 0.96875,
+   "p_signflip": 1.0
+  },
+  {
+   "method": "M3_comp_industry_kmeans_K12_settlement",
+   "mean_score": 20.25,
+   "median": 20.0,
+   "sd": 11.02918207043737,
+   "mean_diff_vs_raw": 0.25,
+   "wins": 3,
+   "losses": 3,
+   "p_wilcoxon": 1.0,
+   "p_signflip": 1.0
+  },
+  {
+   "method": "M3_comp_pollster_lam0.1_gmm_K12_ballot",
+   "mean_score": 20.25,
+   "median": 18.0,
+   "sd": 10.49829918197637,
+   "mean_diff_vs_raw": 0.25,
+   "wins": 4,
+   "losses": 4,
+   "p_wilcoxon": 0.9453125,
+   "p_signflip": 1.0
+  },
+  {
+   "method": "M3_comp_industry_gmm_K6_settlement",
+   "mean_score": 20.25,
+   "median": 20.0,
+   "sd": 10.333717350775292,
+   "mean_diff_vs_raw": 0.25,
+   "wins": 3,
+   "losses": 3,
+   "p_wilcoxon": 0.96875,
+   "p_signflip": 1.0
+  },
+  {
+   "method": "M1r_industry_regression",
+   "mean_score": 20.25,
+   "median": 19.0,
+   "sd": 10.660340385881549,
+   "mean_diff_vs_raw": 0.25,
+   "wins": 2,
+   "losses": 3,
+   "p_wilcoxon": 1.0,
+   "p_signflip": 1.0
+  },
+  {
+   "method": "M3_comp_pollster_lam0.02_ward_K10_ballot",
+   "mean_score": 20.25,
+   "median": 19.0,
+   "sd": 10.443726756834868,
+   "mean_diff_vs_raw": 0.25,
+   "wins": 4,
+   "losses": 4,
+   "p_wilcoxon": 0.90625,
+   "p_signflip": 1.0
+  },
+  {
+   "method": "M3_comp_pollster_lam0.02_gmm_K14_ballot",
+   "mean_score": 20.25,
+   "median": 18.0,
+   "sd": 10.333717350775292,
+   "mean_diff_vs_raw": 0.25,
+   "wins": 4,
+   "losses": 4,
+   "p_wilcoxon": 0.90625,
+   "p_signflip": 1.0
+  },
+  {
+   "method": "M3_comp_pollster_lam0.1_ward_K14_ballot",
+   "mean_score": 20.5,
+   "median": 19.0,
+   "sd": 10.460811222298748,
+   "mean_diff_vs_raw": 0.5,
+   "wins": 4,
+   "losses": 4,
+   "p_wilcoxon": 0.84375,
+   "p_signflip": 0.8984375
+  },
+  {
+   "method": "M3_comp_pollster_lam0.1_ward_K10_ballot",
+   "mean_score": 20.5,
+   "median": 19.0,
+   "sd": 10.460811222298748,
+   "mean_diff_vs_raw": 0.5,
+   "wins": 4,
+   "losses": 4,
+   "p_wilcoxon": 0.84375,
+   "p_signflip": 0.8984375
+  },
+  {
+   "method": "M3_comp_industry_ward_K14_ballot",
+   "mean_score": 20.5,
+   "median": 19.0,
+   "sd": 10.460811222298748,
+   "mean_diff_vs_raw": 0.5,
+   "wins": 4,
+   "losses": 4,
+   "p_wilcoxon": 0.84375,
+   "p_signflip": 0.8984375
+  },
+  {
+   "method": "M3_comp_industry_gmm_K12_ballot",
+   "mean_score": 20.5,
+   "median": 18.0,
+   "sd": 10.56949789319652,
+   "mean_diff_vs_raw": 0.5,
+   "wins": 4,
+   "losses": 4,
+   "p_wilcoxon": 0.90625,
+   "p_signflip": 0.90625
+  },
+  {
+   "method": "M3_comp_pollster_lam0.02_gmm_K12_ballot",
+   "mean_score": 20.5,
+   "median": 19.0,
+   "sd": 10.460811222298748,
+   "mean_diff_vs_raw": 0.5,
+   "wins": 4,
+   "losses": 4,
+   "p_wilcoxon": 0.84375,
+   "p_signflip": 0.8984375
+  },
+  {
+   "method": "M3_comp_pollster_lam0.02_ward_K14_ballot",
+   "mean_score": 20.5,
+   "median": 19.0,
+   "sd": 10.460811222298748,
+   "mean_diff_vs_raw": 0.5,
+   "wins": 4,
+   "losses": 4,
+   "p_wilcoxon": 0.84375,
+   "p_signflip": 0.8984375
+  },
+  {
+   "method": "M3_comp_industry_kmeans_K14_settlement",
+   "mean_score": 20.75,
+   "median": 21.0,
+   "sd": 10.250435530816658,
+   "mean_diff_vs_raw": 0.75,
+   "wins": 3,
+   "losses": 5,
+   "p_wilcoxon": 0.7734375,
+   "p_signflip": 0.8359375
+  },
+  {
+   "method": "M3_comp_industry_kmeans_K12_ballot",
+   "mean_score": 20.75,
+   "median": 19.0,
+   "sd": 10.846329201294656,
+   "mean_diff_vs_raw": 0.75,
+   "wins": 4,
+   "losses": 4,
+   "p_wilcoxon": 0.671875,
+   "p_signflip": 0.8125
+  },
+  {
+   "method": "M3_comp_pollster_lam0.1_gmm_K8_ballot",
+   "mean_score": 20.75,
+   "median": 19.0,
+   "sd": 10.525479290071036,
+   "mean_diff_vs_raw": 0.75,
+   "wins": 4,
+   "losses": 4,
+   "p_wilcoxon": 0.7890625,
+   "p_signflip": 0.8125
+  },
+  {
+   "method": "M3_comp_industry_gmm_K8_ballot",
+   "mean_score": 20.75,
+   "median": 19.0,
+   "sd": 10.525479290071036,
+   "mean_diff_vs_raw": 0.75,
+   "wins": 4,
+   "losses": 4,
+   "p_wilcoxon": 0.7890625,
+   "p_signflip": 0.8125
+  },
+  {
+   "method": "M3_comp_pollster_lam0.1_kmeans_K10_ballot",
+   "mean_score": 20.75,
+   "median": 19.0,
+   "sd": 10.846329201294656,
+   "mean_diff_vs_raw": 0.75,
+   "wins": 4,
+   "losses": 4,
+   "p_wilcoxon": 0.671875,
+   "p_signflip": 0.8125
+  },
+  {
+   "method": "M3_comp_pollster_lam0.1_kmeans_K12_ballot",
+   "mean_score": 20.75,
+   "median": 19.0,
+   "sd": 10.846329201294656,
+   "mean_diff_vs_raw": 0.75,
+   "wins": 4,
+   "losses": 4,
+   "p_wilcoxon": 0.671875,
+   "p_signflip": 0.8125
+  },
+  {
+   "method": "M3_comp_pollster_lam0.02_gmm_K8_ballot",
+   "mean_score": 20.75,
+   "median": 19.0,
+   "sd": 10.525479290071036,
+   "mean_diff_vs_raw": 0.75,
+   "wins": 4,
+   "losses": 4,
+   "p_wilcoxon": 0.7890625,
+   "p_signflip": 0.8125
+  },
+  {
+   "method": "M3_comp_pollster_lam0.02_kmeans_K10_ballot",
+   "mean_score": 20.75,
+   "median": 19.0,
+   "sd": 10.846329201294656,
+   "mean_diff_vs_raw": 0.75,
+   "wins": 4,
+   "losses": 4,
+   "p_wilcoxon": 0.671875,
+   "p_signflip": 0.8125
+  },
+  {
+   "method": "M3_comp_pollster_lam0.02_kmeans_K12_ballot",
+   "mean_score": 20.75,
+   "median": 19.0,
+   "sd": 10.846329201294656,
+   "mean_diff_vs_raw": 0.75,
+   "wins": 4,
+   "losses": 4,
+   "p_wilcoxon": 0.671875,
+   "p_signflip": 0.8125
+  },
+  {
+   "method": "M3_comp_pollster_lam0.02_kmeans_K14_ballot",
+   "mean_score": 20.75,
+   "median": 20.0,
+   "sd": 10.95119041148365,
+   "mean_diff_vs_raw": 0.75,
+   "wins": 3,
+   "losses": 4,
+   "p_wilcoxon": 0.71875,
+   "p_signflip": 0.8125
+  },
+  {
+   "method": "M3_comp_industry_kmeans_K10_ballot",
+   "mean_score": 20.75,
+   "median": 19.0,
+   "sd": 10.846329201294656,
+   "mean_diff_vs_raw": 0.75,
+   "wins": 4,
+   "losses": 4,
+   "p_wilcoxon": 0.671875,
+   "p_signflip": 0.8125
+  },
+  {
+   "method": "M3_comp_pollster_lam0.02_kmeans_K12_settlement",
+   "mean_score": 21.0,
+   "median": 20.0,
+   "sd": 10.198039027185567,
+   "mean_diff_vs_raw": 1.0,
+   "wins": 3,
+   "losses": 4,
+   "p_wilcoxon": 0.765625,
+   "p_signflip": 0.765625
+  },
+  {
+   "method": "M3_comp_pollster_lam0.02_ward_K8_settlement",
+   "mean_score": 21.0,
+   "median": 20.0,
+   "sd": 10.743768958264669,
+   "mean_diff_vs_raw": 1.0,
+   "wins": 3,
+   "losses": 4,
+   "p_wilcoxon": 0.765625,
+   "p_signflip": 0.75
+  },
+  {
+   "method": "M3_comp_industry_ward_K8_settlement",
+   "mean_score": 21.0,
+   "median": 20.0,
+   "sd": 10.743768958264669,
+   "mean_diff_vs_raw": 1.0,
+   "wins": 3,
+   "losses": 4,
+   "p_wilcoxon": 0.765625,
+   "p_signflip": 0.75
+  },
+  {
+   "method": "M3_comp_industry_kmeans_K14_ballot",
+   "mean_score": 21.0,
+   "median": 20.0,
+   "sd": 10.796824930109247,
+   "mean_diff_vs_raw": 1.0,
+   "wins": 3,
+   "losses": 4,
+   "p_wilcoxon": 0.671875,
+   "p_signflip": 0.71875
+  },
+  {
+   "method": "M3_comp_pollster_lam0.1_kmeans_K14_ballot",
+   "mean_score": 21.0,
+   "median": 20.0,
+   "sd": 10.796824930109247,
+   "mean_diff_vs_raw": 1.0,
+   "wins": 3,
+   "losses": 4,
+   "p_wilcoxon": 0.671875,
+   "p_signflip": 0.71875
+  },
+  {
+   "method": "M3_comp_pollster_lam0.1_kmeans_K14_settlement",
+   "mean_score": 21.0,
+   "median": 21.0,
+   "sd": 10.085350054127307,
+   "mean_diff_vs_raw": 1.0,
+   "wins": 3,
+   "losses": 5,
+   "p_wilcoxon": 0.640625,
+   "p_signflip": 0.7421875
+  },
+  {
+   "method": "M3_comp_pollster_lam0.1_ward_K8_settlement",
+   "mean_score": 21.0,
+   "median": 20.0,
+   "sd": 10.743768958264669,
+   "mean_diff_vs_raw": 1.0,
+   "wins": 3,
+   "losses": 4,
+   "p_wilcoxon": 0.765625,
+   "p_signflip": 0.75
+  },
+  {
+   "method": "M3_comp_pollster_lam0.1_ward_K10_settlement",
+   "mean_score": 21.25,
+   "median": 19.0,
+   "sd": 11.209052464096024,
+   "mean_diff_vs_raw": 1.25,
+   "wins": 4,
+   "losses": 3,
+   "p_wilcoxon": 0.796875,
+   "p_signflip": 0.71875
+  },
+  {
+   "method": "M3_comp_industry_ward_K10_settlement",
+   "mean_score": 21.25,
+   "median": 19.0,
+   "sd": 11.209052464096024,
+   "mean_diff_vs_raw": 1.25,
+   "wins": 4,
+   "losses": 3,
+   "p_wilcoxon": 0.796875,
+   "p_signflip": 0.71875
+  },
+  {
+   "method": "M3_comp_pollster_lam0.02_ward_K10_settlement",
+   "mean_score": 21.25,
+   "median": 19.0,
+   "sd": 11.209052464096024,
+   "mean_diff_vs_raw": 1.25,
+   "wins": 4,
+   "losses": 3,
+   "p_wilcoxon": 0.796875,
+   "p_signflip": 0.71875
+  },
+  {
+   "method": "M3_comp_pollster_lam0.1_kmeans_K12_settlement",
+   "mean_score": 21.25,
+   "median": 20.0,
+   "sd": 10.306031521118385,
+   "mean_diff_vs_raw": 1.25,
+   "wins": 3,
+   "losses": 4,
+   "p_wilcoxon": 0.671875,
+   "p_signflip": 0.671875
+  },
+  {
+   "method": "M3_comp_pollster_lam0.02_kmeans_K10_settlement",
+   "mean_score": 21.25,
+   "median": 20.0,
+   "sd": 10.024968827881713,
+   "mean_diff_vs_raw": 1.25,
+   "wins": 3,
+   "losses": 4,
+   "p_wilcoxon": 0.625,
+   "p_signflip": 0.625
+  },
+  {
+   "method": "M3_comp_industry_kmeans_K10_settlement",
+   "mean_score": 21.5,
+   "median": 21.0,
+   "sd": 10.014275524755362,
+   "mean_diff_vs_raw": 1.5,
+   "wins": 2,
+   "losses": 4,
+   "p_wilcoxon": 0.53125,
+   "p_signflip": 0.53125
+  },
+  {
+   "method": "M3_comp_industry_ward_K14_settlement",
+   "mean_score": 21.5,
+   "median": 19.0,
+   "sd": 10.677078252031311,
+   "mean_diff_vs_raw": 1.5,
+   "wins": 4,
+   "losses": 4,
+   "p_wilcoxon": 0.6640625,
+   "p_signflip": 0.6171875
+  },
+  {
+   "method": "M3_comp_pollster_lam0.02_kmeans_K14_settlement",
+   "mean_score": 21.5,
+   "median": 21.0,
+   "sd": 10.014275524755362,
+   "mean_diff_vs_raw": 1.5,
+   "wins": 3,
+   "losses": 5,
+   "p_wilcoxon": 0.4921875,
+   "p_signflip": 0.53125
+  },
+  {
+   "method": "M3_comp_pollster_lam0.1_kmeans_K10_settlement",
+   "mean_score": 21.75,
+   "median": 21.0,
+   "sd": 10.110108096073242,
+   "mean_diff_vs_raw": 1.75,
+   "wins": 2,
+   "losses": 4,
+   "p_wilcoxon": 0.46875,
+   "p_signflip": 0.46875
+  },
+  {
+   "method": "M3_comp_pollster_lam0.02_ward_K14_settlement",
+   "mean_score": 21.75,
+   "median": 20.0,
+   "sd": 10.606601717798211,
+   "mean_diff_vs_raw": 1.75,
+   "wins": 3,
+   "losses": 4,
+   "p_wilcoxon": 0.578125,
+   "p_signflip": 0.546875
+  },
+  {
+   "method": "M3_comp_pollster_lam0.1_ward_K14_settlement",
+   "mean_score": 21.75,
+   "median": 20.0,
+   "sd": 10.606601717798211,
+   "mean_diff_vs_raw": 1.75,
+   "wins": 3,
+   "losses": 4,
+   "p_wilcoxon": 0.578125,
+   "p_signflip": 0.546875
+  },
+  {
+   "method": "M3_comp_pollster_lam0.1_ward_K12_settlement",
+   "mean_score": 22.0,
+   "median": 20.0,
+   "sd": 10.690449676496977,
+   "mean_diff_vs_raw": 2.0,
+   "wins": 4,
+   "losses": 4,
+   "p_wilcoxon": 0.71875,
+   "p_signflip": 0.5703125
+  },
+  {
+   "method": "M3_comp_industry_ward_K12_settlement",
+   "mean_score": 22.0,
+   "median": 20.0,
+   "sd": 10.690449676496977,
+   "mean_diff_vs_raw": 2.0,
+   "wins": 4,
+   "losses": 4,
+   "p_wilcoxon": 0.71875,
+   "p_signflip": 0.5703125
+  },
+  {
+   "method": "M3_comp_pollster_lam0.02_ward_K12_settlement",
+   "mean_score": 22.0,
+   "median": 20.0,
+   "sd": 10.690449676496977,
+   "mean_diff_vs_raw": 2.0,
+   "wins": 4,
+   "losses": 4,
+   "p_wilcoxon": 0.71875,
+   "p_signflip": 0.5703125
+  }
+ ],
+ "scores_by_election": [
+  {
+   "knesset": 18,
+   "M0_raw_average": 16.0,
+   "M1s_industry_family_shrunk": 16.0,
+   "M2h_pollster_house_half": 16.0,
+   "N_nested_best_M3": 18.0,
+   "E1_M1s+compAll": 18.0,
+   "E2_M1s+compNMF": 18.0,
+   "E3_M1s+compAll+pollster": 18.0,
+   "E4_compAll_only": 18.0,
+   "E5_compNMF_only": 16.0
+  },
+  {
+   "knesset": 19,
+   "M0_raw_average": 22.0,
+   "M1s_industry_family_shrunk": 20.0,
+   "M2h_pollster_house_half": 20.0,
+   "N_nested_best_M3": 18.0,
+   "E1_M1s+compAll": 20.0,
+   "E2_M1s+compNMF": 20.0,
+   "E3_M1s+compAll+pollster": 20.0,
+   "E4_compAll_only": 20.0,
+   "E5_compNMF_only": 20.0
+  },
+  {
+   "knesset": 20,
+   "M0_raw_average": 20.0,
+   "M1s_industry_family_shrunk": 22.0,
+   "M2h_pollster_house_half": 24.0,
+   "N_nested_best_M3": 20.0,
+   "E1_M1s+compAll": 20.0,
+   "E2_M1s+compNMF": 18.0,
+   "E3_M1s+compAll+pollster": 20.0,
+   "E4_compAll_only": 18.0,
+   "E5_compNMF_only": 20.0
+  },
+  {
+   "knesset": 21,
+   "M0_raw_average": 44.0,
+   "M1s_industry_family_shrunk": 38.0,
+   "M2h_pollster_house_half": 36.0,
+   "N_nested_best_M3": 38.0,
+   "E1_M1s+compAll": 36.0,
+   "E2_M1s+compNMF": 38.0,
+   "E3_M1s+compAll+pollster": 36.0,
+   "E4_compAll_only": 36.0,
+   "E5_compNMF_only": 36.0
+  },
+  {
+   "knesset": 22,
+   "M0_raw_average": 12.0,
+   "M1s_industry_family_shrunk": 10.0,
+   "M2h_pollster_house_half": 10.0,
+   "N_nested_best_M3": 14.0,
+   "E1_M1s+compAll": 10.0,
+   "E2_M1s+compNMF": 10.0,
+   "E3_M1s+compAll+pollster": 10.0,
+   "E4_compAll_only": 14.0,
+   "E5_compNMF_only": 12.0
+  },
+  {
+   "knesset": 23,
+   "M0_raw_average": 8.0,
+   "M1s_industry_family_shrunk": 6.0,
+   "M2h_pollster_house_half": 6.0,
+   "N_nested_best_M3": 8.0,
+   "E1_M1s+compAll": 4.0,
+   "E2_M1s+compNMF": 4.0,
+   "E3_M1s+compAll+pollster": 4.0,
+   "E4_compAll_only": 2.0,
+   "E5_compNMF_only": 6.0
+  },
+  {
+   "knesset": 24,
+   "M0_raw_average": 26.0,
+   "M1s_industry_family_shrunk": 26.0,
+   "M2h_pollster_house_half": 28.0,
+   "N_nested_best_M3": 34.0,
+   "E1_M1s+compAll": 26.0,
+   "E2_M1s+compNMF": 26.0,
+   "E3_M1s+compAll+pollster": 26.0,
+   "E4_compAll_only": 34.0,
+   "E5_compNMF_only": 34.0
+  },
+  {
+   "knesset": 25,
+   "M0_raw_average": 12.0,
+   "M1s_industry_family_shrunk": 12.0,
+   "M2h_pollster_house_half": 14.0,
+   "N_nested_best_M3": 16.0,
+   "E1_M1s+compAll": 14.0,
+   "E2_M1s+compNMF": 12.0,
+   "E3_M1s+compAll+pollster": 14.0,
+   "E4_compAll_only": 14.0,
+   "E5_compNMF_only": 14.0
+  }
+ ],
+ "clustering": [
+  {
+   "unit": "ballot",
+   "method": "kmeans",
+   "K": 4,
+   "n_clusters_used": 4,
+   "silhouette": 0.3334,
+   "calinski_harabasz": 4128.9278,
+   "davies_bouldin": 1.0201,
+   "stability_ari": 0.9794,
+   "stability_sd": 0.0133,
+   "bic": null,
+   "nmf_recon_err": null
+  },
+  {
+   "unit": "ballot",
+   "method": "kmeans",
+   "K": 6,
+   "n_clusters_used": 6,
+   "silhouette": 0.265,
+   "calinski_harabasz": 3340.281,
+   "davies_bouldin": 1.3006,
+   "stability_ari": 0.7102,
+   "stability_sd": 0.1782,
+   "bic": null,
+   "nmf_recon_err": null
+  },
+  {
+   "unit": "ballot",
+   "method": "kmeans",
+   "K": 8,
+   "n_clusters_used": 8,
+   "silhouette": 0.2737,
+   "calinski_harabasz": 2927.8637,
+   "davies_bouldin": 1.2511,
+   "stability_ari": 0.8393,
+   "stability_sd": 0.0806,
+   "bic": null,
+   "nmf_recon_err": null
+  },
+  {
+   "unit": "ballot",
+   "method": "kmeans",
+   "K": 10,
+   "n_clusters_used": 10,
+   "silhouette": 0.2442,
+   "calinski_harabasz": 2618.8964,
+   "davies_bouldin": 1.2773,
+   "stability_ari": 0.885,
+   "stability_sd": 0.0514,
+   "bic": null,
+   "nmf_recon_err": null
+  },
+  {
+   "unit": "ballot",
+   "method": "kmeans",
+   "K": 12,
+   "n_clusters_used": 12,
+   "silhouette": 0.2414,
+   "calinski_harabasz": 2420.9816,
+   "davies_bouldin": 1.2874,
+   "stability_ari": 0.7534,
+   "stability_sd": 0.0809,
+   "bic": null,
+   "nmf_recon_err": null
+  },
+  {
+   "unit": "ballot",
+   "method": "kmeans",
+   "K": 14,
+   "n_clusters_used": 14,
+   "silhouette": 0.2205,
+   "calinski_harabasz": 2207.4397,
+   "davies_bouldin": 1.3655,
+   "stability_ari": 0.6032,
+   "stability_sd": 0.0998,
+   "bic": null,
+   "nmf_recon_err": null
+  },
+  {
+   "unit": "ballot",
+   "method": "gmm",
+   "K": 4,
+   "n_clusters_used": 4,
+   "silhouette": 0.2831,
+   "calinski_harabasz": 3347.4176,
+   "davies_bouldin": 1.1925,
+   "stability_ari": 0.8893,
+   "stability_sd": 0.0469,
+   "bic": -687851.4258,
+   "nmf_recon_err": null
+  },
+  {
+   "unit": "ballot",
+   "method": "gmm",
+   "K": 6,
+   "n_clusters_used": 6,
+   "silhouette": 0.2574,
+   "calinski_harabasz": 2507.6484,
+   "davies_bouldin": 1.4306,
+   "stability_ari": 0.8565,
+   "stability_sd": 0.0817,
+   "bic": -764726.8939,
+   "nmf_recon_err": null
+  },
+  {
+   "unit": "ballot",
+   "method": "gmm",
+   "K": 8,
+   "n_clusters_used": 8,
+   "silhouette": 0.2135,
+   "calinski_harabasz": 2316.4738,
+   "davies_bouldin": 1.4253,
+   "stability_ari": 0.5949,
+   "stability_sd": 0.134,
+   "bic": -792499.2221,
+   "nmf_recon_err": null
+  },
+  {
+   "unit": "ballot",
+   "method": "gmm",
+   "K": 10,
+   "n_clusters_used": 10,
+   "silhouette": 0.1813,
+   "calinski_harabasz": 2115.6541,
+   "davies_bouldin": 1.7099,
+   "stability_ari": 0.649,
+   "stability_sd": 0.0673,
+   "bic": -808355.693,
+   "nmf_recon_err": null
+  },
+  {
+   "unit": "ballot",
+   "method": "gmm",
+   "K": 12,
+   "n_clusters_used": 12,
+   "silhouette": 0.1897,
+   "calinski_harabasz": 1980.7935,
+   "davies_bouldin": 1.5231,
+   "stability_ari": 0.7206,
+   "stability_sd": 0.107,
+   "bic": -821442.9134,
+   "nmf_recon_err": null
+  },
+  {
+   "unit": "ballot",
+   "method": "gmm",
+   "K": 14,
+   "n_clusters_used": 14,
+   "silhouette": 0.1921,
+   "calinski_harabasz": 1859.8216,
+   "davies_bouldin": 1.4977,
+   "stability_ari": 0.5705,
+   "stability_sd": 0.061,
+   "bic": -836345.7956,
+   "nmf_recon_err": null
+  },
+  {
+   "unit": "ballot",
+   "method": "ward",
+   "K": 4,
+   "n_clusters_used": 4,
+   "silhouette": 0.3307,
+   "calinski_harabasz": 4084.5249,
+   "davies_bouldin": 1.0003,
+   "stability_ari": 0.8927,
+   "stability_sd": 0.0453,
+   "bic": null,
+   "nmf_recon_err": null
+  },
+  {
+   "unit": "ballot",
+   "method": "ward",
+   "K": 6,
+   "n_clusters_used": 6,
+   "silhouette": 0.2897,
+   "calinski_harabasz": 3344.2963,
+   "davies_bouldin": 1.1841,
+   "stability_ari": 0.54,
+   "stability_sd": 0.1131,
+   "bic": null,
+   "nmf_recon_err": null
+  },
+  {
+   "unit": "ballot",
+   "method": "ward",
+   "K": 8,
+   "n_clusters_used": 8,
+   "silhouette": 0.2646,
+   "calinski_harabasz": 2887.7942,
+   "davies_bouldin": 1.2407,
+   "stability_ari": 0.438,
+   "stability_sd": 0.0292,
+   "bic": null,
+   "nmf_recon_err": null
+  },
+  {
+   "unit": "ballot",
+   "method": "ward",
+   "K": 10,
+   "n_clusters_used": 10,
+   "silhouette": 0.252,
+   "calinski_harabasz": 2533.0744,
+   "davies_bouldin": 1.2359,
+   "stability_ari": 0.4873,
+   "stability_sd": 0.017,
+   "bic": null,
+   "nmf_recon_err": null
+  },
+  {
+   "unit": "ballot",
+   "method": "ward",
+   "K": 12,
+   "n_clusters_used": 12,
+   "silhouette": 0.2333,
+   "calinski_harabasz": 2321.3494,
+   "davies_bouldin": 1.3508,
+   "stability_ari": 0.5389,
+   "stability_sd": 0.0258,
+   "bic": null,
+   "nmf_recon_err": null
+  },
+  {
+   "unit": "ballot",
+   "method": "ward",
+   "K": 14,
+   "n_clusters_used": 14,
+   "silhouette": 0.2276,
+   "calinski_harabasz": 2109.9993,
+   "davies_bouldin": 1.384,
+   "stability_ari": 0.6036,
+   "stability_sd": 0.0602,
+   "bic": null,
+   "nmf_recon_err": null
+  },
+  {
+   "unit": "ballot",
+   "method": "nmf",
+   "K": 4,
+   "n_clusters_used": 4,
+   "silhouette": 0.3243,
+   "calinski_harabasz": 3995.9043,
+   "davies_bouldin": 1.0292,
+   "stability_ari": 0.9882,
+   "stability_sd": 0.0041,
+   "bic": null,
+   "nmf_recon_err": 40.3787
+  },
+  {
+   "unit": "ballot",
+   "method": "nmf",
+   "K": 6,
+   "n_clusters_used": 6,
+   "silhouette": 0.2785,
+   "calinski_harabasz": 2973.0396,
+   "davies_bouldin": 1.1377,
+   "stability_ari": 0.9869,
+   "stability_sd": 0.0029,
+   "bic": null,
+   "nmf_recon_err": 23.5615
+  },
+  {
+   "unit": "ballot",
+   "method": "nmf",
+   "K": 8,
+   "n_clusters_used": 8,
+   "silhouette": 0.2555,
+   "calinski_harabasz": 2453.4955,
+   "davies_bouldin": 1.2146,
+   "stability_ari": 0.9919,
+   "stability_sd": 0.0022,
+   "bic": null,
+   "nmf_recon_err": 6.112
+  },
+  {
+   "unit": "settlement",
+   "method": "kmeans",
+   "K": 4,
+   "n_clusters_used": 4,
+   "silhouette": 0.3751,
+   "calinski_harabasz": 3897.5603,
+   "davies_bouldin": 1.0011,
+   "stability_ari": 0.992,
+   "stability_sd": 0.0028,
+   "bic": null,
+   "nmf_recon_err": null
+  },
+  {
+   "unit": "settlement",
+   "method": "kmeans",
+   "K": 6,
+   "n_clusters_used": 6,
+   "silhouette": 0.3306,
+   "calinski_harabasz": 3459.9834,
+   "davies_bouldin": 0.9885,
+   "stability_ari": 0.8189,
+   "stability_sd": 0.1263,
+   "bic": null,
+   "nmf_recon_err": null
+  },
+  {
+   "unit": "settlement",
+   "method": "kmeans",
+   "K": 8,
+   "n_clusters_used": 8,
+   "silhouette": 0.3061,
+   "calinski_harabasz": 3027.6114,
+   "davies_bouldin": 1.1786,
+   "stability_ari": 0.7659,
+   "stability_sd": 0.124,
+   "bic": null,
+   "nmf_recon_err": null
+  },
+  {
+   "unit": "settlement",
+   "method": "kmeans",
+   "K": 10,
+   "n_clusters_used": 10,
+   "silhouette": 0.2512,
+   "calinski_harabasz": 2670.3688,
+   "davies_bouldin": 1.331,
+   "stability_ari": 0.823,
+   "stability_sd": 0.0203,
+   "bic": null,
+   "nmf_recon_err": null
+  },
+  {
+   "unit": "settlement",
+   "method": "kmeans",
+   "K": 12,
+   "n_clusters_used": 12,
+   "silhouette": 0.2362,
+   "calinski_harabasz": 2432.6555,
+   "davies_bouldin": 1.3898,
+   "stability_ari": 0.6514,
+   "stability_sd": 0.0085,
+   "bic": null,
+   "nmf_recon_err": null
+  },
+  {
+   "unit": "settlement",
+   "method": "kmeans",
+   "K": 14,
+   "n_clusters_used": 14,
+   "silhouette": 0.2115,
+   "calinski_harabasz": 2226.2081,
+   "davies_bouldin": 1.4446,
+   "stability_ari": 0.7281,
+   "stability_sd": 0.0077,
+   "bic": null,
+   "nmf_recon_err": null
+  },
+  {
+   "unit": "settlement",
+   "method": "gmm",
+   "K": 4,
+   "n_clusters_used": 4,
+   "silhouette": 0.3341,
+   "calinski_harabasz": 3520.9391,
+   "davies_bouldin": 1.1258,
+   "stability_ari": 0.8621,
+   "stability_sd": 0.0084,
+   "bic": -207792.2111,
+   "nmf_recon_err": null
+  },
+  {
+   "unit": "settlement",
+   "method": "gmm",
+   "K": 6,
+   "n_clusters_used": 6,
+   "silhouette": 0.2861,
+   "calinski_harabasz": 3016.8793,
+   "davies_bouldin": 1.3011,
+   "stability_ari": 0.7402,
+   "stability_sd": 0.0224,
+   "bic": -220824.2582,
+   "nmf_recon_err": null
+  },
+  {
+   "unit": "settlement",
+   "method": "gmm",
+   "K": 8,
+   "n_clusters_used": 8,
+   "silhouette": 0.2487,
+   "calinski_harabasz": 2251.5868,
+   "davies_bouldin": 1.5853,
+   "stability_ari": 0.6815,
+   "stability_sd": 0.1423,
+   "bic": -233957.167,
+   "nmf_recon_err": null
+  },
+  {
+   "unit": "settlement",
+   "method": "gmm",
+   "K": 10,
+   "n_clusters_used": 10,
+   "silhouette": 0.2365,
+   "calinski_harabasz": 2061.2802,
+   "davies_bouldin": 1.4839,
+   "stability_ari": 0.6774,
+   "stability_sd": 0.0518,
+   "bic": -238509.2223,
+   "nmf_recon_err": null
+  },
+  {
+   "unit": "settlement",
+   "method": "gmm",
+   "K": 12,
+   "n_clusters_used": 12,
+   "silhouette": 0.1854,
+   "calinski_harabasz": 1807.5438,
+   "davies_bouldin": 1.6294,
+   "stability_ari": 0.6737,
+   "stability_sd": 0.0404,
+   "bic": -241943.5315,
+   "nmf_recon_err": null
+  },
+  {
+   "unit": "settlement",
+   "method": "gmm",
+   "K": 14,
+   "n_clusters_used": 14,
+   "silhouette": 0.1805,
+   "calinski_harabasz": 1777.034,
+   "davies_bouldin": 1.765,
+   "stability_ari": 0.553,
+   "stability_sd": 0.03,
+   "bic": -243748.4317,
+   "nmf_recon_err": null
+  },
+  {
+   "unit": "settlement",
+   "method": "ward",
+   "K": 4,
+   "n_clusters_used": 4,
+   "silhouette": 0.3826,
+   "calinski_harabasz": 3869.7004,
+   "davies_bouldin": 0.994,
+   "stability_ari": null,
+   "stability_sd": null,
+   "bic": null,
+   "nmf_recon_err": null
+  },
+  {
+   "unit": "settlement",
+   "method": "ward",
+   "K": 6,
+   "n_clusters_used": 6,
+   "silhouette": 0.3066,
+   "calinski_harabasz": 3438.7819,
+   "davies_bouldin": 1.2069,
+   "stability_ari": null,
+   "stability_sd": null,
+   "bic": null,
+   "nmf_recon_err": null
+  },
+  {
+   "unit": "settlement",
+   "method": "ward",
+   "K": 8,
+   "n_clusters_used": 8,
+   "silhouette": 0.305,
+   "calinski_harabasz": 2981.6862,
+   "davies_bouldin": 1.2642,
+   "stability_ari": null,
+   "stability_sd": null,
+   "bic": null,
+   "nmf_recon_err": null
+  },
+  {
+   "unit": "settlement",
+   "method": "ward",
+   "K": 10,
+   "n_clusters_used": 10,
+   "silhouette": 0.2469,
+   "calinski_harabasz": 2625.4612,
+   "davies_bouldin": 1.3722,
+   "stability_ari": null,
+   "stability_sd": null,
+   "bic": null,
+   "nmf_recon_err": null
+  },
+  {
+   "unit": "settlement",
+   "method": "ward",
+   "K": 12,
+   "n_clusters_used": 12,
+   "silhouette": 0.2315,
+   "calinski_harabasz": 2378.3909,
+   "davies_bouldin": 1.4144,
+   "stability_ari": null,
+   "stability_sd": null,
+   "bic": null,
+   "nmf_recon_err": null
+  },
+  {
+   "unit": "settlement",
+   "method": "ward",
+   "K": 14,
+   "n_clusters_used": 14,
+   "silhouette": 0.2268,
+   "calinski_harabasz": 2130.3683,
+   "davies_bouldin": 1.4167,
+   "stability_ari": null,
+   "stability_sd": null,
+   "bic": null,
+   "nmf_recon_err": null
+  },
+  {
+   "unit": "settlement",
+   "method": "nmf",
+   "K": 4,
+   "n_clusters_used": 4,
+   "silhouette": 0.2878,
+   "calinski_harabasz": 3318.9081,
+   "davies_bouldin": 1.1234,
+   "stability_ari": 0.9504,
+   "stability_sd": 0.0344,
+   "bic": null,
+   "nmf_recon_err": 23.1659
+  },
+  {
+   "unit": "settlement",
+   "method": "nmf",
+   "K": 6,
+   "n_clusters_used": 6,
+   "silhouette": 0.3202,
+   "calinski_harabasz": 3194.0628,
+   "davies_bouldin": 1.1614,
+   "stability_ari": 0.9903,
+   "stability_sd": 0.0028,
+   "bic": null,
+   "nmf_recon_err": 9.6862
+  },
+  {
+   "unit": "settlement",
+   "method": "nmf",
+   "K": 8,
+   "n_clusters_used": 8,
+   "silhouette": 0.3108,
+   "calinski_harabasz": 2460.8789,
+   "davies_bouldin": 1.1381,
+   "stability_ari": 0.9897,
+   "stability_sd": 0.009,
+   "bic": null,
+   "nmf_recon_err": 4.0853
+  }
+ ],
+ "persistence": {
+  "n_pairs": 439.0,
+  "pearson_r": 0.1233098186235142,
+  "p_param": 0.0097058064621487,
+  "p_permutation": 0.0464767616191904,
+  "carryover_slope": 0.2346062641679332,
+  "slope_se": 0.0903179507725342
+ },
+ "calibration": {
+  "n_lists": 97.0,
+  "coverage_80": 0.8865979381443299,
+  "pit_mean": 0.4850244845360825,
+  "pit_sd": 0.2704785175633606,
+  "n_near_threshold": 48.0,
+  "brier_near_threshold": 0.1160960299479166,
+  "brier_climatology": 0.1766493055555555,
+  "logloss_near_threshold": 0.3729703731184119,
+  "mean_expected_err": 19.926625,
+  "mean_realised_err": 17.875,
+  "mean_p_near": 0.7283802083333333,
+  "observed_pass_near": 0.7708333333333334,
+  "platt_intercept": 0.3763282120031843,
+  "platt_slope": 0.9554329805111994,
+  "platt_p_intercept": 0.3934134328072458
+ },
+ "sensitivity": {
+  "sens_comp": {
+   "LIKUD": 24,
+   "YASHAR": 22,
+   "TOGETHER": 13,
+   "DEMOCRATS": 8,
+   "YB": 7,
+   "OTZMA": 7,
+   "SHAS": 9,
+   "UTJ": 8,
+   "RZP_ZEHUT": 6,
+   "JOINT": 10,
+   "RAAM": 6,
+   "HENDEL_ZELICHA": 0,
+   "AMCHA": 0
+  },
+  "sens_dis0": {
+   "LIKUD": 23,
+   "YASHAR": 22,
+   "TOGETHER": 13,
+   "DEMOCRATS": 8,
+   "YB": 8,
+   "OTZMA": 7,
+   "SHAS": 9,
+   "UTJ": 8,
+   "RZP_ZEHUT": 6,
+   "JOINT": 10,
+   "RAAM": 6,
+   "HENDEL_ZELICHA": 0,
+   "AMCHA": 0
+  },
+  "sens_dis1": {
+   "LIKUD": 24,
+   "YASHAR": 22,
+   "TOGETHER": 13,
+   "DEMOCRATS": 8,
+   "YB": 8,
+   "OTZMA": 7,
+   "SHAS": 9,
+   "UTJ": 8,
+   "RZP_ZEHUT": 6,
+   "JOINT": 9,
+   "RAAM": 6,
+   "HENDEL_ZELICHA": 0,
+   "AMCHA": 0
+  },
+  "sens_fam15": {
+   "LIKUD": 24,
+   "YASHAR": 22,
+   "TOGETHER": 13,
+   "DEMOCRATS": 8,
+   "YB": 8,
+   "OTZMA": 7,
+   "SHAS": 9,
+   "UTJ": 8,
+   "RZP_ZEHUT": 6,
+   "JOINT": 9,
+   "RAAM": 6,
+   "HENDEL_ZELICHA": 0,
+   "AMCHA": 0
+  },
+  "sens_halfOpaque": {
+   "LIKUD": 23,
+   "YASHAR": 22,
+   "TOGETHER": 13,
+   "DEMOCRATS": 8,
+   "YB": 8,
+   "OTZMA": 7,
+   "SHAS": 9,
+   "UTJ": 8,
+   "RZP_ZEHUT": 6,
+   "JOINT": 10,
+   "RAAM": 6,
+   "HENDEL_ZELICHA": 0,
+   "AMCHA": 0
+  },
+  "sens_house": {
+   "LIKUD": 23,
+   "YASHAR": 22,
+   "TOGETHER": 13,
+   "DEMOCRATS": 8,
+   "YB": 8,
+   "OTZMA": 7,
+   "SHAS": 9,
+   "UTJ": 8,
+   "RZP_ZEHUT": 6,
+   "JOINT": 10,
+   "RAAM": 6,
+   "HENDEL_ZELICHA": 0,
+   "AMCHA": 0
+  },
+  "sens_m1s": {
+   "LIKUD": 23,
+   "YASHAR": 23,
+   "TOGETHER": 13,
+   "DEMOCRATS": 8,
+   "YB": 8,
+   "OTZMA": 7,
+   "SHAS": 9,
+   "UTJ": 8,
+   "RZP_ZEHUT": 6,
+   "JOINT": 9,
+   "RAAM": 6,
+   "HENDEL_ZELICHA": 0,
+   "AMCHA": 0
+  },
+  "sens_noCh14": {
+   "LIKUD": 22,
+   "YASHAR": 23,
+   "TOGETHER": 14,
+   "DEMOCRATS": 8,
+   "YB": 8,
+   "OTZMA": 7,
+   "SHAS": 8,
+   "UTJ": 8,
+   "RZP_ZEHUT": 6,
+   "JOINT": 10,
+   "RAAM": 6,
+   "HENDEL_ZELICHA": 0,
+   "AMCHA": 0
+  },
+  "sens_noDRI": {
+   "LIKUD": 23,
+   "YASHAR": 22,
+   "TOGETHER": 13,
+   "DEMOCRATS": 8,
+   "YB": 8,
+   "OTZMA": 7,
+   "SHAS": 9,
+   "UTJ": 8,
+   "RZP_ZEHUT": 6,
+   "JOINT": 10,
+   "RAAM": 6,
+   "HENDEL_ZELICHA": 0,
+   "AMCHA": 0
+  },
+  "sens_noRight": {
+   "LIKUD": 20,
+   "YASHAR": 22,
+   "TOGETHER": 14,
+   "DEMOCRATS": 8,
+   "YB": 8,
+   "OTZMA": 7,
+   "SHAS": 8,
+   "UTJ": 8,
+   "RZP_ZEHUT": 6,
+   "JOINT": 9,
+   "RAAM": 6,
+   "HENDEL_ZELICHA": 4,
+   "AMCHA": 0
+  },
+  "sens_none": {
+   "LIKUD": 22,
+   "YASHAR": 22,
+   "TOGETHER": 13,
+   "DEMOCRATS": 9,
+   "YB": 8,
+   "OTZMA": 8,
+   "SHAS": 8,
+   "UTJ": 8,
+   "RZP_ZEHUT": 7,
+   "JOINT": 9,
+   "RAAM": 6,
+   "HENDEL_ZELICHA": 0,
+   "AMCHA": 0
+  },
+  "sens_onlyRight": {
+   "LIKUD": 29,
+   "YASHAR": 21,
+   "TOGETHER": 11,
+   "DEMOCRATS": 8,
+   "YB": 6,
+   "OTZMA": 7,
+   "SHAS": 9,
+   "UTJ": 8,
+   "RZP_ZEHUT": 6,
+   "JOINT": 9,
+   "RAAM": 6,
+   "HENDEL_ZELICHA": 0,
+   "AMCHA": 0
+  },
+  "sens_rawpct": {
+   "LIKUD": 24,
+   "YASHAR": 22,
+   "TOGETHER": 13,
+   "DEMOCRATS": 9,
+   "YB": 7,
+   "OTZMA": 7,
+   "SHAS": 9,
+   "UTJ": 8,
+   "RZP_ZEHUT": 6,
+   "JOINT": 9,
+   "RAAM": 6,
+   "HENDEL_ZELICHA": 0,
+   "AMCHA": 0
+  },
+  "sens_rightOneVote": {
+   "LIKUD": 22,
+   "YASHAR": 22,
+   "TOGETHER": 14,
+   "DEMOCRATS": 9,
+   "YB": 8,
+   "OTZMA": 7,
+   "SHAS": 8,
+   "UTJ": 8,
+   "RZP_ZEHUT": 6,
+   "JOINT": 10,
+   "RAAM": 6,
+   "HENDEL_ZELICHA": 0,
+   "AMCHA": 0
+  },
+  "sens_win14": {
+   "LIKUD": 24,
+   "YASHAR": 22,
+   "TOGETHER": 13,
+   "DEMOCRATS": 8,
+   "YB": 8,
+   "OTZMA": 7,
+   "SHAS": 9,
+   "UTJ": 8,
+   "RZP_ZEHUT": 6,
+   "JOINT": 9,
+   "RAAM": 6,
+   "HENDEL_ZELICHA": 0,
+   "AMCHA": 0
+  },
+  "sens_win6": {
+   "LIKUD": 24,
+   "YASHAR": 22,
+   "TOGETHER": 13,
+   "DEMOCRATS": 8,
+   "YB": 7,
+   "OTZMA": 7,
+   "SHAS": 9,
+   "UTJ": 8,
+   "RZP_ZEHUT": 6,
+   "JOINT": 10,
+   "RAAM": 6,
+   "HENDEL_ZELICHA": 0,
+   "AMCHA": 0
+  }
+ },
+ "segments": {
+  "method": "nmf",
+  "K": 8,
+  "unit": "ballot",
+  "families": [
+   "LIKUD",
+   "SHAS",
+   "UTJ",
+   "NATREL",
+   "YB",
+   "CENTER",
+   "LEFT",
+   "ARAB"
+  ],
+  "family_labels": [
+   "Likud",
+   "Shas (Sephardi Haredi)",
+   "UTJ (Ashkenazi Haredi)",
+   "Religious-Zionist / far right",
+   "Yisrael Beiteinu",
+   "Centre lists",
+   "Left (Labor/Meretz/Democrats)",
+   "Arab lists"
+  ],
+  "segments": [
+   {
+    "segment": 0,
+    "name": "Secular centre (Centre lists 48%, Likud 21%)",
+    "weight": 0.3568866897724996,
+    "poll_weight": 0.31268753923378095,
+    "ratio": 0.8761535473152732,
+    "shares": {
+     "LIKUD": 0.2071135501710406,
+     "SHAS": 0.0279286998382214,
+     "UTJ": 0.0080542296172888,
+     "NATREL": 0.0798177918732023,
+     "YB": 0.0422547138355034,
+     "CENTER": 0.4824904600073038,
+     "LEFT": 0.127130510158056,
+     "ARAB": 0.0079036832693021
+    }
+   },
+   {
+    "segment": 2,
+    "name": "Likud heartland (Likud 41%, Centre lists 19%)",
+    "weight": 0.2822014287447252,
+    "poll_weight": 0.1475064848321365,
+    "ratio": 0.5226992842958582,
+    "shares": {
+     "LIKUD": 0.4095820594265876,
+     "SHAS": 0.1159802382388442,
+     "UTJ": 0.0155865945469973,
+     "NATREL": 0.1499527374709675,
+     "YB": 0.0631138829867538,
+     "CENTER": 0.1949261388187119,
+     "LEFT": 0.0273869808279978,
+     "ARAB": 0.0078334574083177
+    }
+   },
+   {
+    "segment": 1,
+    "name": "Arab localities (Arab lists 88%, Centre lists 3%)",
+    "weight": 0.10903990184568227,
+    "poll_weight": 0.0904358926095159,
+    "ratio": 0.8293834741111972,
+    "shares": {
+     "LIKUD": 0.0260650143297911,
+     "SHAS": 0.0057511639947877,
+     "UTJ": 0.0008603648948025,
+     "NATREL": 0.0059186175649171,
+     "YB": 0.0110865811947716,
+     "CENTER": 0.0298452305566195,
+     "LEFT": 0.0276837321743749,
+     "ARAB": 0.884942074538011
+    }
+   },
+   {
+    "segment": 8,
+    "name": "Double envelopes: soldiers, diplomats, etc. (Centre lists 28%, Likud 24%)",
+    "weight": 0.09636933122506985,
+    "poll_weight": 0.2748224265188465,
+    "ratio": 2.851762308871904,
+    "shares": {
+     "LIKUD": 0.23511297435618178,
+     "SHAS": 0.06837698045407546,
+     "UTJ": 0.03734741656231319,
+     "NATREL": 0.16923395219687462,
+     "YB": 0.057024010453530796,
+     "CENTER": 0.2758251211411764,
+     "LEFT": 0.08248053574345308,
+     "ARAB": 0.050682201774922574
+    }
+   },
+   {
+    "segment": 3,
+    "name": "Haredi areas (UTJ 61%, Shas 24%)",
+    "weight": 0.06531140615798292,
+    "poll_weight": 0.05610044791470582,
+    "ratio": 0.8589686122972678,
+    "shares": {
+     "LIKUD": 0.0443070515951566,
+     "SHAS": 0.2366898892002365,
+     "UTJ": 0.6124932517545438,
+     "NATREL": 0.0680094603974395,
+     "YB": 0.0101384354353582,
+     "CENTER": 0.0199041106455178,
+     "LEFT": 0.0043413712434766,
+     "ARAB": 0.0011022134245096
+    }
+   },
+   {
+    "segment": 5,
+    "name": "National-religious areas (Far right 53%, Likud 20%)",
+    "weight": 0.04415810971506955,
+    "poll_weight": 0.07276398870501775,
+    "ratio": 1.647805786400908,
+    "shares": {
+     "LIKUD": 0.2002785144627902,
+     "SHAS": 0.0869525955076472,
+     "UTJ": 0.0427419891445898,
+     "NATREL": 0.5288828052965276,
+     "YB": 0.0145435879887073,
+     "CENTER": 0.0963061187631296,
+     "LEFT": 0.0165255083126586,
+     "ARAB": 0.0030988298590317
+    }
+   },
+   {
+    "segment": 7,
+    "name": "Shas-strong periphery (Shas 44%, UTJ 20%)",
+    "weight": 0.028966311292405747,
+    "poll_weight": 0.025006764011884626,
+    "ratio": 0.8633050911953979,
+    "shares": {
+     "LIKUD": 0.1505828992080685,
+     "SHAS": 0.4388299992029967,
+     "UTJ": 0.1965554967866277,
+     "NATREL": 0.1328024808538078,
+     "YB": 0.0182006564408732,
+     "CENTER": 0.0476607954092611,
+     "LEFT": 0.0083757797952426,
+     "ARAB": 0.0011665229645623
+    }
+   },
+   {
+    "segment": 6,
+    "name": "Russian-speaking areas (Yisrael Beiteinu 30%, Centre lists 24%)",
+    "weight": 0.010816745166894657,
+    "poll_weight": 0.015004170366220973,
+    "ratio": 1.3871243275788911,
+    "shares": {
+     "LIKUD": 0.2326975688313704,
+     "SHAS": 0.0434234269194202,
+     "UTJ": 0.01979083800617,
+     "NATREL": 0.0649993209026174,
+     "YB": 0.295290944721473,
+     "CENTER": 0.2422631405343526,
+     "LEFT": 0.0380294534236209,
+     "ARAB": 0.0415801625953161
+    }
+   },
+   {
+    "segment": 4,
+    "name": "Centre-left urban (Left 46%, Centre lists 32%)",
+    "weight": 0.006250076079670208,
+    "poll_weight": 0.0056722858078910145,
+    "ratio": 0.90755468182882,
+    "shares": {
+     "LIKUD": 0.0742444593687038,
+     "SHAS": 0.0128609805238415,
+     "UTJ": 0.0067159167226326,
+     "NATREL": 0.0330423102753525,
+     "YB": 0.0362659503022162,
+     "CENTER": 0.3248824714573539,
+     "LEFT": 0.4559435862995299,
+     "ARAB": 0.0364674278038952
+    }
+   }
+  ],
+  "multipliers": {
+   "LIKUD": 0.9265431782903597,
+   "SHAS": 0.9270401532945061,
+   "UTJ": 0.9842714938339848,
+   "NATREL": 1.1711784065706918,
+   "YB": 1.023797256123098,
+   "CENTER": 1.0159889305076526,
+   "LEFT": 1.0756927426100664,
+   "ARAB": 0.9199046492914639
+  }
+ },
+ "inventory": {
+  "n_ballots": 100740,
+  "n_elections_results": 10,
+  "n_hist_polls": 490,
+  "n_hist_elections": 8,
+  "n_polls_2026": 82,
+  "n_polls_window": 28,
+  "n_firms_window": 9
+ },
+ "e2": {
+  "LIKUD": 0.040679184864841775,
+  "SHAS": 0.06773326129110468,
+  "UTJ": 0.01687293011547701,
+  "NATREL": -0.1262531062971093,
+  "YB": -0.010127179802185415,
+  "CENTER": 0.015829026975738084,
+  "LEFT": -0.057011796607840726,
+  "ARAB": 0.06280130812965096
+ },
+ "selected": "e2",
+ "selection_scores": {
+  "e2": 18.25,
+  "comp": 19.75,
+  "m1s": 18.75
+ },
+ "resid_sd": {
+  "(0.0, 0.04]": 0.35769946288218507,
+  "(0.04, 0.08]": 0.18313391032816742,
+  "(0.08, 0.15]": 0.184498475550181,
+  "(0.15, 1.0]": 0.1171040107822578
+ },
+ "heterogeneity": [
+  {
+   "list": "Likud",
+   "id": "LIKUD",
+   "firm_min": 13.949012141452569,
+   "firm_max": 22.765079485688776,
+   "Q": 250.57201575007716,
+   "df": 8,
+   "p_value": 1.3030908406725835e-49,
+   "I2": 0.9680730508710148
+  },
+  {
+   "list": "Yashar! (Eisenkot)",
+   "id": "YASHAR",
+   "firm_min": 15.475218843759938,
+   "firm_max": 18.342235002682777,
+   "Q": 12.447592793134213,
+   "df": 8,
+   "p_value": 0.1323227264161458,
+   "I2": 0.3573054539177562
+  },
+  {
+   "list": "Together (Bennett-Lapid)",
+   "id": "TOGETHER",
+   "firm_min": 7.185179282868526,
+   "firm_max": 11.61304376200593,
+   "Q": 72.10659924283931,
+   "df": 8,
+   "p_value": 1.868724605446641e-12,
+   "I2": 0.8890531506962664
+  },
+  {
+   "list": "The Democrats",
+   "id": "DEMOCRATS",
+   "firm_min": 6.428844621513943,
+   "firm_max": 7.694427387441347,
+   "Q": 5.968039899365026,
+   "df": 8,
+   "p_value": 0.6508120372152341,
+   "I2": 0.0
+  },
+  {
+   "list": "Yisrael Beiteinu",
+   "id": "YB",
+   "firm_min": 4.477178926119542,
+   "firm_max": 7.203852553380828,
+   "Q": 36.89190309125118,
+   "df": 8,
+   "p_value": 1.2047874011679504e-05,
+   "I2": 0.7831502489797774
+  },
+  {
+   "list": "Otzma Yehudit",
+   "id": "OTZMA",
+   "firm_min": 6.031718588983275,
+   "firm_max": 7.397233201581028,
+   "Q": 10.650032333623429,
+   "df": 8,
+   "p_value": 0.2223279653165377,
+   "I2": 0.2488285716520275
+  },
+  {
+   "list": "Shas",
+   "id": "SHAS",
+   "firm_min": 5.517391020602769,
+   "firm_max": 7.555632317482049,
+   "Q": 27.891534244812583,
+   "df": 8,
+   "p_value": 0.0004953180978342,
+   "I2": 0.7131746167212769
+  },
+  {
+   "list": "United Torah Judaism",
+   "id": "UTJ",
+   "firm_min": 5.626561263038533,
+   "firm_max": 6.445552284603901,
+   "Q": 1.8331543498268128,
+   "df": 8,
+   "p_value": 0.9857064947972418,
+   "I2": 0.0
+  },
+  {
+   "list": "Religious Zionism & Zehut",
+   "id": "RZP_ZEHUT",
+   "firm_min": 4.928951747050041,
+   "firm_max": 7.185179282868526,
+   "Q": 7.574593250347542,
+   "df": 8,
+   "p_value": 0.4760872672585625,
+   "I2": 0.0
+  },
+  {
+   "list": "Joint List (Hadash-Ta'al-Balad)",
+   "id": "JOINT",
+   "firm_min": 6.335851270798927,
+   "firm_max": 7.397233201581028,
+   "Q": 7.050434440353985,
+   "df": 8,
+   "p_value": 0.5312010882157525,
+   "I2": 0.0
+  },
+  {
+   "list": "Ra'am",
+   "id": "RAAM",
+   "firm_min": 4.126144926228258,
+   "firm_max": 5.209411936159239,
+   "Q": 6.062769421588032,
+   "df": 8,
+   "p_value": 0.6402007842029592,
+   "I2": 0.0
+  },
+  {
+   "list": "Hendel & Zelicha (Reservists)",
+   "id": "HENDEL_ZELICHA",
+   "firm_min": 1.77,
+   "firm_max": 3.503952569169961,
+   "Q": 29.65541346112897,
+   "df": 8,
+   "p_value": 0.0002431631903561,
+   "I2": 0.7302347508833066
+  },
+  {
+   "list": "Amcha Israel (Winter)",
+   "id": "AMCHA",
+   "firm_min": 1.81,
+   "firm_max": 3.503952569169961,
+   "Q": 47.458448529085736,
+   "df": 8,
+   "p_value": 1.2536939463648998e-07,
+   "I2": 0.831431489061488
+  }
+ ],
+ "pollster_bias": [
+  {
+   "lineage": "Dialog / Camil Fuchs",
+   "family": "ARAB",
+   "pct": 0.8,
+   "se": 6.1,
+   "n": 6
+  },
+  {
+   "lineage": "Dialog / Camil Fuchs",
+   "family": "CENTER",
+   "pct": -2.7,
+   "se": 5.0,
+   "n": 6
+  },
+  {
+   "lineage": "Dialog / Camil Fuchs",
+   "family": "LEFT",
+   "pct": 12.3,
+   "se": 8.8,
+   "n": 6
+  },
+  {
+   "lineage": "Dialog / Camil Fuchs",
+   "family": "LIKUD",
+   "pct": -7.0,
+   "se": 5.7,
+   "n": 6
+  },
+  {
+   "lineage": "Dialog / Camil Fuchs",
+   "family": "NATREL",
+   "pct": 16.9,
+   "se": 7.3,
+   "n": 6
+  },
+  {
+   "lineage": "Dialog / Camil Fuchs",
+   "family": "SHAS",
+   "pct": -12.6,
+   "se": 8.2,
+   "n": 6
+  },
+  {
+   "lineage": "Dialog / Camil Fuchs",
+   "family": "UTJ",
+   "pct": -2.2,
+   "se": 3.9,
+   "n": 6
+  },
+  {
+   "lineage": "Dialog / Camil Fuchs",
+   "family": "YB",
+   "pct": -5.6,
+   "se": 6.7,
+   "n": 5
+  },
+  {
+   "lineage": "Direct Polls",
+   "family": "ARAB",
+   "pct": 0.2,
+   "se": 8.9,
+   "n": 4
+  },
+  {
+   "lineage": "Direct Polls",
+   "family": "CENTER",
+   "pct": -4.3,
+   "se": 3.8,
+   "n": 4
+  },
+  {
+   "lineage": "Direct Polls",
+   "family": "LEFT",
+   "pct": 7.5,
+   "se": 18.7,
+   "n": 4
+  },
+  {
+   "lineage": "Direct Polls",
+   "family": "LIKUD",
+   "pct": -2.2,
+   "se": 5.6,
+   "n": 4
+  },
+  {
+   "lineage": "Direct Polls",
+   "family": "NATREL",
+   "pct": 10.7,
+   "se": 12.5,
+   "n": 4
+  },
+  {
+   "lineage": "Direct Polls",
+   "family": "SHAS",
+   "pct": -8.5,
+   "se": 5.1,
+   "n": 4
+  },
+  {
+   "lineage": "Direct Polls",
+   "family": "UTJ",
+   "pct": -1.9,
+   "se": 5.9,
+   "n": 4
+  },
+  {
+   "lineage": "Direct Polls",
+   "family": "YB",
+   "pct": 10.7,
+   "se": 8.7,
+   "n": 3
+  },
+  {
+   "lineage": "Kantar / Teleseker",
+   "family": "ARAB",
+   "pct": -3.4,
+   "se": 4.9,
+   "n": 8
+  },
+  {
+   "lineage": "Kantar / Teleseker",
+   "family": "CENTER",
+   "pct": -3.2,
+   "se": 2.9,
+   "n": 8
+  },
+  {
+   "lineage": "Kantar / Teleseker",
+   "family": "LEFT",
+   "pct": 11.8,
+   "se": 7.6,
+   "n": 8
+  },
+  {
+   "lineage": "Kantar / Teleseker",
+   "family": "LIKUD",
+   "pct": -5.1,
+   "se": 4.1,
+   "n": 8
+  },
+  {
+   "lineage": "Kantar / Teleseker",
+   "family": "NATREL",
+   "pct": 17.8,
+   "se": 6.2,
+   "n": 8
+  },
+  {
+   "lineage": "Kantar / Teleseker",
+   "family": "SHAS",
+   "pct": -11.3,
+   "se": 5.8,
+   "n": 8
+  },
+  {
+   "lineage": "Kantar / Teleseker",
+   "family": "UTJ",
+   "pct": 0.2,
+   "se": 2.9,
+   "n": 8
+  },
+  {
+   "lineage": "Kantar / Teleseker",
+   "family": "YB",
+   "pct": 3.8,
+   "se": 3.3,
+   "n": 6
+  },
+  {
+   "lineage": "Lazar / Panels Politics",
+   "family": "ARAB",
+   "pct": -3.7,
+   "se": 5.0,
+   "n": 8
+  },
+  {
+   "lineage": "Lazar / Panels Politics",
+   "family": "CENTER",
+   "pct": -4.1,
+   "se": 4.0,
+   "n": 8
+  },
+  {
+   "lineage": "Lazar / Panels Politics",
+   "family": "LEFT",
+   "pct": 9.2,
+   "se": 7.7,
+   "n": 8
+  },
+  {
+   "lineage": "Lazar / Panels Politics",
+   "family": "LIKUD",
+   "pct": -5.2,
+   "se": 5.1,
+   "n": 8
+  },
+  {
+   "lineage": "Lazar / Panels Politics",
+   "family": "NATREL",
+   "pct": 22.1,
+   "se": 5.8,
+   "n": 8
+  },
+  {
+   "lineage": "Lazar / Panels Politics",
+   "family": "SHAS",
+   "pct": -12.1,
+   "se": 5.9,
+   "n": 8
+  },
+  {
+   "lineage": "Lazar / Panels Politics",
+   "family": "UTJ",
+   "pct": -2.0,
+   "se": 2.7,
+   "n": 8
+  },
+  {
+   "lineage": "Lazar / Panels Politics",
+   "family": "YB",
+   "pct": 2.8,
+   "se": 5.8,
+   "n": 7
+  },
+  {
+   "lineage": "Maagar Mochot",
+   "family": "ARAB",
+   "pct": 0.8,
+   "se": 7.3,
+   "n": 8
+  },
+  {
+   "lineage": "Maagar Mochot",
+   "family": "CENTER",
+   "pct": -5.7,
+   "se": 5.4,
+   "n": 8
+  },
+  {
+   "lineage": "Maagar Mochot",
+   "family": "LEFT",
+   "pct": 10.4,
+   "se": 7.1,
+   "n": 8
+  },
+  {
+   "lineage": "Maagar Mochot",
+   "family": "LIKUD",
+   "pct": -4.6,
+   "se": 6.0,
+   "n": 8
+  },
+  {
+   "lineage": "Maagar Mochot",
+   "family": "NATREL",
+   "pct": 20.2,
+   "se": 8.4,
+   "n": 8
+  },
+  {
+   "lineage": "Maagar Mochot",
+   "family": "SHAS",
+   "pct": -5.9,
+   "se": 4.6,
+   "n": 8
+  },
+  {
+   "lineage": "Maagar Mochot",
+   "family": "UTJ",
+   "pct": 2.3,
+   "se": 2.6,
+   "n": 8
+  },
+  {
+   "lineage": "Maagar Mochot",
+   "family": "YB",
+   "pct": 0.1,
+   "se": 6.0,
+   "n": 7
+  },
+  {
+   "lineage": "Midgam (Mano Geva)",
+   "family": "ARAB",
+   "pct": -5.1,
+   "se": 5.7,
+   "n": 8
+  },
+  {
+   "lineage": "Midgam (Mano Geva)",
+   "family": "CENTER",
+   "pct": -4.7,
+   "se": 3.8,
+   "n": 8
+  },
+  {
+   "lineage": "Midgam (Mano Geva)",
+   "family": "LEFT",
+   "pct": 16.4,
+   "se": 6.7,
+   "n": 8
+  },
+  {
+   "lineage": "Midgam (Mano Geva)",
+   "family": "LIKUD",
+   "pct": -6.3,
+   "se": 4.8,
+   "n": 8
+  },
+  {
+   "lineage": "Midgam (Mano Geva)",
+   "family": "NATREL",
+   "pct": 18.2,
+   "se": 6.3,
+   "n": 8
+  },
+  {
+   "lineage": "Midgam (Mano Geva)",
+   "family": "SHAS",
+   "pct": -12.9,
+   "se": 4.4,
+   "n": 8
+  },
+  {
+   "lineage": "Midgam (Mano Geva)",
+   "family": "UTJ",
+   "pct": -1.3,
+   "se": 3.1,
+   "n": 8
+  },
+  {
+   "lineage": "Midgam (Mano Geva)",
+   "family": "YB",
+   "pct": 1.6,
+   "se": 3.9,
+   "n": 7
+  },
+  {
+   "lineage": "Smith",
+   "family": "ARAB",
+   "pct": -0.9,
+   "se": 4.2,
+   "n": 8
+  },
+  {
+   "lineage": "Smith",
+   "family": "CENTER",
+   "pct": -4.9,
+   "se": 4.2,
+   "n": 8
+  },
+  {
+   "lineage": "Smith",
+   "family": "LEFT",
+   "pct": 9.1,
+   "se": 6.9,
+   "n": 8
+  },
+  {
+   "lineage": "Smith",
+   "family": "LIKUD",
+   "pct": -5.9,
+   "se": 5.7,
+   "n": 8
+  },
+  {
+   "lineage": "Smith",
+   "family": "NATREL",
+   "pct": 17.2,
+   "se": 5.5,
+   "n": 8
+  },
+  {
+   "lineage": "Smith",
+   "family": "SHAS",
+   "pct": -3.5,
+   "se": 4.9,
+   "n": 8
+  },
+  {
+   "lineage": "Smith",
+   "family": "UTJ",
+   "pct": -2.4,
+   "se": 1.4,
+   "n": 8
+  },
+  {
+   "lineage": "Smith",
+   "family": "YB",
+   "pct": 0.9,
+   "se": 3.4,
+   "n": 7
+  }
+ ],
+ "pollster_segments": [
+  {
+   "lineage": "Dialog / Camil Fuchs",
+   "segment": 0,
+   "ratio": 0.904,
+   "n": 6
+  },
+  {
+   "lineage": "Dialog / Camil Fuchs",
+   "segment": 1,
+   "ratio": 0.874,
+   "n": 6
+  },
+  {
+   "lineage": "Dialog / Camil Fuchs",
+   "segment": 2,
+   "ratio": 0.504,
+   "n": 6
+  },
+  {
+   "lineage": "Dialog / Camil Fuchs",
+   "segment": 3,
+   "ratio": 0.854,
+   "n": 6
+  },
+  {
+   "lineage": "Dialog / Camil Fuchs",
+   "segment": 4,
+   "ratio": 0.909,
+   "n": 6
+  },
+  {
+   "lineage": "Dialog / Camil Fuchs",
+   "segment": 5,
+   "ratio": 1.562,
+   "n": 6
+  },
+  {
+   "lineage": "Dialog / Camil Fuchs",
+   "segment": 6,
+   "ratio": 1.352,
+   "n": 6
+  },
+  {
+   "lineage": "Dialog / Camil Fuchs",
+   "segment": 7,
+   "ratio": 0.852,
+   "n": 6
+  },
+  {
+   "lineage": "Dialog / Camil Fuchs",
+   "segment": 8,
+   "ratio": 2.803,
+   "n": 6
+  },
+  {
+   "lineage": "Direct Polls",
+   "segment": 0,
+   "ratio": 0.87,
+   "n": 4
+  },
+  {
+   "lineage": "Direct Polls",
+   "segment": 1,
+   "ratio": 0.817,
+   "n": 4
+  },
+  {
+   "lineage": "Direct Polls",
+   "segment": 2,
+   "ratio": 0.547,
+   "n": 4
+  },
+  {
+   "lineage": "Direct Polls",
+   "segment": 3,
+   "ratio": 0.858,
+   "n": 4
+  },
+  {
+   "lineage": "Direct Polls",
+   "segment": 4,
+   "ratio": 0.894,
+   "n": 4
+  },
+  {
+   "lineage": "Direct Polls",
+   "segment": 5,
+   "ratio": 1.594,
+   "n": 4
+  },
+  {
+   "lineage": "Direct Polls",
+   "segment": 6,
+   "ratio": 1.388,
+   "n": 4
+  },
+  {
+   "lineage": "Direct Polls",
+   "segment": 7,
+   "ratio": 0.86,
+   "n": 4
+  },
+  {
+   "lineage": "Direct Polls",
+   "segment": 8,
+   "ratio": 2.842,
+   "n": 4
+  },
+  {
+   "lineage": "Kantar / Teleseker",
+   "segment": 0,
+   "ratio": 0.889,
+   "n": 8
+  },
+  {
+   "lineage": "Kantar / Teleseker",
+   "segment": 1,
+   "ratio": 0.831,
+   "n": 8
+  },
+  {
+   "lineage": "Kantar / Teleseker",
+   "segment": 2,
+   "ratio": 0.52,
+   "n": 8
+  },
+  {
+   "lineage": "Kantar / Teleseker",
+   "segment": 3,
+   "ratio": 0.857,
+   "n": 8
+  },
+  {
+   "lineage": "Kantar / Teleseker",
+   "segment": 4,
+   "ratio": 0.891,
+   "n": 8
+  },
+  {
+   "lineage": "Kantar / Teleseker",
+   "segment": 5,
+   "ratio": 1.583,
+   "n": 8
+  },
+  {
+   "lineage": "Kantar / Teleseker",
+   "segment": 6,
+   "ratio": 1.338,
+   "n": 8
+  },
+  {
+   "lineage": "Kantar / Teleseker",
+   "segment": 7,
+   "ratio": 0.858,
+   "n": 8
+  },
+  {
+   "lineage": "Kantar / Teleseker",
+   "segment": 8,
+   "ratio": 2.852,
+   "n": 8
+  },
+  {
+   "lineage": "Lazar / Panels Politics",
+   "segment": 0,
+   "ratio": 0.879,
+   "n": 8
+  },
+  {
+   "lineage": "Lazar / Panels Politics",
+   "segment": 1,
+   "ratio": 0.834,
+   "n": 8
+  },
+  {
+   "lineage": "Lazar / Panels Politics",
+   "segment": 2,
+   "ratio": 0.513,
+   "n": 8
+  },
+  {
+   "lineage": "Lazar / Panels Politics",
+   "segment": 3,
+   "ratio": 0.831,
+   "n": 8
+  },
+  {
+   "lineage": "Lazar / Panels Politics",
+   "segment": 4,
+   "ratio": 0.899,
+   "n": 8
+  },
+  {
+   "lineage": "Lazar / Panels Politics",
+   "segment": 5,
+   "ratio": 1.666,
+   "n": 8
+  },
+  {
+   "lineage": "Lazar / Panels Politics",
+   "segment": 6,
+   "ratio": 1.366,
+   "n": 8
+  },
+  {
+   "lineage": "Lazar / Panels Politics",
+   "segment": 7,
+   "ratio": 0.848,
+   "n": 8
+  },
+  {
+   "lineage": "Lazar / Panels Politics",
+   "segment": 8,
+   "ratio": 2.883,
+   "n": 8
+  },
+  {
+   "lineage": "Maagar Mochot",
+   "segment": 0,
+   "ratio": 0.887,
+   "n": 8
+  },
+  {
+   "lineage": "Maagar Mochot",
+   "segment": 1,
+   "ratio": 0.679,
+   "n": 8
+  },
+  {
+   "lineage": "Maagar Mochot",
+   "segment": 2,
+   "ratio": 0.513,
+   "n": 8
+  },
+  {
+   "lineage": "Maagar Mochot",
+   "segment": 3,
+   "ratio": 0.879,
+   "n": 8
+  },
+  {
+   "lineage": "Maagar Mochot",
+   "segment": 4,
+   "ratio": 0.886,
+   "n": 8
+  },
+  {
+   "lineage": "Maagar Mochot",
+   "segment": 5,
+   "ratio": 1.66,
+   "n": 8
+  },
+  {
+   "lineage": "Maagar Mochot",
+   "segment": 6,
+   "ratio": 1.497,
+   "n": 8
+  },
+  {
+   "lineage": "Maagar Mochot",
+   "segment": 7,
+   "ratio": 0.883,
+   "n": 8
+  },
+  {
+   "lineage": "Maagar Mochot",
+   "segment": 8,
+   "ratio": 2.973,
+   "n": 8
+  },
+  {
+   "lineage": "Midgam (Mano Geva)",
+   "segment": 0,
+   "ratio": 0.928,
+   "n": 8
+  },
+  {
+   "lineage": "Midgam (Mano Geva)",
+   "segment": 1,
+   "ratio": 0.804,
+   "n": 8
+  },
+  {
+   "lineage": "Midgam (Mano Geva)",
+   "segment": 2,
+   "ratio": 0.476,
+   "n": 8
+  },
+  {
+   "lineage": "Midgam (Mano Geva)",
+   "segment": 3,
+   "ratio": 0.855,
+   "n": 8
+  },
+  {
+   "lineage": "Midgam (Mano Geva)",
+   "segment": 4,
+   "ratio": 0.896,
+   "n": 8
+  },
+  {
+   "lineage": "Midgam (Mano Geva)",
+   "segment": 5,
+   "ratio": 1.67,
+   "n": 8
+  },
+  {
+   "lineage": "Midgam (Mano Geva)",
+   "segment": 6,
+   "ratio": 1.399,
+   "n": 8
+  },
+  {
+   "lineage": "Midgam (Mano Geva)",
+   "segment": 7,
+   "ratio": 0.838,
+   "n": 8
+  },
+  {
+   "lineage": "Midgam (Mano Geva)",
+   "segment": 8,
+   "ratio": 2.825,
+   "n": 8
+  },
+  {
+   "lineage": "Smith",
+   "segment": 0,
+   "ratio": 0.871,
+   "n": 8
+  },
+  {
+   "lineage": "Smith",
+   "segment": 1,
+   "ratio": 0.837,
+   "n": 8
+  },
+  {
+   "lineage": "Smith",
+   "segment": 2,
+   "ratio": 0.533,
+   "n": 8
+  },
+  {
+   "lineage": "Smith",
+   "segment": 3,
+   "ratio": 0.838,
+   "n": 8
+  },
+  {
+   "lineage": "Smith",
+   "segment": 4,
+   "ratio": 0.899,
+   "n": 8
+  },
+  {
+   "lineage": "Smith",
+   "segment": 5,
+   "ratio": 1.644,
+   "n": 8
+  },
+  {
+   "lineage": "Smith",
+   "segment": 6,
+   "ratio": 1.395,
+   "n": 8
+  },
+  {
+   "lineage": "Smith",
+   "segment": 7,
+   "ratio": 0.87,
+   "n": 8
+  },
+  {
+   "lineage": "Smith",
+   "segment": 8,
+   "ratio": 2.846,
+   "n": 8
+  }
+ ],
+ "slope_summary": [
+  {
+   "method": "M7_calib_pollster_lam10",
+   "mean": 19.0,
+   "wins": 3,
+   "losses": 4,
+   "p_wilcoxon": 0.828125
+  },
+  {
+   "method": "M7_calib_pollster_lam50",
+   "mean": 19.0,
+   "wins": 3,
+   "losses": 4,
+   "p_wilcoxon": 0.828125
+  },
+  {
+   "method": "M7_calib_pollster_lam2",
+   "mean": 19.5,
+   "wins": 2,
+   "losses": 4,
+   "p_wilcoxon": 1.0
+  },
+  {
+   "method": "M0_raw_average",
+   "mean": 20.0,
+   "wins": 0,
+   "losses": 0,
+   "p_wilcoxon": null
+  },
+  {
+   "method": "M7_calib_industry",
+   "mean": 20.0,
+   "wins": 3,
+   "losses": 5,
+   "p_wilcoxon": 0.9609375
+  },
+  {
+   "method": "M6_slope_pollster_lam10",
+   "mean": 25.5,
+   "wins": 1,
+   "losses": 6,
+   "p_wilcoxon": 0.1875
+  },
+  {
+   "method": "M6_slope_pollster_lam50",
+   "mean": 25.75,
+   "wins": 1,
+   "losses": 6,
+   "p_wilcoxon": 0.140625
+  },
+  {
+   "method": "M6_slope_pollster_lam2",
+   "mean": 26.0,
+   "wins": 1,
+   "losses": 6,
+   "p_wilcoxon": 0.0625
+  },
+  {
+   "method": "M6_slope_industry",
+   "mean": 26.0,
+   "wins": 1,
+   "losses": 6,
+   "p_wilcoxon": 0.109375
+  }
+ ],
+ "calib_d": 0.98271393603978,
+ "slope_b": 0.8430248823586227
+}

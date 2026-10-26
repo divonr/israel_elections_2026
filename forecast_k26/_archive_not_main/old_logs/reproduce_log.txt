@@ -1,0 +1,33 @@
+02_parse_results ok
+03_parse_wiki_polls ok
+04_build_poll_datasets ok
+05_clustering ok
+06_poll_error_analysis ok
+06b_model_selection ok
+06c_final_factors ok
+06d_calibration ok
+06e_pollster_profiles ok
+07 ok
+07b ok
+08 ok
+09 ok
+seat vector identical: True | sum |diff| = 0
+turnout submitted 71.16 vs reproduced 71.16
+                submitted  reproduced
+id                                   
+LIKUD                  23          23
+YASHAR                 22          22
+TOGETHER               13          13
+DEMOCRATS               8           8
+YB                      8           8
+OTZMA                   7           7
+SHAS                    9           9
+UTJ                     8           8
+RZP_ZEHUT               6           6
+JOINT                  10          10
+RAAM                    6           6
+HENDEL_ZELICHA          0           0
+AMCHA                   0           0
+BLUE_WHITE              0           0
+reproduction done
+exit 0

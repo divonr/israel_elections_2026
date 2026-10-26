@@ -1,0 +1,69 @@
+C:\Users\DELL\Documents\סקרים בחירות 2026\forecast_k26\code\06d_calibration.py:38: FutureWarning: The default of observed=False is deprecated and will be changed to True in a future version of pandas. Pass observed=False to retain current behavior or observed=True to adopt the future default and silence this warning.
+  sd_by_bin = other.groupby(pd.cut(other.corrected, BINS)).resid.std()
+              n  mean_predicted  observed
+bin                                      
+(0.0, 0.2]    3           0.093     0.000
+(0.2, 0.4]    3           0.367     0.333
+(0.4, 0.6]   10           0.518     0.700
+(0.6, 0.8]    8           0.678     0.750
+(0.8, 0.95]   8           0.896     1.000
+(0.95, 1.0]  16           0.988     0.938
+{'n_lists': 97, 'coverage_80': np.float64(0.887), 'pit_mean': np.float64(0.485), 'pit_sd': np.float64(0.27), 'n_near_threshold': 48, 'brier_near_threshold': np.float64(0.116), 'brier_climatology': np.float64(0.177), 'logloss_near_threshold': np.float64(0.373), 'mean_expected_err': np.float64(19.927), 'mean_realised_err': np.float64(17.875), 'mean_p_near': 0.728, 'observed_pass_near': 0.771, 'platt_intercept': 0.376, 'platt_slope': 0.955, 'platt_p_intercept': 0.393}
+ knesset  expected_sum_abs_err  realised_sum_abs_err
+      18                  19.5                  17.0
+      19                  19.8                  18.0
+      20                  17.7                  18.0
+      21                  23.0                  37.0
+      22                  16.3                   9.0
+      23                  14.1                   4.0
+      24                  25.3                  27.0
+      25                  23.8                  13.0
+ knesset              list  corrected_share  p_pass  passed
+      18       Jewish Home            0.022   0.654     1.0
+      18               UTJ            0.047   1.000     1.0
+      18             Balad            0.022   0.612     1.0
+      18            Hadash            0.036   0.978     1.0
+      18               Gil            0.018   0.359     0.0
+      18    National Union            0.027   0.828     1.0
+      18            Meretz            0.045   1.000     1.0
+      18         UAL-Ta'al            0.030   0.900     1.0
+      19               UTJ            0.050   1.000     1.0
+      19             Balad            0.032   0.890     1.0
+      19            Hadash            0.037   0.943     1.0
+      19            Kadima            0.022   0.573     1.0
+      19            Meretz            0.043   1.000     1.0
+      19   Otzma LeYisrael            0.019   0.433     0.0
+      19         UAL-Ta'al            0.034   0.904     1.0
+      19         Am Shalem            0.019   0.435     0.0
+      20               UTJ            0.058   0.999     1.0
+      20  Yisrael Beiteinu            0.049   0.977     1.0
+      20            Meretz            0.041   0.883     1.0
+      20            Yachad            0.039   0.688     0.0
+      21               UTJ            0.051   0.997     1.0
+      21       Ra'am-Balad            0.034   0.518     1.0
+      21             Zehut            0.040   0.695     0.0
+      21              URWP            0.048   0.991     1.0
+      21            Kulanu            0.039   0.663     1.0
+      21  Yisrael Beiteinu            0.029   0.368     1.0
+      21            Meretz            0.043   0.956     1.0
+      21         New Right            0.044   0.971     0.0
+      21            Gesher            0.024   0.194     0.0
+      21              Shas            0.046   0.978     1.0
+      22      Labor-Gesher            0.041   0.877     1.0
+      22     Otzma Yehudit            0.029   0.374     0.0
+      22  Democratic Union            0.044   0.946     1.0
+      23            Yamina            0.054   0.994     1.0
+      24             Labor            0.040   0.726     1.0
+      24               UTJ            0.057   0.998     1.0
+      24 Religious Zionist            0.034   0.552     1.0
+      24      Blue & White            0.039   0.712     1.0
+      24            Meretz            0.031   0.427     1.0
+      24             Ra'am            0.034   0.526     1.0
+      25             Labor            0.040   0.679     1.0
+      25       Jewish Home            0.015   0.020     0.0
+      25               UTJ            0.057   0.998     1.0
+      25             Balad            0.019   0.064     0.0
+      25      Hadash-Ta'al            0.035   0.570     1.0
+      25  Yisrael Beiteinu            0.047   0.973     1.0
+      25            Meretz            0.035   0.560     0.0
+      25             Ra'am            0.035   0.582     1.0

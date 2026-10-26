@@ -1,0 +1,4 @@
+historical polls: {'2009': 95, '2013': 56, '2015': 99, '2019a': 62, '2019b': 41, '2020': 43, '2021': 44, '2022': 49}
+agents' polls matched to wikipedia: 48 unmatched: ['2026-10-06_c16', '2026-10-14_channel-14', '2026-10-15_israel-hayom', '2026-10-22_c16', '2026-10-23_dri', '2026-10-23_i24news', '2026-10-23_kan-news']
+seat discrepancies wiki vs agents: 0
+2026 polls: 82 from 2026-09-06 00:00:00 to 2026-10-23 00:00:00

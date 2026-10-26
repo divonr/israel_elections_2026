@@ -1,0 +1,63 @@
+{
+ "E_2022": {
+  "dist": "fixed",
+  "value": 6788804,
+  "source": "CEC official 25th Knesset results: eligible voters (votes25.bechirot.gov.il)"
+ },
+ "V_2022": {
+  "dist": "fixed",
+  "value": 4794593,
+  "source": "CEC official 25th Knesset results: voters incl. double envelopes (70.63% turnout)"
+ },
+ "A_2022": {
+  "dist": "normal",
+  "mean": 600000,
+  "sd": 30000,
+  "source": "Registered voters living abroad, 2022: register minus CBS in-Israel estimate (~6.19M); ToI ~600k gap; research workflow 26 Oct"
+ },
+ "arab_loc_eligible_2022": {
+  "dist": "fixed",
+  "value": 913971,
+  "source": "Eligible voters in Arab and Druze localities, CEC 2022 ballot file (research workflow recomputation; matches Rudnitzky's definition)"
+ },
+ "arab_turnout_2022": {
+  "dist": "fixed",
+  "value": 0.532,
+  "source": "Arab/Druze-locality turnout 2022 = 53.2% (Rudnitzky, Dayan Center Bayan 28); recomputed 53.3% from CEC files"
+ },
+ "E_2026": {
+  "dist": "fixed",
+  "value": 7331981,
+  "source": "CEC eligible voters, 26th Knesset (Davar 21 & 25 Oct 2026)"
+ },
+ "A_2026": {
+  "dist": "normal",
+  "mean": 810000,
+  "sd": 15000,
+  "source": "CBS release 20 Oct 2026: ~810k eligible live abroad, ~6.52M in Israel"
+ },
+ "arab_loc_share_domestic_2026": {
+  "dist": "normal",
+  "mean": 0.155,
+  "sd": 0.005,
+  "source": "2022 Arab/Druze-locality share of domestic electorate 14.8%, scaled by CBS Arab share growth 17.0% -> 17.8% (CBS 2022 and 2026 releases)"
+ },
+ "arab_turnout_2026": {
+  "dist": "normal",
+  "mean": 0.62,
+  "sd": 0.045,
+  "source": "Same-definition (Arab & Druze localities) expectations: Kantar 21-22 Oct ~60%; Afkar June 60%; Stat-Net 19 Oct 63% vs its own 56% for 2022 (=> ~60% on this basis); Stat-Net/Makladeh 22 Oct 68-69% (=> ~65% after its 2022 overestimate); KAP May 53-67% by list structure. Centred at 62% to stay consistent with the seat forecast's 16 Arab-list seats, which imply ~64-69% (research verification)."
+ },
+ "jewish_turnout_change": {
+  "dist": "normal",
+  "mean": 0.01,
+  "sd": 0.02,
+  "source": "Change in non-Arab domestic turnout vs 2022 (81.7%): Kantar final poll 80-82% 'certain to vote'; diplomatic-mission turnout 86.7% vs 69.6% in 2022 (CEC); high-stakes first post-war election; offset risks: ~120k new immigrants since 2022 (lower turnout), Gur Hasidim abstention (~30k)"
+ },
+ "expat_flyers": {
+  "dist": "normal",
+  "mean": 35000,
+  "sd": 10000,
+  "source": ">50,000 Israelis abroad expected to fly in to vote (ToI, election organisations); not all will vote"
+ }
+}

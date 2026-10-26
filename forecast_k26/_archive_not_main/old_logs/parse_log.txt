@@ -1,0 +1,21 @@
+K16:   7736 geo ballots, 149 envelope rows in ballot file, city-file envelopes: no; voters=3,200,773 valid=3,148,364 sum_parties=3,148,364
+K17:   8277 geo ballots, 149 envelope rows in ballot file, city-file envelopes: no; voters=3,186,739 valid=3,137,064 sum_parties=3,137,064
+K18:   9263 geo ballots, 1 envelope rows in ballot file, city-file envelopes: no; voters=3,416,587 valid=3,373,490 sum_parties=3,373,490
+K19:   9881 geo ballots, 228 envelope rows in ballot file, city-file envelopes: no; voters=3,833,646 valid=3,792,742 sum_parties=3,792,742
+K20:  10119 geo ballots, 295 envelope rows in ballot file, city-file envelopes: no; voters=4,254,738 valid=4,210,884 sum_parties=4,210,884
+K21:  10460 geo ballots, 305 envelope rows in ballot file, city-file envelopes: no; voters=4,340,253 valid=4,309,270 sum_parties=4,309,270
+K22:  10539 geo ballots, 362 envelope rows in ballot file, city-file envelopes: no; voters=4,465,168 valid=4,436,806 sum_parties=4,436,806
+K23:  10631 geo ballots, 548 envelope rows in ballot file, city-file envelopes: no; voters=4,615,135 valid=4,590,062 sum_parties=4,590,062
+K24:  12127 geo ballots, 799 envelope rows in ballot file, city-file envelopes: no; voters=4,436,365 valid=4,410,052 sum_parties=4,410,052
+K25:  11707 geo ballots, 838 envelope rows in ballot file, city-file envelopes: no; voters=4,794,593 valid=4,764,742 sum_parties=4,764,742
+   knesset        date  eligible_in_ballot_file     voters      valid  sum_party_votes  n_ballots_geo  envelope_voters
+0       16  2003-01-28                4878371.0  3200773.0  3148364.0        3148364.0           7736         158296.0
+1       17  2006-03-28                      0.0  3186739.0  3137064.0        3137064.0           8277         174484.0
+2       18  2009-02-10                5465904.0  3416587.0  3373490.0        3373490.0           9263         186919.0
+3       19  2013-01-22                5656705.0  3833646.0  3792742.0        3792742.0           9881         215789.0
+4       20  2015-03-17                5881696.0  4254738.0  4210884.0        4210884.0          10119         234599.0
+5       21  2019-04-09                6339729.0  4340253.0  4309270.0        4309270.0          10460         240783.0
+6       22  2019-09-17                6391218.0  4465168.0  4436806.0        4436806.0          10539         282442.0
+7       23  2020-03-02                6453255.0  4615135.0  4590062.0        4590062.0          10631         330209.0
+8       24  2021-03-23                6578084.0  4436365.0  4410052.0        4410052.0          12127         425512.0
+9       25  2022-11-01                6788804.0  4794593.0  4764742.0        4764742.0          11707         462807.0

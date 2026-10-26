@@ -1,0 +1,2 @@
+historical official turnout: {16: 67.8, 17: 63.5, 18: 64.7, 19: 67.8, 20: 72.3, 21: 68.5, 22: 69.8, 23: 71.5, 24: 67.4, 25: 70.6}
+{'turnout_median': 71.1636, 'turnout_mean': 71.1675, 'p10': 69.0125, 'p90': 73.3185, 'voters_median': 5217699.9615, 'nonarab_domestic_turnout_2022': 0.8168, 'domestic_turnout_2022': 0.7747}

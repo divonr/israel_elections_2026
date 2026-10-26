@@ -1,0 +1,16 @@
+TAG=sens_comp CORRECTION=comp done
+TAG=sens_m1s CORRECTION=m1s done
+TAG=sens_none CORRECTION=none done
+TAG=sens_noDRI EXCLUDE_FIRMS=DRI done
+TAG=sens_noCh14 EXCLUDE_FIRMS=NextData_Filber done
+TAG=sens_noRight EXCLUDE_FIRMS=NextData_Filber,DirectPolls,DRI done
+TAG=sens_onlyRight EXCLUDE_FIRMS=Midgam,Kantar,Lazar_Panels,MaagarMochot,Ch13_Madad2026,Tatika done
+TAG=sens_win6 WINDOW_DAYS=6 done
+TAG=sens_win14 WINDOW_DAYS=14 done
+TAG=sens_dis1 DISAGREE_SCALE=1.0 done
+TAG=sens_dis0 DISAGREE_SCALE=0.0 done
+TAG=sens_fam15 FAMILY_SD=0.15 done
+TAG=sens_house HOUSE_CARRY=0.24 done
+TAG=sens_halfOpaque FIRM_WEIGHTS=NextData_Filber:0.5,DRI:0.5 done
+TAG=sens_rightOneVote FIRM_WEIGHTS=NextData_Filber:0.3333,DirectPolls:0.3333,DRI:0.3333 done
+TAG=sens_rawpct RAW_MODE=raw done

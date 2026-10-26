@@ -1,0 +1,2 @@
+n_lists,coverage_80,pit_mean,pit_sd,n_near_threshold,brier_near_threshold,brier_climatology,logloss_near_threshold,mean_expected_err,mean_realised_err,mean_p_near,observed_pass_near,platt_intercept,platt_slope,platt_p_intercept
+97,0.8865979381443299,0.4850244845360825,0.27047851756336067,48,0.11609602994791667,0.17664930555555555,0.3729703731184119,19.926625,17.875,0.7283802083333333,0.7708333333333334,0.37632821200318434,0.9554329805111994,0.39341343280724583

@@ -1,0 +1,36 @@
+{
+ "tag": "sens_house",
+ "n_polls": 28,
+ "n_firms": 9,
+ "expected_abs_error": 18.867,
+ "expected_abs_error_unconstrained_medians": 18.4655,
+ "p_coalition_61": 0.020625,
+ "bloc_median": 52.0,
+ "disagreement_axis": {
+  "LIKUD": -0.16,
+  "YASHAR": 0.005,
+  "TOGETHER": 0.146,
+  "DEMOCRATS": 0.039,
+  "YB": 0.088,
+  "OTZMA": 0.011,
+  "SHAS": -0.061,
+  "UTJ": 0.016,
+  "RZP_ZEHUT": -0.061,
+  "JOINT": 0.048,
+  "RAAM": 0.01,
+  "HENDEL_ZELICHA": 0.211,
+  "AMCHA": 0.208
+ },
+ "settings": {
+  "WINDOW_DAYS": 10,
+  "HALF_LIFE": 4.0,
+  "CORRECTION": "selected",
+  "HOUSE_CARRY": 0.29,
+  "FAMILY_SD": 0.08,
+  "DISAGREE_SCALE": 0.5,
+  "EXCLUDE_FIRMS": [],
+  "FIRM_WEIGHTS": {},
+  "RAW_MODE": "seats",
+  "N_SIM": 8000
+ }
+}

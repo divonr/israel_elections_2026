@@ -1,0 +1,10 @@
+method,mean,wins,losses,p_wilcoxon
+M7_calib_industry,18.75,3,3,0.65625
+M7_calib_pollster_lam2,19.0,2,3,0.8125
+M7_calib_pollster_lam50,19.0,3,3,0.53125
+M7_calib_pollster_lam10,19.25,2,3,0.625
+M0_raw_average,20.0,0,0,
+M6_slope_industry,25.75,1,6,0.109375
+M6_slope_pollster_lam2,26.0,1,6,0.0625
+M6_slope_pollster_lam10,26.0,1,6,0.046875
+M6_slope_pollster_lam50,26.0,1,6,0.046875

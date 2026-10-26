@@ -1,0 +1,1216 @@
+﻿poll_id,table_idx,date_raw,date_end,pollster,lineage,publisher,sample_size,party,seats,pct,source,seats_agent,pct_report,pct_below,agent_id,n,pct_raw
+2026-10-23_Channel 13,1,23 Oct,2026-10-23,MP+TM+SN+A,Ch13_Madad2026,Channel 13,1875.0,LIKUD,19.0,,wikipedia,19.0,,,2026-10-23_channel-13,,
+2026-10-23_Channel 13,1,23 Oct,2026-10-23,MP+TM+SN+A,Ch13_Madad2026,Channel 13,1875.0,TOGETHER,14.0,,wikipedia,14.0,,,2026-10-23_channel-13,,
+2026-10-23_Channel 13,1,23 Oct,2026-10-23,MP+TM+SN+A,Ch13_Madad2026,Channel 13,1875.0,RZP_ZEHUT,8.0,,wikipedia,8.0,,,2026-10-23_channel-13,,
+2026-10-23_Channel 13,1,23 Oct,2026-10-23,MP+TM+SN+A,Ch13_Madad2026,Channel 13,1875.0,OTZMA,8.0,,wikipedia,8.0,,,2026-10-23_channel-13,,
+2026-10-23_Channel 13,1,23 Oct,2026-10-23,MP+TM+SN+A,Ch13_Madad2026,Channel 13,1875.0,SHAS,7.0,,wikipedia,7.0,,,2026-10-23_channel-13,,
+2026-10-23_Channel 13,1,23 Oct,2026-10-23,MP+TM+SN+A,Ch13_Madad2026,Channel 13,1875.0,UTJ,8.0,,wikipedia,8.0,,,2026-10-23_channel-13,,
+2026-10-23_Channel 13,1,23 Oct,2026-10-23,MP+TM+SN+A,Ch13_Madad2026,Channel 13,1875.0,YB,8.0,,wikipedia,8.0,,,2026-10-23_channel-13,,
+2026-10-23_Channel 13,1,23 Oct,2026-10-23,MP+TM+SN+A,Ch13_Madad2026,Channel 13,1875.0,RAAM,7.0,,wikipedia,7.0,,,2026-10-23_channel-13,,
+2026-10-23_Channel 13,1,23 Oct,2026-10-23,MP+TM+SN+A,Ch13_Madad2026,Channel 13,1875.0,JOINT,9.0,,wikipedia,9.0,,,2026-10-23_channel-13,,
+2026-10-23_Channel 13,1,23 Oct,2026-10-23,MP+TM+SN+A,Ch13_Madad2026,Channel 13,1875.0,DEMOCRATS,10.0,,wikipedia,10.0,,,2026-10-23_channel-13,,
+2026-10-23_Channel 13,1,23 Oct,2026-10-23,MP+TM+SN+A,Ch13_Madad2026,Channel 13,1875.0,YASHAR,22.0,,wikipedia,22.0,,,2026-10-23_channel-13,,
+2026-10-23_Channel 13,1,23 Oct,2026-10-23,MP+TM+SN+A,Ch13_Madad2026,Channel 13,1875.0,HENDEL_ZELICHA,0.0,3.0,wikipedia,0.0,,3.0,2026-10-23_channel-13,,3.0
+2026-10-23_Channel 13,1,23 Oct,2026-10-23,MP+TM+SN+A,Ch13_Madad2026,Channel 13,1875.0,AMCHA,0.0,3.1,wikipedia,0.0,,3.1,2026-10-23_channel-13,,3.1
+2026-10-23_Channel 13,1,23 Oct,2026-10-23,MP+TM+SN+A,Ch13_Madad2026,Channel 13,1875.0,HAREDI_PUBLIC,0.0,1.3,wikipedia,0.0,,1.3,2026-10-23_channel-13,,1.3
+2026-10-23_HaHadashot 12,1,22– 23 Oct,2026-10-23,Midgam R&C,Midgam,HaHadashot 12,1018.0,LIKUD,21.0,,wikipedia,21.0,,,2026-10-23_channel-12,,
+2026-10-23_HaHadashot 12,1,22– 23 Oct,2026-10-23,Midgam R&C,Midgam,HaHadashot 12,1018.0,TOGETHER,15.0,,wikipedia,15.0,,,2026-10-23_channel-12,,
+2026-10-23_HaHadashot 12,1,22– 23 Oct,2026-10-23,Midgam R&C,Midgam,HaHadashot 12,1018.0,RZP_ZEHUT,6.0,,wikipedia,6.0,,,2026-10-23_channel-12,,
+2026-10-23_HaHadashot 12,1,22– 23 Oct,2026-10-23,Midgam R&C,Midgam,HaHadashot 12,1018.0,OTZMA,8.0,,wikipedia,8.0,,,2026-10-23_channel-12,,
+2026-10-23_HaHadashot 12,1,22– 23 Oct,2026-10-23,Midgam R&C,Midgam,HaHadashot 12,1018.0,SHAS,8.0,,wikipedia,8.0,,,2026-10-23_channel-12,,
+2026-10-23_HaHadashot 12,1,22– 23 Oct,2026-10-23,Midgam R&C,Midgam,HaHadashot 12,1018.0,UTJ,7.0,,wikipedia,7.0,,,2026-10-23_channel-12,,
+2026-10-23_HaHadashot 12,1,22– 23 Oct,2026-10-23,Midgam R&C,Midgam,HaHadashot 12,1018.0,YB,8.0,,wikipedia,8.0,,,2026-10-23_channel-12,,
+2026-10-23_HaHadashot 12,1,22– 23 Oct,2026-10-23,Midgam R&C,Midgam,HaHadashot 12,1018.0,RAAM,5.0,,wikipedia,5.0,,,2026-10-23_channel-12,,
+2026-10-23_HaHadashot 12,1,22– 23 Oct,2026-10-23,Midgam R&C,Midgam,HaHadashot 12,1018.0,JOINT,9.0,,wikipedia,9.0,,,2026-10-23_channel-12,,
+2026-10-23_HaHadashot 12,1,22– 23 Oct,2026-10-23,Midgam R&C,Midgam,HaHadashot 12,1018.0,DEMOCRATS,10.0,,wikipedia,10.0,,,2026-10-23_channel-12,,
+2026-10-23_HaHadashot 12,1,22– 23 Oct,2026-10-23,Midgam R&C,Midgam,HaHadashot 12,1018.0,YASHAR,23.0,,wikipedia,23.0,,,2026-10-23_channel-12,,
+2026-10-23_HaHadashot 12,1,22– 23 Oct,2026-10-23,Midgam R&C,Midgam,HaHadashot 12,1018.0,HENDEL_ZELICHA,0.0,2.4,wikipedia,0.0,,2.4,2026-10-23_channel-12,,2.4
+2026-10-23_HaHadashot 12,1,22– 23 Oct,2026-10-23,Midgam R&C,Midgam,HaHadashot 12,1018.0,AMCHA,0.0,2.5,wikipedia,0.0,,2.5,2026-10-23_channel-12,,2.5
+2026-10-23_HaHadashot 12,1,22– 23 Oct,2026-10-23,Midgam R&C,Midgam,HaHadashot 12,1018.0,HAREDI_PUBLIC,0.0,0.5,wikipedia,0.0,,0.5,2026-10-23_channel-12,,0.5
+2026-10-22_Israel Hayom,1,22 Oct,2026-10-22,Kantar,Kantar,Israel Hayom,,LIKUD,21.0,,wikipedia,21.0,,,2026-10-22_israel-hayom,,
+2026-10-22_Israel Hayom,1,22 Oct,2026-10-22,Kantar,Kantar,Israel Hayom,,TOGETHER,14.0,,wikipedia,14.0,,,2026-10-22_israel-hayom,,
+2026-10-22_Israel Hayom,1,22 Oct,2026-10-22,Kantar,Kantar,Israel Hayom,,RZP_ZEHUT,6.0,,wikipedia,6.0,,,2026-10-22_israel-hayom,,
+2026-10-22_Israel Hayom,1,22 Oct,2026-10-22,Kantar,Kantar,Israel Hayom,,OTZMA,8.0,,wikipedia,8.0,,,2026-10-22_israel-hayom,,
+2026-10-22_Israel Hayom,1,22 Oct,2026-10-22,Kantar,Kantar,Israel Hayom,,SHAS,8.0,,wikipedia,8.0,,,2026-10-22_israel-hayom,,
+2026-10-22_Israel Hayom,1,22 Oct,2026-10-22,Kantar,Kantar,Israel Hayom,,UTJ,7.0,,wikipedia,7.0,,,2026-10-22_israel-hayom,,
+2026-10-22_Israel Hayom,1,22 Oct,2026-10-22,Kantar,Kantar,Israel Hayom,,YB,7.0,,wikipedia,7.0,,,2026-10-22_israel-hayom,,
+2026-10-22_Israel Hayom,1,22 Oct,2026-10-22,Kantar,Kantar,Israel Hayom,,RAAM,5.0,,wikipedia,5.0,,,2026-10-22_israel-hayom,,
+2026-10-22_Israel Hayom,1,22 Oct,2026-10-22,Kantar,Kantar,Israel Hayom,,JOINT,9.0,,wikipedia,9.0,,,2026-10-22_israel-hayom,,
+2026-10-22_Israel Hayom,1,22 Oct,2026-10-22,Kantar,Kantar,Israel Hayom,,DEMOCRATS,8.0,,wikipedia,8.0,,,2026-10-22_israel-hayom,,
+2026-10-22_Israel Hayom,1,22 Oct,2026-10-22,Kantar,Kantar,Israel Hayom,,YASHAR,23.0,,wikipedia,23.0,,,2026-10-22_israel-hayom,,
+2026-10-22_Israel Hayom,1,22 Oct,2026-10-22,Kantar,Kantar,Israel Hayom,,HENDEL_ZELICHA,4.0,,wikipedia,4.0,,,2026-10-22_israel-hayom,,
+2026-10-22_Israel Hayom,1,22 Oct,2026-10-22,Kantar,Kantar,Israel Hayom,,AMCHA,0.0,2.7,wikipedia,0.0,,2.7,2026-10-22_israel-hayom,,2.7
+2026-10-22_Israel Hayom,1,22 Oct,2026-10-22,Kantar,Kantar,Israel Hayom,,HAREDI_PUBLIC,,,wikipedia,,,,2026-10-22_israel-hayom,,
+2026-10-22_Channel 14,1,22 Oct,2026-10-22,SF+ND,NextData_Filber,Channel 14,7937.0,LIKUD,30.0,,wikipedia,30.0,,,2026-10-22_channel-14,,
+2026-10-22_Channel 14,1,22 Oct,2026-10-22,SF+ND,NextData_Filber,Channel 14,7937.0,TOGETHER,11.0,,wikipedia,11.0,,,2026-10-22_channel-14,,
+2026-10-22_Channel 14,1,22 Oct,2026-10-22,SF+ND,NextData_Filber,Channel 14,7937.0,RZP_ZEHUT,7.0,,wikipedia,7.0,,,2026-10-22_channel-14,,
+2026-10-22_Channel 14,1,22 Oct,2026-10-22,SF+ND,NextData_Filber,Channel 14,7937.0,OTZMA,8.0,,wikipedia,8.0,,,2026-10-22_channel-14,,
+2026-10-22_Channel 14,1,22 Oct,2026-10-22,SF+ND,NextData_Filber,Channel 14,7937.0,SHAS,9.0,,wikipedia,9.0,,,2026-10-22_channel-14,,
+2026-10-22_Channel 14,1,22 Oct,2026-10-22,SF+ND,NextData_Filber,Channel 14,7937.0,UTJ,8.0,,wikipedia,8.0,,,2026-10-22_channel-14,,
+2026-10-22_Channel 14,1,22 Oct,2026-10-22,SF+ND,NextData_Filber,Channel 14,7937.0,YB,5.0,,wikipedia,5.0,,,2026-10-22_channel-14,,
+2026-10-22_Channel 14,1,22 Oct,2026-10-22,SF+ND,NextData_Filber,Channel 14,7937.0,RAAM,6.0,,wikipedia,6.0,,,2026-10-22_channel-14,,
+2026-10-22_Channel 14,1,22 Oct,2026-10-22,SF+ND,NextData_Filber,Channel 14,7937.0,JOINT,8.0,,wikipedia,8.0,,,2026-10-22_channel-14,,
+2026-10-22_Channel 14,1,22 Oct,2026-10-22,SF+ND,NextData_Filber,Channel 14,7937.0,DEMOCRATS,8.0,,wikipedia,8.0,,,2026-10-22_channel-14,,
+2026-10-22_Channel 14,1,22 Oct,2026-10-22,SF+ND,NextData_Filber,Channel 14,7937.0,YASHAR,20.0,,wikipedia,20.0,,,2026-10-22_channel-14,,
+2026-10-22_Channel 14,1,22 Oct,2026-10-22,SF+ND,NextData_Filber,Channel 14,7937.0,HENDEL_ZELICHA,0.0,1.9,wikipedia,0.0,,1.9,2026-10-22_channel-14,,1.9
+2026-10-22_Channel 14,1,22 Oct,2026-10-22,SF+ND,NextData_Filber,Channel 14,7937.0,AMCHA,0.0,1.5,wikipedia,0.0,,1.5,2026-10-22_channel-14,,1.5
+2026-10-22_Channel 14,1,22 Oct,2026-10-22,SF+ND,NextData_Filber,Channel 14,7937.0,HAREDI_PUBLIC,0.0,0.3,wikipedia,0.0,,0.3,2026-10-22_channel-14,,0.3
+2026-10-22_Zman Yisrael,1,21– 22 Oct,2026-10-22,Yossi Tatika,Tatika,Zman Yisrael,500.0,LIKUD,21.0,,wikipedia,21.0,,,2026-10-22_zman,,
+2026-10-22_Zman Yisrael,1,21– 22 Oct,2026-10-22,Yossi Tatika,Tatika,Zman Yisrael,500.0,TOGETHER,11.0,,wikipedia,11.0,,,2026-10-22_zman,,
+2026-10-22_Zman Yisrael,1,21– 22 Oct,2026-10-22,Yossi Tatika,Tatika,Zman Yisrael,500.0,RZP_ZEHUT,6.0,,wikipedia,6.0,,,2026-10-22_zman,,
+2026-10-22_Zman Yisrael,1,21– 22 Oct,2026-10-22,Yossi Tatika,Tatika,Zman Yisrael,500.0,OTZMA,8.0,,wikipedia,8.0,,,2026-10-22_zman,,
+2026-10-22_Zman Yisrael,1,21– 22 Oct,2026-10-22,Yossi Tatika,Tatika,Zman Yisrael,500.0,SHAS,8.0,,wikipedia,8.0,,,2026-10-22_zman,,
+2026-10-22_Zman Yisrael,1,21– 22 Oct,2026-10-22,Yossi Tatika,Tatika,Zman Yisrael,500.0,UTJ,8.0,,wikipedia,8.0,,,2026-10-22_zman,,
+2026-10-22_Zman Yisrael,1,21– 22 Oct,2026-10-22,Yossi Tatika,Tatika,Zman Yisrael,500.0,YB,9.0,,wikipedia,9.0,,,2026-10-22_zman,,
+2026-10-22_Zman Yisrael,1,21– 22 Oct,2026-10-22,Yossi Tatika,Tatika,Zman Yisrael,500.0,RAAM,5.0,,wikipedia,5.0,,,2026-10-22_zman,,
+2026-10-22_Zman Yisrael,1,21– 22 Oct,2026-10-22,Yossi Tatika,Tatika,Zman Yisrael,500.0,JOINT,9.0,,wikipedia,9.0,,,2026-10-22_zman,,
+2026-10-22_Zman Yisrael,1,21– 22 Oct,2026-10-22,Yossi Tatika,Tatika,Zman Yisrael,500.0,DEMOCRATS,8.0,,wikipedia,8.0,,,2026-10-22_zman,,
+2026-10-22_Zman Yisrael,1,21– 22 Oct,2026-10-22,Yossi Tatika,Tatika,Zman Yisrael,500.0,YASHAR,23.0,,wikipedia,23.0,,,2026-10-22_zman,,
+2026-10-22_Zman Yisrael,1,21– 22 Oct,2026-10-22,Yossi Tatika,Tatika,Zman Yisrael,500.0,HENDEL_ZELICHA,4.0,,wikipedia,4.0,,,2026-10-22_zman,,
+2026-10-22_Zman Yisrael,1,21– 22 Oct,2026-10-22,Yossi Tatika,Tatika,Zman Yisrael,500.0,AMCHA,0.0,3.0,wikipedia,0.0,,3.0,2026-10-22_zman,,3.0
+2026-10-22_Zman Yisrael,1,21– 22 Oct,2026-10-22,Yossi Tatika,Tatika,Zman Yisrael,500.0,HAREDI_PUBLIC,,,wikipedia,,,,2026-10-22_zman,,
+2026-10-22_Maariv,1,19– 22 Oct,2026-10-22,LRI+P4A,Lazar_Panels,Maariv,1048.0,LIKUD,19.0,,wikipedia,19.0,,,2026-10-23_maariv,,
+2026-10-22_Maariv,1,19– 22 Oct,2026-10-22,LRI+P4A,Lazar_Panels,Maariv,1048.0,TOGETHER,15.0,,wikipedia,15.0,,,2026-10-23_maariv,,
+2026-10-22_Maariv,1,19– 22 Oct,2026-10-22,LRI+P4A,Lazar_Panels,Maariv,1048.0,RZP_ZEHUT,7.0,,wikipedia,7.0,,,2026-10-23_maariv,,
+2026-10-22_Maariv,1,19– 22 Oct,2026-10-22,LRI+P4A,Lazar_Panels,Maariv,1048.0,OTZMA,7.0,,wikipedia,7.0,,,2026-10-23_maariv,,
+2026-10-22_Maariv,1,19– 22 Oct,2026-10-22,LRI+P4A,Lazar_Panels,Maariv,1048.0,SHAS,8.0,,wikipedia,8.0,,,2026-10-23_maariv,,
+2026-10-22_Maariv,1,19– 22 Oct,2026-10-22,LRI+P4A,Lazar_Panels,Maariv,1048.0,UTJ,7.0,,wikipedia,7.0,,,2026-10-23_maariv,,
+2026-10-22_Maariv,1,19– 22 Oct,2026-10-22,LRI+P4A,Lazar_Panels,Maariv,1048.0,YB,8.0,,wikipedia,8.0,,,2026-10-23_maariv,,
+2026-10-22_Maariv,1,19– 22 Oct,2026-10-22,LRI+P4A,Lazar_Panels,Maariv,1048.0,RAAM,5.0,,wikipedia,5.0,,,2026-10-23_maariv,,
+2026-10-22_Maariv,1,19– 22 Oct,2026-10-22,LRI+P4A,Lazar_Panels,Maariv,1048.0,JOINT,9.0,,wikipedia,9.0,,,2026-10-23_maariv,,
+2026-10-22_Maariv,1,19– 22 Oct,2026-10-22,LRI+P4A,Lazar_Panels,Maariv,1048.0,DEMOCRATS,10.0,,wikipedia,10.0,,,2026-10-23_maariv,,
+2026-10-22_Maariv,1,19– 22 Oct,2026-10-22,LRI+P4A,Lazar_Panels,Maariv,1048.0,YASHAR,21.0,,wikipedia,21.0,,,2026-10-23_maariv,,
+2026-10-22_Maariv,1,19– 22 Oct,2026-10-22,LRI+P4A,Lazar_Panels,Maariv,1048.0,HENDEL_ZELICHA,4.0,,wikipedia,4.0,,,2026-10-23_maariv,,
+2026-10-22_Maariv,1,19– 22 Oct,2026-10-22,LRI+P4A,Lazar_Panels,Maariv,1048.0,AMCHA,0.0,3.0,wikipedia,0.0,,3.0,2026-10-23_maariv,,3.0
+2026-10-22_Maariv,1,19– 22 Oct,2026-10-22,LRI+P4A,Lazar_Panels,Maariv,1048.0,HAREDI_PUBLIC,0.0,0.9,wikipedia,0.0,,0.9,2026-10-23_maariv,,0.9
+2026-10-21_Channel 13,1,21 Oct,2026-10-21,MP+TM+SN+A,Ch13_Madad2026,Channel 13,1084.0,LIKUD,19.0,,wikipedia,19.0,,,2026-10-21_channel-13,1084,
+2026-10-21_Channel 13,1,21 Oct,2026-10-21,MP+TM+SN+A,Ch13_Madad2026,Channel 13,1084.0,TOGETHER,14.0,,wikipedia,14.0,,,2026-10-21_channel-13,1084,
+2026-10-21_Channel 13,1,21 Oct,2026-10-21,MP+TM+SN+A,Ch13_Madad2026,Channel 13,1084.0,RZP_ZEHUT,8.0,,wikipedia,8.0,,,2026-10-21_channel-13,1084,
+2026-10-21_Channel 13,1,21 Oct,2026-10-21,MP+TM+SN+A,Ch13_Madad2026,Channel 13,1084.0,OTZMA,7.0,,wikipedia,7.0,,,2026-10-21_channel-13,1084,
+2026-10-21_Channel 13,1,21 Oct,2026-10-21,MP+TM+SN+A,Ch13_Madad2026,Channel 13,1084.0,SHAS,7.0,,wikipedia,7.0,,,2026-10-21_channel-13,1084,
+2026-10-21_Channel 13,1,21 Oct,2026-10-21,MP+TM+SN+A,Ch13_Madad2026,Channel 13,1084.0,UTJ,8.0,,wikipedia,8.0,,,2026-10-21_channel-13,1084,
+2026-10-21_Channel 13,1,21 Oct,2026-10-21,MP+TM+SN+A,Ch13_Madad2026,Channel 13,1084.0,YB,8.0,,wikipedia,8.0,,,2026-10-21_channel-13,1084,
+2026-10-21_Channel 13,1,21 Oct,2026-10-21,MP+TM+SN+A,Ch13_Madad2026,Channel 13,1084.0,RAAM,6.0,,wikipedia,6.0,,,2026-10-21_channel-13,1084,
+2026-10-21_Channel 13,1,21 Oct,2026-10-21,MP+TM+SN+A,Ch13_Madad2026,Channel 13,1084.0,JOINT,9.0,,wikipedia,9.0,,,2026-10-21_channel-13,1084,
+2026-10-21_Channel 13,1,21 Oct,2026-10-21,MP+TM+SN+A,Ch13_Madad2026,Channel 13,1084.0,DEMOCRATS,10.0,,wikipedia,10.0,,,2026-10-21_channel-13,1084,
+2026-10-21_Channel 13,1,21 Oct,2026-10-21,MP+TM+SN+A,Ch13_Madad2026,Channel 13,1084.0,YASHAR,20.0,,wikipedia,20.0,,,2026-10-21_channel-13,1084,
+2026-10-21_Channel 13,1,21 Oct,2026-10-21,MP+TM+SN+A,Ch13_Madad2026,Channel 13,1084.0,HENDEL_ZELICHA,4.0,,wikipedia,4.0,,,2026-10-21_channel-13,1084,
+2026-10-21_Channel 13,1,21 Oct,2026-10-21,MP+TM+SN+A,Ch13_Madad2026,Channel 13,1084.0,AMCHA,0.0,3.2,wikipedia,0.0,,3.2,2026-10-21_channel-13,1084,3.2
+2026-10-21_Channel 13,1,21 Oct,2026-10-21,MP+TM+SN+A,Ch13_Madad2026,Channel 13,1084.0,HAREDI_PUBLIC,0.0,1.2,wikipedia,0.0,,1.2,2026-10-21_channel-13,1084,1.2
+2026-10-21_HaHadashot 12,1,21 Oct,2026-10-21,Midgam R&C,Midgam,HaHadashot 12,505.0,LIKUD,19.0,,wikipedia,19.0,15.2,,2026-10-21_channel-12,505,15.2
+2026-10-21_HaHadashot 12,1,21 Oct,2026-10-21,Midgam R&C,Midgam,HaHadashot 12,505.0,TOGETHER,15.0,,wikipedia,15.0,12.0,,2026-10-21_channel-12,505,12.0
+2026-10-21_HaHadashot 12,1,21 Oct,2026-10-21,Midgam R&C,Midgam,HaHadashot 12,505.0,RZP_ZEHUT,6.0,,wikipedia,6.0,4.8,,2026-10-21_channel-12,505,4.8
+2026-10-21_HaHadashot 12,1,21 Oct,2026-10-21,Midgam R&C,Midgam,HaHadashot 12,505.0,OTZMA,7.0,,wikipedia,7.0,5.7,,2026-10-21_channel-12,505,5.7
+2026-10-21_HaHadashot 12,1,21 Oct,2026-10-21,Midgam R&C,Midgam,HaHadashot 12,505.0,SHAS,8.0,,wikipedia,8.0,6.3,,2026-10-21_channel-12,505,6.3
+2026-10-21_HaHadashot 12,1,21 Oct,2026-10-21,Midgam R&C,Midgam,HaHadashot 12,505.0,UTJ,7.0,,wikipedia,7.0,5.6,,2026-10-21_channel-12,505,5.6
+2026-10-21_HaHadashot 12,1,21 Oct,2026-10-21,Midgam R&C,Midgam,HaHadashot 12,505.0,YB,8.0,,wikipedia,8.0,6.4,,2026-10-21_channel-12,505,6.4
+2026-10-21_HaHadashot 12,1,21 Oct,2026-10-21,Midgam R&C,Midgam,HaHadashot 12,505.0,RAAM,5.0,,wikipedia,5.0,4.1,,2026-10-21_channel-12,505,4.1
+2026-10-21_HaHadashot 12,1,21 Oct,2026-10-21,Midgam R&C,Midgam,HaHadashot 12,505.0,JOINT,9.0,,wikipedia,9.0,7.2,,2026-10-21_channel-12,505,7.2
+2026-10-21_HaHadashot 12,1,21 Oct,2026-10-21,Midgam R&C,Midgam,HaHadashot 12,505.0,DEMOCRATS,9.0,,wikipedia,9.0,7.3,,2026-10-21_channel-12,505,7.3
+2026-10-21_HaHadashot 12,1,21 Oct,2026-10-21,Midgam R&C,Midgam,HaHadashot 12,505.0,YASHAR,23.0,,wikipedia,23.0,18.4,,2026-10-21_channel-12,505,18.4
+2026-10-21_HaHadashot 12,1,21 Oct,2026-10-21,Midgam R&C,Midgam,HaHadashot 12,505.0,HENDEL_ZELICHA,0.0,2.8,wikipedia,0.0,2.8,2.8,2026-10-21_channel-12,505,2.8
+2026-10-21_HaHadashot 12,1,21 Oct,2026-10-21,Midgam R&C,Midgam,HaHadashot 12,505.0,AMCHA,4.0,,wikipedia,4.0,3.4,,2026-10-21_channel-12,505,3.4
+2026-10-21_HaHadashot 12,1,21 Oct,2026-10-21,Midgam R&C,Midgam,HaHadashot 12,505.0,HAREDI_PUBLIC,0.0,0.3,wikipedia,,,,2026-10-21_channel-12,505,0.3
+2026-10-21_Channel 14,1,21 Oct,2026-10-21,SF+ND,NextData_Filber,Channel 14,1954.0,LIKUD,30.0,,wikipedia,30.0,23.3,,2026-10-21_channel-14,1954,23.3
+2026-10-21_Channel 14,1,21 Oct,2026-10-21,SF+ND,NextData_Filber,Channel 14,1954.0,TOGETHER,10.0,,wikipedia,10.0,7.7,,2026-10-21_channel-14,1954,7.7
+2026-10-21_Channel 14,1,21 Oct,2026-10-21,SF+ND,NextData_Filber,Channel 14,1954.0,RZP_ZEHUT,7.0,,wikipedia,7.0,5.4,,2026-10-21_channel-14,1954,5.4
+2026-10-21_Channel 14,1,21 Oct,2026-10-21,SF+ND,NextData_Filber,Channel 14,1954.0,OTZMA,8.0,,wikipedia,8.0,6.2,,2026-10-21_channel-14,1954,6.2
+2026-10-21_Channel 14,1,21 Oct,2026-10-21,SF+ND,NextData_Filber,Channel 14,1954.0,SHAS,10.0,,wikipedia,10.0,7.7,,2026-10-21_channel-14,1954,7.7
+2026-10-21_Channel 14,1,21 Oct,2026-10-21,SF+ND,NextData_Filber,Channel 14,1954.0,UTJ,7.0,,wikipedia,7.0,5.4,,2026-10-21_channel-14,1954,5.4
+2026-10-21_Channel 14,1,21 Oct,2026-10-21,SF+ND,NextData_Filber,Channel 14,1954.0,YB,5.0,,wikipedia,5.0,3.9,,2026-10-21_channel-14,1954,3.9
+2026-10-21_Channel 14,1,21 Oct,2026-10-21,SF+ND,NextData_Filber,Channel 14,1954.0,RAAM,6.0,,wikipedia,6.0,4.6,,2026-10-21_channel-14,1954,4.6
+2026-10-21_Channel 14,1,21 Oct,2026-10-21,SF+ND,NextData_Filber,Channel 14,1954.0,JOINT,8.0,,wikipedia,8.0,6.2,,2026-10-21_channel-14,1954,6.2
+2026-10-21_Channel 14,1,21 Oct,2026-10-21,SF+ND,NextData_Filber,Channel 14,1954.0,DEMOCRATS,9.0,,wikipedia,9.0,7.0,,2026-10-21_channel-14,1954,7.0
+2026-10-21_Channel 14,1,21 Oct,2026-10-21,SF+ND,NextData_Filber,Channel 14,1954.0,YASHAR,20.0,,wikipedia,20.0,15.5,,2026-10-21_channel-14,1954,15.5
+2026-10-21_Channel 14,1,21 Oct,2026-10-21,SF+ND,NextData_Filber,Channel 14,1954.0,HENDEL_ZELICHA,0.0,2.2,wikipedia,0.0,2.2,2.2,2026-10-21_channel-14,1954,2.2
+2026-10-21_Channel 14,1,21 Oct,2026-10-21,SF+ND,NextData_Filber,Channel 14,1954.0,AMCHA,0.0,1.7,wikipedia,0.0,1.7,1.7,2026-10-21_channel-14,1954,1.7
+2026-10-21_Channel 14,1,21 Oct,2026-10-21,SF+ND,NextData_Filber,Channel 14,1954.0,HAREDI_PUBLIC,0.0,0.3,wikipedia,0.0,0.3,0.3,2026-10-21_channel-14,1954,0.3
+2026-10-20_i24 News,1,20 Oct,2026-10-20,Direct Polls,DirectPolls,i24 News,521.0,LIKUD,26.0,,wikipedia,26.0,19.7,,2026-10-20_i24news,521,19.7
+2026-10-20_i24 News,1,20 Oct,2026-10-20,Direct Polls,DirectPolls,i24 News,521.0,TOGETHER,12.0,,wikipedia,12.0,9.2,,2026-10-20_i24news,521,9.2
+2026-10-20_i24 News,1,20 Oct,2026-10-20,Direct Polls,DirectPolls,i24 News,521.0,RZP_ZEHUT,7.0,,wikipedia,7.0,5.7,,2026-10-20_i24news,521,5.7
+2026-10-20_i24 News,1,20 Oct,2026-10-20,Direct Polls,DirectPolls,i24 News,521.0,OTZMA,9.0,,wikipedia,9.0,6.8,,2026-10-20_i24news,521,6.8
+2026-10-20_i24 News,1,20 Oct,2026-10-20,Direct Polls,DirectPolls,i24 News,521.0,SHAS,8.0,,wikipedia,8.0,6.6,,2026-10-20_i24news,521,6.6
+2026-10-20_i24 News,1,20 Oct,2026-10-20,Direct Polls,DirectPolls,i24 News,521.0,UTJ,8.0,,wikipedia,8.0,5.9,,2026-10-20_i24news,521,5.9
+2026-10-20_i24 News,1,20 Oct,2026-10-20,Direct Polls,DirectPolls,i24 News,521.0,YB,7.0,,wikipedia,7.0,5.3,,2026-10-20_i24news,521,5.3
+2026-10-20_i24 News,1,20 Oct,2026-10-20,Direct Polls,DirectPolls,i24 News,521.0,RAAM,6.0,,wikipedia,6.0,5.2,,2026-10-20_i24news,521,5.2
+2026-10-20_i24 News,1,20 Oct,2026-10-20,Direct Polls,DirectPolls,i24 News,521.0,JOINT,8.0,,wikipedia,8.0,6.0,,2026-10-20_i24news,521,6.0
+2026-10-20_i24 News,1,20 Oct,2026-10-20,Direct Polls,DirectPolls,i24 News,521.0,DEMOCRATS,9.0,,wikipedia,9.0,7.1,,2026-10-20_i24news,521,7.1
+2026-10-20_i24 News,1,20 Oct,2026-10-20,Direct Polls,DirectPolls,i24 News,521.0,YASHAR,20.0,,wikipedia,20.0,14.7,,2026-10-20_i24news,521,14.7
+2026-10-20_i24 News,1,20 Oct,2026-10-20,Direct Polls,DirectPolls,i24 News,521.0,HENDEL_ZELICHA,0.0,2.6,wikipedia,0.0,2.6,2.6,2026-10-20_i24news,521,2.6
+2026-10-20_i24 News,1,20 Oct,2026-10-20,Direct Polls,DirectPolls,i24 News,521.0,AMCHA,0.0,3.1,wikipedia,0.0,3.1,3.1,2026-10-20_i24news,521,3.1
+2026-10-20_i24 News,1,20 Oct,2026-10-20,Direct Polls,DirectPolls,i24 News,521.0,HAREDI_PUBLIC,0.0,1.0,wikipedia,0.0,,,2026-10-20_i24news,521,1.0
+2026-10-20_Channel 14,1,20 Oct,2026-10-20,SF+ND,NextData_Filber,Channel 14,2116.0,LIKUD,30.0,,wikipedia,30.0,22.8,,2026-10-20_channel-14,2116,22.8
+2026-10-20_Channel 14,1,20 Oct,2026-10-20,SF+ND,NextData_Filber,Channel 14,2116.0,TOGETHER,9.0,,wikipedia,9.0,6.8,,2026-10-20_channel-14,2116,6.8
+2026-10-20_Channel 14,1,20 Oct,2026-10-20,SF+ND,NextData_Filber,Channel 14,2116.0,RZP_ZEHUT,7.0,,wikipedia,7.0,5.6,,2026-10-20_channel-14,2116,5.6
+2026-10-20_Channel 14,1,20 Oct,2026-10-20,SF+ND,NextData_Filber,Channel 14,2116.0,OTZMA,8.0,,wikipedia,8.0,6.3,,2026-10-20_channel-14,2116,6.3
+2026-10-20_Channel 14,1,20 Oct,2026-10-20,SF+ND,NextData_Filber,Channel 14,2116.0,SHAS,9.0,,wikipedia,9.0,6.7,,2026-10-20_channel-14,2116,6.7
+2026-10-20_Channel 14,1,20 Oct,2026-10-20,SF+ND,NextData_Filber,Channel 14,2116.0,UTJ,8.0,,wikipedia,8.0,6.4,,2026-10-20_channel-14,2116,6.4
+2026-10-20_Channel 14,1,20 Oct,2026-10-20,SF+ND,NextData_Filber,Channel 14,2116.0,YB,6.0,,wikipedia,6.0,4.8,,2026-10-20_channel-14,2116,4.8
+2026-10-20_Channel 14,1,20 Oct,2026-10-20,SF+ND,NextData_Filber,Channel 14,2116.0,RAAM,6.0,,wikipedia,6.0,4.4,,2026-10-20_channel-14,2116,4.4
+2026-10-20_Channel 14,1,20 Oct,2026-10-20,SF+ND,NextData_Filber,Channel 14,2116.0,JOINT,8.0,,wikipedia,8.0,6.4,,2026-10-20_channel-14,2116,6.4
+2026-10-20_Channel 14,1,20 Oct,2026-10-20,SF+ND,NextData_Filber,Channel 14,2116.0,DEMOCRATS,9.0,,wikipedia,9.0,6.9,,2026-10-20_channel-14,2116,6.9
+2026-10-20_Channel 14,1,20 Oct,2026-10-20,SF+ND,NextData_Filber,Channel 14,2116.0,YASHAR,20.0,,wikipedia,20.0,15.3,,2026-10-20_channel-14,2116,15.3
+2026-10-20_Channel 14,1,20 Oct,2026-10-20,SF+ND,NextData_Filber,Channel 14,2116.0,HENDEL_ZELICHA,0.0,2.5,wikipedia,0.0,,2.5,2026-10-20_channel-14,2116,2.5
+2026-10-20_Channel 14,1,20 Oct,2026-10-20,SF+ND,NextData_Filber,Channel 14,2116.0,AMCHA,0.0,1.9,wikipedia,0.0,,1.9,2026-10-20_channel-14,2116,1.9
+2026-10-20_Channel 14,1,20 Oct,2026-10-20,SF+ND,NextData_Filber,Channel 14,2116.0,HAREDI_PUBLIC,0.0,0.9,wikipedia,0.0,,0.9,2026-10-20_channel-14,2116,0.9
+2026-10-19_Walla,1,19 Oct,2026-10-19,LRI+P4A,Lazar_Panels,Walla,601.0,LIKUD,19.0,,wikipedia,19.0,14.5,,2026-10-20_walla,601,14.5
+2026-10-19_Walla,1,19 Oct,2026-10-19,LRI+P4A,Lazar_Panels,Walla,601.0,TOGETHER,14.0,,wikipedia,14.0,11.6,,2026-10-20_walla,601,11.6
+2026-10-19_Walla,1,19 Oct,2026-10-19,LRI+P4A,Lazar_Panels,Walla,601.0,RZP_ZEHUT,6.0,,wikipedia,6.0,5.4,,2026-10-20_walla,601,5.4
+2026-10-19_Walla,1,19 Oct,2026-10-19,LRI+P4A,Lazar_Panels,Walla,601.0,OTZMA,8.0,,wikipedia,8.0,6.4,,2026-10-20_walla,601,6.4
+2026-10-19_Walla,1,19 Oct,2026-10-19,LRI+P4A,Lazar_Panels,Walla,601.0,SHAS,8.0,,wikipedia,8.0,6.1,,2026-10-20_walla,601,6.1
+2026-10-19_Walla,1,19 Oct,2026-10-19,LRI+P4A,Lazar_Panels,Walla,601.0,UTJ,7.0,,wikipedia,7.0,5.8,,2026-10-20_walla,601,5.8
+2026-10-19_Walla,1,19 Oct,2026-10-19,LRI+P4A,Lazar_Panels,Walla,601.0,YB,8.0,,wikipedia,8.0,6.1,,2026-10-20_walla,601,6.1
+2026-10-19_Walla,1,19 Oct,2026-10-19,LRI+P4A,Lazar_Panels,Walla,601.0,RAAM,6.0,,wikipedia,6.0,5.4,,2026-10-20_walla,601,5.4
+2026-10-19_Walla,1,19 Oct,2026-10-19,LRI+P4A,Lazar_Panels,Walla,601.0,JOINT,8.0,,wikipedia,8.0,6.3,,2026-10-20_walla,601,6.3
+2026-10-19_Walla,1,19 Oct,2026-10-19,LRI+P4A,Lazar_Panels,Walla,601.0,DEMOCRATS,9.0,,wikipedia,9.0,7.9,,2026-10-20_walla,601,7.9
+2026-10-19_Walla,1,19 Oct,2026-10-19,LRI+P4A,Lazar_Panels,Walla,601.0,YASHAR,23.0,,wikipedia,23.0,15.9,,2026-10-20_walla,601,15.9
+2026-10-19_Walla,1,19 Oct,2026-10-19,LRI+P4A,Lazar_Panels,Walla,601.0,HENDEL_ZELICHA,4.0,,wikipedia,4.0,3.7,,2026-10-20_walla,601,3.7
+2026-10-19_Walla,1,19 Oct,2026-10-19,LRI+P4A,Lazar_Panels,Walla,601.0,AMCHA,0.0,2.9,wikipedia,0.0,2.9,2.9,2026-10-20_walla,601,2.9
+2026-10-19_Walla,1,19 Oct,2026-10-19,LRI+P4A,Lazar_Panels,Walla,601.0,HAREDI_PUBLIC,0.0,,wikipedia,0.0,0.9,,2026-10-20_walla,601,0.9
+2026-10-20_Channel 16,1,20 Oct,2026-10-20,Maagar Mochot,MaagarMochot,Channel 16,2026.0,LIKUD,18.0,,wikipedia,18.0,,,2026-10-20_c16,2026,
+2026-10-20_Channel 16,1,20 Oct,2026-10-20,Maagar Mochot,MaagarMochot,Channel 16,2026.0,TOGETHER,15.0,,wikipedia,15.0,,,2026-10-20_c16,2026,
+2026-10-20_Channel 16,1,20 Oct,2026-10-20,Maagar Mochot,MaagarMochot,Channel 16,2026.0,RZP_ZEHUT,6.0,,wikipedia,6.0,,,2026-10-20_c16,2026,
+2026-10-20_Channel 16,1,20 Oct,2026-10-20,Maagar Mochot,MaagarMochot,Channel 16,2026.0,OTZMA,9.0,,wikipedia,9.0,,,2026-10-20_c16,2026,
+2026-10-20_Channel 16,1,20 Oct,2026-10-20,Maagar Mochot,MaagarMochot,Channel 16,2026.0,SHAS,6.0,,wikipedia,6.0,,,2026-10-20_c16,2026,
+2026-10-20_Channel 16,1,20 Oct,2026-10-20,Maagar Mochot,MaagarMochot,Channel 16,2026.0,UTJ,7.0,,wikipedia,7.0,,,2026-10-20_c16,2026,
+2026-10-20_Channel 16,1,20 Oct,2026-10-20,Maagar Mochot,MaagarMochot,Channel 16,2026.0,YB,7.0,,wikipedia,7.0,,,2026-10-20_c16,2026,
+2026-10-20_Channel 16,1,20 Oct,2026-10-20,Maagar Mochot,MaagarMochot,Channel 16,2026.0,RAAM,5.0,,wikipedia,5.0,,,2026-10-20_c16,2026,
+2026-10-20_Channel 16,1,20 Oct,2026-10-20,Maagar Mochot,MaagarMochot,Channel 16,2026.0,JOINT,9.0,,wikipedia,9.0,,,2026-10-20_c16,2026,
+2026-10-20_Channel 16,1,20 Oct,2026-10-20,Maagar Mochot,MaagarMochot,Channel 16,2026.0,DEMOCRATS,9.0,,wikipedia,9.0,,,2026-10-20_c16,2026,
+2026-10-20_Channel 16,1,20 Oct,2026-10-20,Maagar Mochot,MaagarMochot,Channel 16,2026.0,YASHAR,21.0,,wikipedia,21.0,,,2026-10-20_c16,2026,
+2026-10-20_Channel 16,1,20 Oct,2026-10-20,Maagar Mochot,MaagarMochot,Channel 16,2026.0,HENDEL_ZELICHA,4.0,,wikipedia,4.0,,,2026-10-20_c16,2026,
+2026-10-20_Channel 16,1,20 Oct,2026-10-20,Maagar Mochot,MaagarMochot,Channel 16,2026.0,AMCHA,4.0,,wikipedia,4.0,,,2026-10-20_c16,2026,
+2026-10-20_Channel 16,1,20 Oct,2026-10-20,Maagar Mochot,MaagarMochot,Channel 16,2026.0,HAREDI_PUBLIC,0.0,0.6,wikipedia,0.0,,0.7,2026-10-20_c16,2026,0.6
+2026-10-19_Channel 13,1,19 Oct,2026-10-19,MP+TM+SN+A,Ch13_Madad2026,Channel 13,1016.0,LIKUD,18.0,,wikipedia,18.0,,,2026-10-19_channel-13,1016,
+2026-10-19_Channel 13,1,19 Oct,2026-10-19,MP+TM+SN+A,Ch13_Madad2026,Channel 13,1016.0,TOGETHER,14.0,,wikipedia,14.0,,,2026-10-19_channel-13,1016,
+2026-10-19_Channel 13,1,19 Oct,2026-10-19,MP+TM+SN+A,Ch13_Madad2026,Channel 13,1016.0,RZP_ZEHUT,7.0,,wikipedia,7.0,,,2026-10-19_channel-13,1016,
+2026-10-19_Channel 13,1,19 Oct,2026-10-19,MP+TM+SN+A,Ch13_Madad2026,Channel 13,1016.0,OTZMA,7.0,,wikipedia,7.0,,,2026-10-19_channel-13,1016,
+2026-10-19_Channel 13,1,19 Oct,2026-10-19,MP+TM+SN+A,Ch13_Madad2026,Channel 13,1016.0,SHAS,7.0,,wikipedia,7.0,,,2026-10-19_channel-13,1016,
+2026-10-19_Channel 13,1,19 Oct,2026-10-19,MP+TM+SN+A,Ch13_Madad2026,Channel 13,1016.0,UTJ,7.0,,wikipedia,7.0,,,2026-10-19_channel-13,1016,
+2026-10-19_Channel 13,1,19 Oct,2026-10-19,MP+TM+SN+A,Ch13_Madad2026,Channel 13,1016.0,YB,8.0,,wikipedia,8.0,,,2026-10-19_channel-13,1016,
+2026-10-19_Channel 13,1,19 Oct,2026-10-19,MP+TM+SN+A,Ch13_Madad2026,Channel 13,1016.0,RAAM,6.0,,wikipedia,6.0,,,2026-10-19_channel-13,1016,
+2026-10-19_Channel 13,1,19 Oct,2026-10-19,MP+TM+SN+A,Ch13_Madad2026,Channel 13,1016.0,JOINT,9.0,,wikipedia,9.0,,,2026-10-19_channel-13,1016,
+2026-10-19_Channel 13,1,19 Oct,2026-10-19,MP+TM+SN+A,Ch13_Madad2026,Channel 13,1016.0,DEMOCRATS,9.0,,wikipedia,9.0,,,2026-10-19_channel-13,1016,
+2026-10-19_Channel 13,1,19 Oct,2026-10-19,MP+TM+SN+A,Ch13_Madad2026,Channel 13,1016.0,YASHAR,20.0,,wikipedia,20.0,,,2026-10-19_channel-13,1016,
+2026-10-19_Channel 13,1,19 Oct,2026-10-19,MP+TM+SN+A,Ch13_Madad2026,Channel 13,1016.0,HENDEL_ZELICHA,4.0,,wikipedia,4.0,,,2026-10-19_channel-13,1016,
+2026-10-19_Channel 13,1,19 Oct,2026-10-19,MP+TM+SN+A,Ch13_Madad2026,Channel 13,1016.0,AMCHA,4.0,,wikipedia,4.0,,,2026-10-19_channel-13,1016,
+2026-10-19_Channel 13,1,19 Oct,2026-10-19,MP+TM+SN+A,Ch13_Madad2026,Channel 13,1016.0,HAREDI_PUBLIC,0.0,,wikipedia,0.0,,,2026-10-19_channel-13,1016,
+2026-10-19_Channel 14,1,19 Oct,2026-10-19,SF+ND,NextData_Filber,Channel 14,454.0,LIKUD,30.0,,wikipedia,30.0,22.5,,2026-10-19_channel-14,454,22.5
+2026-10-19_Channel 14,1,19 Oct,2026-10-19,SF+ND,NextData_Filber,Channel 14,454.0,TOGETHER,10.0,,wikipedia,10.0,7.5,,2026-10-19_channel-14,454,7.5
+2026-10-19_Channel 14,1,19 Oct,2026-10-19,SF+ND,NextData_Filber,Channel 14,454.0,RZP_ZEHUT,7.0,,wikipedia,7.0,5.3,,2026-10-19_channel-14,454,5.3
+2026-10-19_Channel 14,1,19 Oct,2026-10-19,SF+ND,NextData_Filber,Channel 14,454.0,OTZMA,7.0,,wikipedia,7.0,5.3,,2026-10-19_channel-14,454,5.3
+2026-10-19_Channel 14,1,19 Oct,2026-10-19,SF+ND,NextData_Filber,Channel 14,454.0,SHAS,10.0,,wikipedia,10.0,7.5,,2026-10-19_channel-14,454,7.5
+2026-10-19_Channel 14,1,19 Oct,2026-10-19,SF+ND,NextData_Filber,Channel 14,454.0,UTJ,8.0,,wikipedia,8.0,6.0,,2026-10-19_channel-14,454,6.0
+2026-10-19_Channel 14,1,19 Oct,2026-10-19,SF+ND,NextData_Filber,Channel 14,454.0,YB,6.0,,wikipedia,6.0,4.5,,2026-10-19_channel-14,454,4.5
+2026-10-19_Channel 14,1,19 Oct,2026-10-19,SF+ND,NextData_Filber,Channel 14,454.0,RAAM,5.0,,wikipedia,5.0,3.8,,2026-10-19_channel-14,454,3.8
+2026-10-19_Channel 14,1,19 Oct,2026-10-19,SF+ND,NextData_Filber,Channel 14,454.0,JOINT,8.0,,wikipedia,8.0,6.0,,2026-10-19_channel-14,454,6.0
+2026-10-19_Channel 14,1,19 Oct,2026-10-19,SF+ND,NextData_Filber,Channel 14,454.0,DEMOCRATS,10.0,,wikipedia,10.0,7.5,,2026-10-19_channel-14,454,7.5
+2026-10-19_Channel 14,1,19 Oct,2026-10-19,SF+ND,NextData_Filber,Channel 14,454.0,YASHAR,19.0,,wikipedia,19.0,14.3,,2026-10-19_channel-14,454,14.3
+2026-10-19_Channel 14,1,19 Oct,2026-10-19,SF+ND,NextData_Filber,Channel 14,454.0,HENDEL_ZELICHA,0.0,2.6,wikipedia,0.0,2.6,2.6,2026-10-19_channel-14,454,2.6
+2026-10-19_Channel 14,1,19 Oct,2026-10-19,SF+ND,NextData_Filber,Channel 14,454.0,AMCHA,0.0,2.2,wikipedia,0.0,2.2,2.2,2026-10-19_channel-14,454,2.2
+2026-10-19_Channel 14,1,19 Oct,2026-10-19,SF+ND,NextData_Filber,Channel 14,454.0,HAREDI_PUBLIC,0.0,0.3,wikipedia,0.0,0.3,0.3,2026-10-19_channel-14,454,0.3
+2026-10-19_HaHadashot 12,2,19 Oct,2026-10-19,Midgam R&C,Midgam,HaHadashot 12,507.0,LIKUD,21.0,,wikipedia,21.0,16.4,,2026-10-19_channel-12,507,16.4
+2026-10-19_HaHadashot 12,2,19 Oct,2026-10-19,Midgam R&C,Midgam,HaHadashot 12,507.0,TOGETHER,14.0,,wikipedia,14.0,10.9,,2026-10-19_channel-12,507,10.9
+2026-10-19_HaHadashot 12,2,19 Oct,2026-10-19,Midgam R&C,Midgam,HaHadashot 12,507.0,RZP_ZEHUT,7.0,,wikipedia,7.0,5.5,,2026-10-19_channel-12,507,5.5
+2026-10-19_HaHadashot 12,2,19 Oct,2026-10-19,Midgam R&C,Midgam,HaHadashot 12,507.0,OTZMA,8.0,,wikipedia,8.0,6.1,,2026-10-19_channel-12,507,6.1
+2026-10-19_HaHadashot 12,2,19 Oct,2026-10-19,Midgam R&C,Midgam,HaHadashot 12,507.0,BLUE_WHITE,0.0,1.4,wikipedia,0.0,1.4,1.4,2026-10-19_channel-12,507,1.4
+2026-10-19_HaHadashot 12,2,19 Oct,2026-10-19,Midgam R&C,Midgam,HaHadashot 12,507.0,SHAS,8.0,,wikipedia,8.0,6.3,,2026-10-19_channel-12,507,6.3
+2026-10-19_HaHadashot 12,2,19 Oct,2026-10-19,Midgam R&C,Midgam,HaHadashot 12,507.0,UTJ,7.0,,wikipedia,7.0,5.4,,2026-10-19_channel-12,507,5.4
+2026-10-19_HaHadashot 12,2,19 Oct,2026-10-19,Midgam R&C,Midgam,HaHadashot 12,507.0,YB,8.0,,wikipedia,8.0,6.4,,2026-10-19_channel-12,507,6.4
+2026-10-19_HaHadashot 12,2,19 Oct,2026-10-19,Midgam R&C,Midgam,HaHadashot 12,507.0,RAAM,5.0,,wikipedia,5.0,4.0,,2026-10-19_channel-12,507,4.0
+2026-10-19_HaHadashot 12,2,19 Oct,2026-10-19,Midgam R&C,Midgam,HaHadashot 12,507.0,JOINT,9.0,,wikipedia,9.0,6.9,,2026-10-19_channel-12,507,6.9
+2026-10-19_HaHadashot 12,2,19 Oct,2026-10-19,Midgam R&C,Midgam,HaHadashot 12,507.0,DEMOCRATS,9.0,,wikipedia,9.0,7.0,,2026-10-19_channel-12,507,7.0
+2026-10-19_HaHadashot 12,2,19 Oct,2026-10-19,Midgam R&C,Midgam,HaHadashot 12,507.0,YASHAR,24.0,,wikipedia,24.0,18.5,,2026-10-19_channel-12,507,18.5
+2026-10-19_HaHadashot 12,2,19 Oct,2026-10-19,Midgam R&C,Midgam,HaHadashot 12,507.0,HENDEL_ZELICHA,0.0,2.1,wikipedia,0.0,2.1,2.1,2026-10-19_channel-12,507,2.1
+2026-10-19_HaHadashot 12,2,19 Oct,2026-10-19,Midgam R&C,Midgam,HaHadashot 12,507.0,AMCHA,0.0,2.8,wikipedia,0.0,2.8,2.8,2026-10-19_channel-12,507,2.8
+2026-10-19_HaHadashot 12,2,19 Oct,2026-10-19,Midgam R&C,Midgam,HaHadashot 12,507.0,HAREDI_PUBLIC,0.0,0.2,wikipedia,0.0,,0.2,2026-10-19_channel-12,507,0.2
+2026-10-18_i24 News,2,18 Oct,2026-10-18,Direct Polls,DirectPolls,i24 News,525.0,LIKUD,25.0,,wikipedia,25.0,19.1,,2026-10-18_i24news,525,19.1
+2026-10-18_i24 News,2,18 Oct,2026-10-18,Direct Polls,DirectPolls,i24 News,525.0,TOGETHER,13.0,,wikipedia,13.0,9.9,,2026-10-18_i24news,525,9.9
+2026-10-18_i24 News,2,18 Oct,2026-10-18,Direct Polls,DirectPolls,i24 News,525.0,RZP_ZEHUT,6.0,,wikipedia,6.0,4.6,,2026-10-18_i24news,525,4.6
+2026-10-18_i24 News,2,18 Oct,2026-10-18,Direct Polls,DirectPolls,i24 News,525.0,OTZMA,10.0,,wikipedia,10.0,7.6,,2026-10-18_i24news,525,7.6
+2026-10-18_i24 News,2,18 Oct,2026-10-18,Direct Polls,DirectPolls,i24 News,525.0,BLUE_WHITE,0.0,1.0,wikipedia,0.0,,,2026-10-18_i24news,525,1.0
+2026-10-18_i24 News,2,18 Oct,2026-10-18,Direct Polls,DirectPolls,i24 News,525.0,SHAS,8.0,,wikipedia,8.0,5.7,,2026-10-18_i24news,525,5.7
+2026-10-18_i24 News,2,18 Oct,2026-10-18,Direct Polls,DirectPolls,i24 News,525.0,UTJ,8.0,,wikipedia,8.0,6.0,,2026-10-18_i24news,525,6.0
+2026-10-18_i24 News,2,18 Oct,2026-10-18,Direct Polls,DirectPolls,i24 News,525.0,YB,6.0,,wikipedia,6.0,4.8,,2026-10-18_i24news,525,4.8
+2026-10-18_i24 News,2,18 Oct,2026-10-18,Direct Polls,DirectPolls,i24 News,525.0,RAAM,6.0,,wikipedia,6.0,4.6,,2026-10-18_i24news,525,4.6
+2026-10-18_i24 News,2,18 Oct,2026-10-18,Direct Polls,DirectPolls,i24 News,525.0,JOINT,8.0,,wikipedia,8.0,5.9,,2026-10-18_i24news,525,5.9
+2026-10-18_i24 News,2,18 Oct,2026-10-18,Direct Polls,DirectPolls,i24 News,525.0,DEMOCRATS,9.0,,wikipedia,9.0,7.0,,2026-10-18_i24news,525,7.0
+2026-10-18_i24 News,2,18 Oct,2026-10-18,Direct Polls,DirectPolls,i24 News,525.0,YASHAR,21.0,,wikipedia,21.0,16.0,,2026-10-18_i24news,525,16.0
+2026-10-18_i24 News,2,18 Oct,2026-10-18,Direct Polls,DirectPolls,i24 News,525.0,HENDEL_ZELICHA,0.0,2.4,wikipedia,0.0,2.4,2.4,2026-10-18_i24news,525,2.4
+2026-10-18_i24 News,2,18 Oct,2026-10-18,Direct Polls,DirectPolls,i24 News,525.0,AMCHA,0.0,2.9,wikipedia,0.0,2.9,2.9,2026-10-18_i24news,525,2.9
+2026-10-18_i24 News,2,18 Oct,2026-10-18,Direct Polls,DirectPolls,i24 News,525.0,HAREDI_PUBLIC,0.0,1.0,wikipedia,0.0,,,2026-10-18_i24news,525,1.0
+2026-10-18_Channel 14,2,18 Oct,2026-10-18,SF+ND,NextData_Filber,Channel 14,538.0,LIKUD,29.0,,wikipedia,29.0,22.4,,2026-10-18_channel-14,559,22.4
+2026-10-18_Channel 14,2,18 Oct,2026-10-18,SF+ND,NextData_Filber,Channel 14,538.0,TOGETHER,10.0,,wikipedia,10.0,7.9,,2026-10-18_channel-14,559,7.9
+2026-10-18_Channel 14,2,18 Oct,2026-10-18,SF+ND,NextData_Filber,Channel 14,538.0,RZP_ZEHUT,7.0,,wikipedia,7.0,5.6,,2026-10-18_channel-14,559,5.6
+2026-10-18_Channel 14,2,18 Oct,2026-10-18,SF+ND,NextData_Filber,Channel 14,538.0,OTZMA,7.0,,wikipedia,7.0,5.3,,2026-10-18_channel-14,559,5.3
+2026-10-18_Channel 14,2,18 Oct,2026-10-18,SF+ND,NextData_Filber,Channel 14,538.0,BLUE_WHITE,0.0,0.9,wikipedia,0.0,0.9,0.9,2026-10-18_channel-14,559,0.9
+2026-10-18_Channel 14,2,18 Oct,2026-10-18,SF+ND,NextData_Filber,Channel 14,538.0,SHAS,10.0,,wikipedia,10.0,7.5,,2026-10-18_channel-14,559,7.5
+2026-10-18_Channel 14,2,18 Oct,2026-10-18,SF+ND,NextData_Filber,Channel 14,538.0,UTJ,8.0,,wikipedia,8.0,6.0,,2026-10-18_channel-14,559,6.0
+2026-10-18_Channel 14,2,18 Oct,2026-10-18,SF+ND,NextData_Filber,Channel 14,538.0,YB,6.0,,wikipedia,6.0,4.5,,2026-10-18_channel-14,559,4.5
+2026-10-18_Channel 14,2,18 Oct,2026-10-18,SF+ND,NextData_Filber,Channel 14,538.0,RAAM,6.0,,wikipedia,6.0,4.2,,2026-10-18_channel-14,559,4.2
+2026-10-18_Channel 14,2,18 Oct,2026-10-18,SF+ND,NextData_Filber,Channel 14,538.0,JOINT,7.0,,wikipedia,7.0,5.2,,2026-10-18_channel-14,559,5.2
+2026-10-18_Channel 14,2,18 Oct,2026-10-18,SF+ND,NextData_Filber,Channel 14,538.0,DEMOCRATS,8.0,,wikipedia,8.0,6.7,,2026-10-18_channel-14,559,6.7
+2026-10-18_Channel 14,2,18 Oct,2026-10-18,SF+ND,NextData_Filber,Channel 14,538.0,YASHAR,22.0,,wikipedia,22.0,16.8,,2026-10-18_channel-14,559,16.8
+2026-10-18_Channel 14,2,18 Oct,2026-10-18,SF+ND,NextData_Filber,Channel 14,538.0,HENDEL_ZELICHA,0.0,2.4,wikipedia,0.0,2.4,2.4,2026-10-18_channel-14,559,2.4
+2026-10-18_Channel 14,2,18 Oct,2026-10-18,SF+ND,NextData_Filber,Channel 14,538.0,AMCHA,0.0,2.4,wikipedia,0.0,2.4,2.4,2026-10-18_channel-14,559,2.4
+2026-10-18_Channel 14,2,18 Oct,2026-10-18,SF+ND,NextData_Filber,Channel 14,538.0,HAREDI_PUBLIC,0.0,0.5,wikipedia,0.0,,0.5,2026-10-18_channel-14,559,0.5
+2026-10-18_Kan 11,2,18 Oct,2026-10-18,Kantar,Kantar,Kan 11,554.0,LIKUD,21.0,,wikipedia,21.0,16.2,,2026-10-18_kan-news,552,16.2
+2026-10-18_Kan 11,2,18 Oct,2026-10-18,Kantar,Kantar,Kan 11,554.0,TOGETHER,12.0,,wikipedia,12.0,9.1,,2026-10-18_kan-news,552,9.1
+2026-10-18_Kan 11,2,18 Oct,2026-10-18,Kantar,Kantar,Kan 11,554.0,RZP_ZEHUT,7.0,,wikipedia,7.0,5.4,,2026-10-18_kan-news,552,5.4
+2026-10-18_Kan 11,2,18 Oct,2026-10-18,Kantar,Kantar,Kan 11,554.0,OTZMA,8.0,,wikipedia,8.0,6.2,,2026-10-18_kan-news,552,6.2
+2026-10-18_Kan 11,2,18 Oct,2026-10-18,Kantar,Kantar,Kan 11,554.0,BLUE_WHITE,0.0,1.1,wikipedia,0.0,1.1,1.1,2026-10-18_kan-news,552,1.1
+2026-10-18_Kan 11,2,18 Oct,2026-10-18,Kantar,Kantar,Kan 11,554.0,SHAS,8.0,,wikipedia,8.0,6.2,,2026-10-18_kan-news,552,6.2
+2026-10-18_Kan 11,2,18 Oct,2026-10-18,Kantar,Kantar,Kan 11,554.0,UTJ,7.0,,wikipedia,7.0,5.5,,2026-10-18_kan-news,552,5.5
+2026-10-18_Kan 11,2,18 Oct,2026-10-18,Kantar,Kantar,Kan 11,554.0,YB,8.0,,wikipedia,8.0,6.3,,2026-10-18_kan-news,552,6.3
+2026-10-18_Kan 11,2,18 Oct,2026-10-18,Kantar,Kantar,Kan 11,554.0,RAAM,5.0,,wikipedia,5.0,4.0,,2026-10-18_kan-news,552,4.0
+2026-10-18_Kan 11,2,18 Oct,2026-10-18,Kantar,Kantar,Kan 11,554.0,JOINT,8.0,,wikipedia,8.0,6.3,,2026-10-18_kan-news,552,6.3
+2026-10-18_Kan 11,2,18 Oct,2026-10-18,Kantar,Kantar,Kan 11,554.0,DEMOCRATS,9.0,,wikipedia,9.0,7.1,,2026-10-18_kan-news,552,7.1
+2026-10-18_Kan 11,2,18 Oct,2026-10-18,Kantar,Kantar,Kan 11,554.0,YASHAR,23.0,,wikipedia,23.0,18.0,,2026-10-18_kan-news,552,18.0
+2026-10-18_Kan 11,2,18 Oct,2026-10-18,Kantar,Kantar,Kan 11,554.0,HENDEL_ZELICHA,4.0,,wikipedia,4.0,3.7,,2026-10-18_kan-news,552,3.7
+2026-10-18_Kan 11,2,18 Oct,2026-10-18,Kantar,Kantar,Kan 11,554.0,AMCHA,0.0,3.1,wikipedia,0.0,3.1,3.1,2026-10-18_kan-news,552,3.1
+2026-10-18_Kan 11,2,18 Oct,2026-10-18,Kantar,Kantar,Kan 11,554.0,HAREDI_PUBLIC,0.0,0.8,wikipedia,0.0,0.8,0.8,2026-10-18_kan-news,552,0.8
+2026-10-15_Maariv,2,14– 15 Oct,2026-10-15,LRI+P4A,Lazar_Panels,Maariv,700.0,LIKUD,18.0,,wikipedia,18.0,14.5,,2026-10-16_maariv,700,14.5
+2026-10-15_Maariv,2,14– 15 Oct,2026-10-15,LRI+P4A,Lazar_Panels,Maariv,700.0,TOGETHER,13.0,,wikipedia,13.0,11.6,,2026-10-16_maariv,700,11.6
+2026-10-15_Maariv,2,14– 15 Oct,2026-10-15,LRI+P4A,Lazar_Panels,Maariv,700.0,RZP_ZEHUT,6.0,,wikipedia,6.0,5.3,,2026-10-16_maariv,700,5.3
+2026-10-15_Maariv,2,14– 15 Oct,2026-10-15,LRI+P4A,Lazar_Panels,Maariv,700.0,OTZMA,8.0,,wikipedia,8.0,6.4,,2026-10-16_maariv,700,6.4
+2026-10-15_Maariv,2,14– 15 Oct,2026-10-15,LRI+P4A,Lazar_Panels,Maariv,700.0,BLUE_WHITE,0.0,1.1,wikipedia,0.0,1.1,1.1,2026-10-16_maariv,700,1.1
+2026-10-15_Maariv,2,14– 15 Oct,2026-10-15,LRI+P4A,Lazar_Panels,Maariv,700.0,SHAS,7.0,,wikipedia,7.0,5.6,,2026-10-16_maariv,700,5.6
+2026-10-15_Maariv,2,14– 15 Oct,2026-10-15,LRI+P4A,Lazar_Panels,Maariv,700.0,UTJ,8.0,,wikipedia,8.0,5.9,,2026-10-16_maariv,700,5.9
+2026-10-15_Maariv,2,14– 15 Oct,2026-10-15,LRI+P4A,Lazar_Panels,Maariv,700.0,YB,8.0,,wikipedia,8.0,6.4,,2026-10-16_maariv,700,6.4
+2026-10-15_Maariv,2,14– 15 Oct,2026-10-15,LRI+P4A,Lazar_Panels,Maariv,700.0,RAAM,6.0,,wikipedia,6.0,5.4,,2026-10-16_maariv,700,5.4
+2026-10-15_Maariv,2,14– 15 Oct,2026-10-15,LRI+P4A,Lazar_Panels,Maariv,700.0,JOINT,8.0,,wikipedia,8.0,6.2,,2026-10-16_maariv,700,6.2
+2026-10-15_Maariv,2,14– 15 Oct,2026-10-15,LRI+P4A,Lazar_Panels,Maariv,700.0,DEMOCRATS,9.0,,wikipedia,9.0,8.2,,2026-10-16_maariv,700,8.2
+2026-10-15_Maariv,2,14– 15 Oct,2026-10-15,LRI+P4A,Lazar_Panels,Maariv,700.0,YASHAR,21.0,,wikipedia,21.0,15.1,,2026-10-16_maariv,700,15.1
+2026-10-15_Maariv,2,14– 15 Oct,2026-10-15,LRI+P4A,Lazar_Panels,Maariv,700.0,HENDEL_ZELICHA,4.0,,wikipedia,4.0,3.7,,2026-10-16_maariv,700,3.7
+2026-10-15_Maariv,2,14– 15 Oct,2026-10-15,LRI+P4A,Lazar_Panels,Maariv,700.0,AMCHA,4.0,,wikipedia,4.0,3.4,,2026-10-16_maariv,700,3.4
+2026-10-15_Maariv,2,14– 15 Oct,2026-10-15,LRI+P4A,Lazar_Panels,Maariv,700.0,HAREDI_PUBLIC,0.0,0.5,wikipedia,0.0,0.5,0.5,2026-10-16_maariv,700,0.5
+2026-10-15_Zman Yisrael,2,14– 15 Oct,2026-10-15,Yossi Tatika,Tatika,Zman Yisrael,500.0,LIKUD,20.0,,wikipedia,20.0,15.8,,2026-10-15_zman,500,15.8
+2026-10-15_Zman Yisrael,2,14– 15 Oct,2026-10-15,Yossi Tatika,Tatika,Zman Yisrael,500.0,TOGETHER,11.0,,wikipedia,11.0,8.6,,2026-10-15_zman,500,8.6
+2026-10-15_Zman Yisrael,2,14– 15 Oct,2026-10-15,Yossi Tatika,Tatika,Zman Yisrael,500.0,RZP_ZEHUT,6.0,,wikipedia,6.0,5.0,,2026-10-15_zman,500,5.0
+2026-10-15_Zman Yisrael,2,14– 15 Oct,2026-10-15,Yossi Tatika,Tatika,Zman Yisrael,500.0,OTZMA,7.0,,wikipedia,7.0,5.6,,2026-10-15_zman,500,5.6
+2026-10-15_Zman Yisrael,2,14– 15 Oct,2026-10-15,Yossi Tatika,Tatika,Zman Yisrael,500.0,BLUE_WHITE,0.0,1.2,wikipedia,0.0,1.2,1.2,2026-10-15_zman,500,1.2
+2026-10-15_Zman Yisrael,2,14– 15 Oct,2026-10-15,Yossi Tatika,Tatika,Zman Yisrael,500.0,SHAS,8.0,,wikipedia,8.0,6.6,,2026-10-15_zman,500,6.6
+2026-10-15_Zman Yisrael,2,14– 15 Oct,2026-10-15,Yossi Tatika,Tatika,Zman Yisrael,500.0,UTJ,8.0,,wikipedia,8.0,6.2,,2026-10-15_zman,500,6.2
+2026-10-15_Zman Yisrael,2,14– 15 Oct,2026-10-15,Yossi Tatika,Tatika,Zman Yisrael,500.0,YB,9.0,,wikipedia,9.0,7.4,,2026-10-15_zman,500,7.4
+2026-10-15_Zman Yisrael,2,14– 15 Oct,2026-10-15,Yossi Tatika,Tatika,Zman Yisrael,500.0,RAAM,5.0,,wikipedia,5.0,4.4,,2026-10-15_zman,500,4.4
+2026-10-15_Zman Yisrael,2,14– 15 Oct,2026-10-15,Yossi Tatika,Tatika,Zman Yisrael,500.0,JOINT,8.0,,wikipedia,8.0,6.6,,2026-10-15_zman,500,6.6
+2026-10-15_Zman Yisrael,2,14– 15 Oct,2026-10-15,Yossi Tatika,Tatika,Zman Yisrael,500.0,DEMOCRATS,8.0,,wikipedia,8.0,6.4,,2026-10-15_zman,500,6.4
+2026-10-15_Zman Yisrael,2,14– 15 Oct,2026-10-15,Yossi Tatika,Tatika,Zman Yisrael,500.0,YASHAR,26.0,,wikipedia,26.0,19.4,,2026-10-15_zman,500,19.4
+2026-10-15_Zman Yisrael,2,14– 15 Oct,2026-10-15,Yossi Tatika,Tatika,Zman Yisrael,500.0,HENDEL_ZELICHA,4.0,,wikipedia,4.0,4.0,,2026-10-15_zman,500,4.0
+2026-10-15_Zman Yisrael,2,14– 15 Oct,2026-10-15,Yossi Tatika,Tatika,Zman Yisrael,500.0,AMCHA,0.0,2.8,wikipedia,0.0,2.8,2.8,2026-10-15_zman,500,2.8
+2026-10-15_Zman Yisrael,2,14– 15 Oct,2026-10-15,Yossi Tatika,Tatika,Zman Yisrael,500.0,HAREDI_PUBLIC,,,wikipedia,,,,2026-10-15_zman,500,
+2026-10-14_Channel 13,2,14 Oct,2026-10-14,MP+TM+SN+A,Ch13_Madad2026,Channel 13,1018.0,LIKUD,18.0,,wikipedia,18.0,,,2026-10-14_channel-13,,
+2026-10-14_Channel 13,2,14 Oct,2026-10-14,MP+TM+SN+A,Ch13_Madad2026,Channel 13,1018.0,TOGETHER,12.0,,wikipedia,12.0,,,2026-10-14_channel-13,,
+2026-10-14_Channel 13,2,14 Oct,2026-10-14,MP+TM+SN+A,Ch13_Madad2026,Channel 13,1018.0,RZP_ZEHUT,6.0,,wikipedia,6.0,,,2026-10-14_channel-13,,
+2026-10-14_Channel 13,2,14 Oct,2026-10-14,MP+TM+SN+A,Ch13_Madad2026,Channel 13,1018.0,OTZMA,8.0,,wikipedia,8.0,,,2026-10-14_channel-13,,
+2026-10-14_Channel 13,2,14 Oct,2026-10-14,MP+TM+SN+A,Ch13_Madad2026,Channel 13,1018.0,BLUE_WHITE,0.0,1.2,wikipedia,0.0,,1.2,2026-10-14_channel-13,,1.2
+2026-10-14_Channel 13,2,14 Oct,2026-10-14,MP+TM+SN+A,Ch13_Madad2026,Channel 13,1018.0,SHAS,7.0,,wikipedia,7.0,,,2026-10-14_channel-13,,
+2026-10-14_Channel 13,2,14 Oct,2026-10-14,MP+TM+SN+A,Ch13_Madad2026,Channel 13,1018.0,UTJ,8.0,,wikipedia,8.0,,,2026-10-14_channel-13,,
+2026-10-14_Channel 13,2,14 Oct,2026-10-14,MP+TM+SN+A,Ch13_Madad2026,Channel 13,1018.0,YB,9.0,,wikipedia,9.0,,,2026-10-14_channel-13,,
+2026-10-14_Channel 13,2,14 Oct,2026-10-14,MP+TM+SN+A,Ch13_Madad2026,Channel 13,1018.0,RAAM,6.0,,wikipedia,6.0,,,2026-10-14_channel-13,,
+2026-10-14_Channel 13,2,14 Oct,2026-10-14,MP+TM+SN+A,Ch13_Madad2026,Channel 13,1018.0,JOINT,9.0,,wikipedia,9.0,,,2026-10-14_channel-13,,
+2026-10-14_Channel 13,2,14 Oct,2026-10-14,MP+TM+SN+A,Ch13_Madad2026,Channel 13,1018.0,DEMOCRATS,9.0,,wikipedia,9.0,,,2026-10-14_channel-13,,
+2026-10-14_Channel 13,2,14 Oct,2026-10-14,MP+TM+SN+A,Ch13_Madad2026,Channel 13,1018.0,YASHAR,20.0,,wikipedia,20.0,,,2026-10-14_channel-13,,
+2026-10-14_Channel 13,2,14 Oct,2026-10-14,MP+TM+SN+A,Ch13_Madad2026,Channel 13,1018.0,HENDEL_ZELICHA,4.0,,wikipedia,4.0,,,2026-10-14_channel-13,,
+2026-10-14_Channel 13,2,14 Oct,2026-10-14,MP+TM+SN+A,Ch13_Madad2026,Channel 13,1018.0,AMCHA,4.0,,wikipedia,4.0,,,2026-10-14_channel-13,,
+2026-10-14_Channel 13,2,14 Oct,2026-10-14,MP+TM+SN+A,Ch13_Madad2026,Channel 13,1018.0,HAREDI_PUBLIC,0.0,1.1,wikipedia,0.0,,1.1,2026-10-14_channel-13,,1.1
+2026-10-13_i24 News,2,13 Oct,2026-10-13,Direct Polls,DirectPolls,i24 News,1210.0,LIKUD,27.0,,wikipedia,27.0,,,2026-10-13_i24news,,
+2026-10-13_i24 News,2,13 Oct,2026-10-13,Direct Polls,DirectPolls,i24 News,1210.0,TOGETHER,13.0,,wikipedia,13.0,,,2026-10-13_i24news,,
+2026-10-13_i24 News,2,13 Oct,2026-10-13,Direct Polls,DirectPolls,i24 News,1210.0,RZP_ZEHUT,6.0,,wikipedia,6.0,,,2026-10-13_i24news,,
+2026-10-13_i24 News,2,13 Oct,2026-10-13,Direct Polls,DirectPolls,i24 News,1210.0,OTZMA,9.0,,wikipedia,9.0,,,2026-10-13_i24news,,
+2026-10-13_i24 News,2,13 Oct,2026-10-13,Direct Polls,DirectPolls,i24 News,1210.0,BLUE_WHITE,0.0,1.0,wikipedia,0.0,,,2026-10-13_i24news,,1.0
+2026-10-13_i24 News,2,13 Oct,2026-10-13,Direct Polls,DirectPolls,i24 News,1210.0,SHAS,7.0,,wikipedia,7.0,,,2026-10-13_i24news,,
+2026-10-13_i24 News,2,13 Oct,2026-10-13,Direct Polls,DirectPolls,i24 News,1210.0,UTJ,8.0,,wikipedia,8.0,,,2026-10-13_i24news,,
+2026-10-13_i24 News,2,13 Oct,2026-10-13,Direct Polls,DirectPolls,i24 News,1210.0,YB,7.0,,wikipedia,7.0,,,2026-10-13_i24news,,
+2026-10-13_i24 News,2,13 Oct,2026-10-13,Direct Polls,DirectPolls,i24 News,1210.0,RAAM,6.0,,wikipedia,6.0,,,2026-10-13_i24news,,
+2026-10-13_i24 News,2,13 Oct,2026-10-13,Direct Polls,DirectPolls,i24 News,1210.0,JOINT,7.0,,wikipedia,7.0,,,2026-10-13_i24news,,
+2026-10-13_i24 News,2,13 Oct,2026-10-13,Direct Polls,DirectPolls,i24 News,1210.0,DEMOCRATS,9.0,,wikipedia,9.0,,,2026-10-13_i24news,,
+2026-10-13_i24 News,2,13 Oct,2026-10-13,Direct Polls,DirectPolls,i24 News,1210.0,YASHAR,21.0,,wikipedia,21.0,,,2026-10-13_i24news,,
+2026-10-13_i24 News,2,13 Oct,2026-10-13,Direct Polls,DirectPolls,i24 News,1210.0,HENDEL_ZELICHA,0.0,2.2,wikipedia,0.0,,2.2,2026-10-13_i24news,,2.2
+2026-10-13_i24 News,2,13 Oct,2026-10-13,Direct Polls,DirectPolls,i24 News,1210.0,AMCHA,0.0,3.1,wikipedia,0.0,,3.1,2026-10-13_i24news,,3.1
+2026-10-13_i24 News,2,13 Oct,2026-10-13,Direct Polls,DirectPolls,i24 News,1210.0,HAREDI_PUBLIC,0.0,1.0,wikipedia,0.0,,,2026-10-13_i24news,,1.0
+2026-10-13_Channel 16,2,13 Oct,2026-10-13,Maagar Mochot,MaagarMochot,Channel 16,2099.0,LIKUD,18.0,,wikipedia,18.0,,,2026-10-13_c16,,
+2026-10-13_Channel 16,2,13 Oct,2026-10-13,Maagar Mochot,MaagarMochot,Channel 16,2099.0,TOGETHER,13.0,,wikipedia,13.0,,,2026-10-13_c16,,
+2026-10-13_Channel 16,2,13 Oct,2026-10-13,Maagar Mochot,MaagarMochot,Channel 16,2099.0,RZP_ZEHUT,6.0,,wikipedia,6.0,,,2026-10-13_c16,,
+2026-10-13_Channel 16,2,13 Oct,2026-10-13,Maagar Mochot,MaagarMochot,Channel 16,2099.0,OTZMA,9.0,,wikipedia,9.0,,,2026-10-13_c16,,
+2026-10-13_Channel 16,2,13 Oct,2026-10-13,Maagar Mochot,MaagarMochot,Channel 16,2099.0,BLUE_WHITE,0.0,1.2,wikipedia,0.0,,1.6,2026-10-13_c16,,1.2
+2026-10-13_Channel 16,2,13 Oct,2026-10-13,Maagar Mochot,MaagarMochot,Channel 16,2099.0,SHAS,7.0,,wikipedia,7.0,,,2026-10-13_c16,,
+2026-10-13_Channel 16,2,13 Oct,2026-10-13,Maagar Mochot,MaagarMochot,Channel 16,2099.0,UTJ,8.0,,wikipedia,8.0,,,2026-10-13_c16,,
+2026-10-13_Channel 16,2,13 Oct,2026-10-13,Maagar Mochot,MaagarMochot,Channel 16,2099.0,YB,7.0,,wikipedia,7.0,,,2026-10-13_c16,,
+2026-10-13_Channel 16,2,13 Oct,2026-10-13,Maagar Mochot,MaagarMochot,Channel 16,2099.0,RAAM,5.0,,wikipedia,5.0,,,2026-10-13_c16,,
+2026-10-13_Channel 16,2,13 Oct,2026-10-13,Maagar Mochot,MaagarMochot,Channel 16,2099.0,JOINT,8.0,,wikipedia,8.0,,,2026-10-13_c16,,
+2026-10-13_Channel 16,2,13 Oct,2026-10-13,Maagar Mochot,MaagarMochot,Channel 16,2099.0,DEMOCRATS,9.0,,wikipedia,9.0,,,2026-10-13_c16,,
+2026-10-13_Channel 16,2,13 Oct,2026-10-13,Maagar Mochot,MaagarMochot,Channel 16,2099.0,YASHAR,21.0,,wikipedia,21.0,,,2026-10-13_c16,,
+2026-10-13_Channel 16,2,13 Oct,2026-10-13,Maagar Mochot,MaagarMochot,Channel 16,2099.0,HENDEL_ZELICHA,5.0,,wikipedia,5.0,,,2026-10-13_c16,,
+2026-10-13_Channel 16,2,13 Oct,2026-10-13,Maagar Mochot,MaagarMochot,Channel 16,2099.0,AMCHA,4.0,,wikipedia,4.0,,,2026-10-13_c16,,
+2026-10-13_Channel 16,2,13 Oct,2026-10-13,Maagar Mochot,MaagarMochot,Channel 16,2099.0,HAREDI_PUBLIC,0.0,1.1,wikipedia,0.0,,1.5,2026-10-13_c16,,1.1
+2026-10-12_Walla,2,12 Oct,2026-10-12,LRI+P4A,Lazar_Panels,Walla,601.0,LIKUD,20.0,,wikipedia,20.0,14.9,,2026-10-13_walla,601,14.9
+2026-10-12_Walla,2,12 Oct,2026-10-12,LRI+P4A,Lazar_Panels,Walla,601.0,TOGETHER,13.0,,wikipedia,13.0,11.2,,2026-10-13_walla,601,11.2
+2026-10-12_Walla,2,12 Oct,2026-10-12,LRI+P4A,Lazar_Panels,Walla,601.0,RZP_ZEHUT,6.0,,wikipedia,6.0,5.4,,2026-10-13_walla,601,5.4
+2026-10-12_Walla,2,12 Oct,2026-10-12,LRI+P4A,Lazar_Panels,Walla,601.0,OTZMA,8.0,,wikipedia,8.0,6.3,,2026-10-13_walla,601,6.3
+2026-10-12_Walla,2,12 Oct,2026-10-12,LRI+P4A,Lazar_Panels,Walla,601.0,BLUE_WHITE,0.0,1.1,wikipedia,0.0,1.1,1.1,2026-10-13_walla,601,1.1
+2026-10-12_Walla,2,12 Oct,2026-10-12,LRI+P4A,Lazar_Panels,Walla,601.0,SHAS,7.0,,wikipedia,7.0,5.5,,2026-10-13_walla,601,5.5
+2026-10-12_Walla,2,12 Oct,2026-10-12,LRI+P4A,Lazar_Panels,Walla,601.0,UTJ,8.0,,wikipedia,8.0,6.2,,2026-10-13_walla,601,6.2
+2026-10-12_Walla,2,12 Oct,2026-10-12,LRI+P4A,Lazar_Panels,Walla,601.0,YB,9.0,,wikipedia,9.0,7.2,,2026-10-13_walla,601,7.2
+2026-10-12_Walla,2,12 Oct,2026-10-12,LRI+P4A,Lazar_Panels,Walla,601.0,RAAM,5.0,,wikipedia,5.0,3.9,,2026-10-13_walla,601,3.9
+2026-10-12_Walla,2,12 Oct,2026-10-12,LRI+P4A,Lazar_Panels,Walla,601.0,JOINT,8.0,,wikipedia,8.0,6.4,,2026-10-13_walla,601,6.4
+2026-10-12_Walla,2,12 Oct,2026-10-12,LRI+P4A,Lazar_Panels,Walla,601.0,DEMOCRATS,10.0,,wikipedia,10.0,8.5,,2026-10-13_walla,601,8.5
+2026-10-12_Walla,2,12 Oct,2026-10-12,LRI+P4A,Lazar_Panels,Walla,601.0,YASHAR,22.0,,wikipedia,22.0,15.9,,2026-10-13_walla,601,15.9
+2026-10-12_Walla,2,12 Oct,2026-10-12,LRI+P4A,Lazar_Panels,Walla,601.0,HENDEL_ZELICHA,4.0,,wikipedia,4.0,3.5,,2026-10-13_walla,601,3.5
+2026-10-12_Walla,2,12 Oct,2026-10-12,LRI+P4A,Lazar_Panels,Walla,601.0,AMCHA,0.0,2.8,wikipedia,0.0,2.8,2.8,2026-10-13_walla,601,2.8
+2026-10-12_Walla,2,12 Oct,2026-10-12,LRI+P4A,Lazar_Panels,Walla,601.0,HAREDI_PUBLIC,0.0,1.0,wikipedia,0.0,1.0,1.0,2026-10-13_walla,601,1.0
+2026-10-12_Channel 14,2,12 Oct,2026-10-12,SF+ND,NextData_Filber,Channel 14,538.0,LIKUD,29.0,,wikipedia,29.0,23.2,,2026-10-12_channel-14,538,23.2
+2026-10-12_Channel 14,2,12 Oct,2026-10-12,SF+ND,NextData_Filber,Channel 14,538.0,TOGETHER,7.0,,wikipedia,7.0,5.6,,2026-10-12_channel-14,538,5.6
+2026-10-12_Channel 14,2,12 Oct,2026-10-12,SF+ND,NextData_Filber,Channel 14,538.0,RZP_ZEHUT,7.0,,wikipedia,7.0,5.6,,2026-10-12_channel-14,538,5.6
+2026-10-12_Channel 14,2,12 Oct,2026-10-12,SF+ND,NextData_Filber,Channel 14,538.0,OTZMA,7.0,,wikipedia,7.0,5.6,,2026-10-12_channel-14,538,5.6
+2026-10-12_Channel 14,2,12 Oct,2026-10-12,SF+ND,NextData_Filber,Channel 14,538.0,BLUE_WHITE,0.0,0.6,wikipedia,0.0,0.6,0.6,2026-10-12_channel-14,538,0.6
+2026-10-12_Channel 14,2,12 Oct,2026-10-12,SF+ND,NextData_Filber,Channel 14,538.0,SHAS,10.0,,wikipedia,10.0,8.0,,2026-10-12_channel-14,538,8.0
+2026-10-12_Channel 14,2,12 Oct,2026-10-12,SF+ND,NextData_Filber,Channel 14,538.0,UTJ,8.0,,wikipedia,8.0,6.4,,2026-10-12_channel-14,538,6.4
+2026-10-12_Channel 14,2,12 Oct,2026-10-12,SF+ND,NextData_Filber,Channel 14,538.0,YB,5.0,,wikipedia,5.0,4.0,,2026-10-12_channel-14,538,4.0
+2026-10-12_Channel 14,2,12 Oct,2026-10-12,SF+ND,NextData_Filber,Channel 14,538.0,RAAM,5.0,,wikipedia,5.0,4.0,,2026-10-12_channel-14,538,4.0
+2026-10-12_Channel 14,2,12 Oct,2026-10-12,SF+ND,NextData_Filber,Channel 14,538.0,JOINT,8.0,,wikipedia,8.0,6.4,,2026-10-12_channel-14,538,6.4
+2026-10-12_Channel 14,2,12 Oct,2026-10-12,SF+ND,NextData_Filber,Channel 14,538.0,DEMOCRATS,10.0,,wikipedia,10.0,8.0,,2026-10-12_channel-14,538,8.0
+2026-10-12_Channel 14,2,12 Oct,2026-10-12,SF+ND,NextData_Filber,Channel 14,538.0,YASHAR,20.0,,wikipedia,20.0,16.0,,2026-10-12_channel-14,538,16.0
+2026-10-12_Channel 14,2,12 Oct,2026-10-12,SF+ND,NextData_Filber,Channel 14,538.0,HENDEL_ZELICHA,4.0,,wikipedia,4.0,3.3,,2026-10-12_channel-14,538,3.3
+2026-10-12_Channel 14,2,12 Oct,2026-10-12,SF+ND,NextData_Filber,Channel 14,538.0,AMCHA,0.0,2.9,wikipedia,0.0,2.9,2.9,2026-10-12_channel-14,538,2.9
+2026-10-12_Channel 14,2,12 Oct,2026-10-12,SF+ND,NextData_Filber,Channel 14,538.0,HAREDI_PUBLIC,0.0,0.6,wikipedia,0.0,0.6,0.6,2026-10-12_channel-14,538,0.6
+2026-10-12_HaHadashot 12,2,12 Oct,2026-10-12,Midgam R&C,Midgam,HaHadashot 12,509.0,LIKUD,20.0,,wikipedia,20.0,16.1,,2026-10-12_channel-12,509,16.1
+2026-10-12_HaHadashot 12,2,12 Oct,2026-10-12,Midgam R&C,Midgam,HaHadashot 12,509.0,TOGETHER,13.0,,wikipedia,13.0,10.4,,2026-10-12_channel-12,509,10.4
+2026-10-12_HaHadashot 12,2,12 Oct,2026-10-12,Midgam R&C,Midgam,HaHadashot 12,509.0,RZP_ZEHUT,6.0,,wikipedia,6.0,4.8,,2026-10-12_channel-12,509,4.8
+2026-10-12_HaHadashot 12,2,12 Oct,2026-10-12,Midgam R&C,Midgam,HaHadashot 12,509.0,OTZMA,8.0,,wikipedia,8.0,6.4,,2026-10-12_channel-12,509,6.4
+2026-10-12_HaHadashot 12,2,12 Oct,2026-10-12,Midgam R&C,Midgam,HaHadashot 12,509.0,BLUE_WHITE,0.0,0.9,wikipedia,0.0,,0.9,2026-10-12_channel-12,509,0.9
+2026-10-12_HaHadashot 12,2,12 Oct,2026-10-12,Midgam R&C,Midgam,HaHadashot 12,509.0,SHAS,8.0,,wikipedia,8.0,6.3,,2026-10-12_channel-12,509,6.3
+2026-10-12_HaHadashot 12,2,12 Oct,2026-10-12,Midgam R&C,Midgam,HaHadashot 12,509.0,UTJ,7.0,,wikipedia,7.0,5.6,,2026-10-12_channel-12,509,5.6
+2026-10-12_HaHadashot 12,2,12 Oct,2026-10-12,Midgam R&C,Midgam,HaHadashot 12,509.0,YB,9.0,,wikipedia,9.0,7.2,,2026-10-12_channel-12,509,7.2
+2026-10-12_HaHadashot 12,2,12 Oct,2026-10-12,Midgam R&C,Midgam,HaHadashot 12,509.0,RAAM,5.0,,wikipedia,5.0,4.1,,2026-10-12_channel-12,509,4.1
+2026-10-12_HaHadashot 12,2,12 Oct,2026-10-12,Midgam R&C,Midgam,HaHadashot 12,509.0,JOINT,8.0,,wikipedia,8.0,6.2,,2026-10-12_channel-12,509,6.2
+2026-10-12_HaHadashot 12,2,12 Oct,2026-10-12,Midgam R&C,Midgam,HaHadashot 12,509.0,DEMOCRATS,9.0,,wikipedia,9.0,7.3,,2026-10-12_channel-12,509,7.3
+2026-10-12_HaHadashot 12,2,12 Oct,2026-10-12,Midgam R&C,Midgam,HaHadashot 12,509.0,YASHAR,23.0,,wikipedia,23.0,18.2,,2026-10-12_channel-12,509,18.2
+2026-10-12_HaHadashot 12,2,12 Oct,2026-10-12,Midgam R&C,Midgam,HaHadashot 12,509.0,HENDEL_ZELICHA,4.0,,wikipedia,4.0,3.4,,2026-10-12_channel-12,509,3.4
+2026-10-12_HaHadashot 12,2,12 Oct,2026-10-12,Midgam R&C,Midgam,HaHadashot 12,509.0,AMCHA,0.0,1.8,wikipedia,0.0,1.8,1.8,2026-10-12_channel-12,509,1.8
+2026-10-12_HaHadashot 12,2,12 Oct,2026-10-12,Midgam R&C,Midgam,HaHadashot 12,509.0,HAREDI_PUBLIC,0.0,0.1,wikipedia,0.0,,0.1,2026-10-12_channel-12,509,0.1
+2026-10-11_Kan 11,2,11 Oct,2026-10-11,Kantar,Kantar,Kan 11,553.0,LIKUD,20.0,,wikipedia,20.0,16.1,,2026-10-11_kan-news,552,16.1
+2026-10-11_Kan 11,2,11 Oct,2026-10-11,Kantar,Kantar,Kan 11,553.0,TOGETHER,12.0,,wikipedia,12.0,9.7,,2026-10-11_kan-news,552,9.7
+2026-10-11_Kan 11,2,11 Oct,2026-10-11,Kantar,Kantar,Kan 11,553.0,RZP_ZEHUT,5.0,,wikipedia,5.0,4.0,,2026-10-11_kan-news,552,4.0
+2026-10-11_Kan 11,2,11 Oct,2026-10-11,Kantar,Kantar,Kan 11,553.0,OTZMA,9.0,,wikipedia,9.0,7.3,,2026-10-11_kan-news,552,7.3
+2026-10-11_Kan 11,2,11 Oct,2026-10-11,Kantar,Kantar,Kan 11,553.0,BLUE_WHITE,,,wikipedia,,0.9,,2026-10-11_kan-news,552,0.9
+2026-10-11_Kan 11,2,11 Oct,2026-10-11,Kantar,Kantar,Kan 11,553.0,SHAS,7.0,,wikipedia,7.0,5.7,,2026-10-11_kan-news,552,5.7
+2026-10-11_Kan 11,2,11 Oct,2026-10-11,Kantar,Kantar,Kan 11,553.0,UTJ,8.0,,wikipedia,8.0,6.5,,2026-10-11_kan-news,552,6.5
+2026-10-11_Kan 11,2,11 Oct,2026-10-11,Kantar,Kantar,Kan 11,553.0,YB,8.0,,wikipedia,8.0,6.5,,2026-10-11_kan-news,552,6.5
+2026-10-11_Kan 11,2,11 Oct,2026-10-11,Kantar,Kantar,Kan 11,553.0,RAAM,5.0,,wikipedia,5.0,4.0,,2026-10-11_kan-news,552,4.0
+2026-10-11_Kan 11,2,11 Oct,2026-10-11,Kantar,Kantar,Kan 11,553.0,JOINT,8.0,,wikipedia,8.0,6.4,,2026-10-11_kan-news,552,6.4
+2026-10-11_Kan 11,2,11 Oct,2026-10-11,Kantar,Kantar,Kan 11,553.0,DEMOCRATS,8.0,,wikipedia,8.0,6.5,,2026-10-11_kan-news,552,6.5
+2026-10-11_Kan 11,2,11 Oct,2026-10-11,Kantar,Kantar,Kan 11,553.0,YASHAR,22.0,,wikipedia,22.0,17.7,,2026-10-11_kan-news,552,17.7
+2026-10-11_Kan 11,2,11 Oct,2026-10-11,Kantar,Kantar,Kan 11,553.0,HENDEL_ZELICHA,4.0,,wikipedia,4.0,3.3,,2026-10-11_kan-news,552,3.3
+2026-10-11_Kan 11,2,11 Oct,2026-10-11,Kantar,Kantar,Kan 11,553.0,AMCHA,4.0,,wikipedia,4.0,3.3,,2026-10-11_kan-news,552,3.3
+2026-10-11_Kan 11,2,11 Oct,2026-10-11,Kantar,Kantar,Kan 11,553.0,HAREDI_PUBLIC,,,wikipedia,,0.9,,2026-10-11_kan-news,552,0.9
+2026-10-08_Maariv,2,7– 8 Oct,2026-10-08,LRI+P4A,Lazar_Panels,Maariv,700.0,LIKUD,20.0,,wikipedia,20.0,15.2,,2026-10-09_maariv,700,15.2
+2026-10-08_Maariv,2,7– 8 Oct,2026-10-08,LRI+P4A,Lazar_Panels,Maariv,700.0,TOGETHER,13.0,,wikipedia,13.0,11.2,,2026-10-09_maariv,700,11.2
+2026-10-08_Maariv,2,7– 8 Oct,2026-10-08,LRI+P4A,Lazar_Panels,Maariv,700.0,RZP_ZEHUT,6.0,,wikipedia,6.0,5.2,,2026-10-09_maariv,700,5.2
+2026-10-08_Maariv,2,7– 8 Oct,2026-10-08,LRI+P4A,Lazar_Panels,Maariv,700.0,OTZMA,8.0,,wikipedia,8.0,6.2,,2026-10-09_maariv,700,6.2
+2026-10-08_Maariv,2,7– 8 Oct,2026-10-08,LRI+P4A,Lazar_Panels,Maariv,700.0,BLUE_WHITE,0.0,1.9,wikipedia,0.0,0.9,0.9,2026-10-09_maariv,700,0.9
+2026-10-08_Maariv,2,7– 8 Oct,2026-10-08,LRI+P4A,Lazar_Panels,Maariv,700.0,SHAS,7.0,,wikipedia,7.0,5.7,,2026-10-09_maariv,700,5.7
+2026-10-08_Maariv,2,7– 8 Oct,2026-10-08,LRI+P4A,Lazar_Panels,Maariv,700.0,UTJ,7.0,,wikipedia,7.0,5.9,,2026-10-09_maariv,700,5.9
+2026-10-08_Maariv,2,7– 8 Oct,2026-10-08,LRI+P4A,Lazar_Panels,Maariv,700.0,YB,9.0,,wikipedia,9.0,7.8,,2026-10-09_maariv,700,7.8
+2026-10-08_Maariv,2,7– 8 Oct,2026-10-08,LRI+P4A,Lazar_Panels,Maariv,700.0,RAAM,5.0,,wikipedia,5.0,5.0,,2026-10-09_maariv,700,5.0
+2026-10-08_Maariv,2,7– 8 Oct,2026-10-08,LRI+P4A,Lazar_Panels,Maariv,700.0,JOINT,7.0,,wikipedia,7.0,4.3,,2026-10-09_maariv,700,4.3
+2026-10-08_Maariv,2,7– 8 Oct,2026-10-08,LRI+P4A,Lazar_Panels,Maariv,700.0,DEMOCRATS,9.0,,wikipedia,9.0,8.0,,2026-10-09_maariv,700,8.0
+2026-10-08_Maariv,2,7– 8 Oct,2026-10-08,LRI+P4A,Lazar_Panels,Maariv,700.0,YASHAR,21.0,,wikipedia,21.0,15.9,,2026-10-09_maariv,700,15.9
+2026-10-08_Maariv,2,7– 8 Oct,2026-10-08,LRI+P4A,Lazar_Panels,Maariv,700.0,HENDEL_ZELICHA,4.0,,wikipedia,4.0,3.6,,2026-10-09_maariv,700,3.6
+2026-10-08_Maariv,2,7– 8 Oct,2026-10-08,LRI+P4A,Lazar_Panels,Maariv,700.0,AMCHA,4.0,,wikipedia,4.0,3.4,,2026-10-09_maariv,700,3.4
+2026-10-08_Maariv,2,7– 8 Oct,2026-10-08,LRI+P4A,Lazar_Panels,Maariv,700.0,HAREDI_PUBLIC,0.0,0.8,wikipedia,0.0,0.8,0.8,2026-10-09_maariv,700,0.8
+2026-10-08_Zman Yisrael,2,7– 8 Oct,2026-10-08,Yossi Tatika,Tatika,Zman Yisrael,500.0,LIKUD,20.0,,wikipedia,20.0,,,2026-10-08_zman,,
+2026-10-08_Zman Yisrael,2,7– 8 Oct,2026-10-08,Yossi Tatika,Tatika,Zman Yisrael,500.0,TOGETHER,13.0,,wikipedia,13.0,,,2026-10-08_zman,,
+2026-10-08_Zman Yisrael,2,7– 8 Oct,2026-10-08,Yossi Tatika,Tatika,Zman Yisrael,500.0,RZP_ZEHUT,5.0,,wikipedia,5.0,,,2026-10-08_zman,,
+2026-10-08_Zman Yisrael,2,7– 8 Oct,2026-10-08,Yossi Tatika,Tatika,Zman Yisrael,500.0,OTZMA,6.0,,wikipedia,6.0,,,2026-10-08_zman,,
+2026-10-08_Zman Yisrael,2,7– 8 Oct,2026-10-08,Yossi Tatika,Tatika,Zman Yisrael,500.0,BLUE_WHITE,0.0,1.2,wikipedia,0.0,,1.2,2026-10-08_zman,,1.2
+2026-10-08_Zman Yisrael,2,7– 8 Oct,2026-10-08,Yossi Tatika,Tatika,Zman Yisrael,500.0,SHAS,8.0,,wikipedia,8.0,,,2026-10-08_zman,,
+2026-10-08_Zman Yisrael,2,7– 8 Oct,2026-10-08,Yossi Tatika,Tatika,Zman Yisrael,500.0,UTJ,8.0,,wikipedia,8.0,,,2026-10-08_zman,,
+2026-10-08_Zman Yisrael,2,7– 8 Oct,2026-10-08,Yossi Tatika,Tatika,Zman Yisrael,500.0,YB,10.0,,wikipedia,10.0,,,2026-10-08_zman,,
+2026-10-08_Zman Yisrael,2,7– 8 Oct,2026-10-08,Yossi Tatika,Tatika,Zman Yisrael,500.0,RAAM,5.0,,wikipedia,5.0,,,2026-10-08_zman,,
+2026-10-08_Zman Yisrael,2,7– 8 Oct,2026-10-08,Yossi Tatika,Tatika,Zman Yisrael,500.0,JOINT,9.0,,wikipedia,9.0,,,2026-10-08_zman,,
+2026-10-08_Zman Yisrael,2,7– 8 Oct,2026-10-08,Yossi Tatika,Tatika,Zman Yisrael,500.0,DEMOCRATS,8.0,,wikipedia,8.0,,,2026-10-08_zman,,
+2026-10-08_Zman Yisrael,2,7– 8 Oct,2026-10-08,Yossi Tatika,Tatika,Zman Yisrael,500.0,YASHAR,24.0,,wikipedia,24.0,,,2026-10-08_zman,,
+2026-10-08_Zman Yisrael,2,7– 8 Oct,2026-10-08,Yossi Tatika,Tatika,Zman Yisrael,500.0,HENDEL_ZELICHA,0.0,3.2,wikipedia,0.0,,3.2,2026-10-08_zman,,3.2
+2026-10-08_Zman Yisrael,2,7– 8 Oct,2026-10-08,Yossi Tatika,Tatika,Zman Yisrael,500.0,AMCHA,4.0,,wikipedia,4.0,,,2026-10-08_zman,,
+2026-10-08_Zman Yisrael,2,7– 8 Oct,2026-10-08,Yossi Tatika,Tatika,Zman Yisrael,500.0,HAREDI_PUBLIC,,,wikipedia,,,,2026-10-08_zman,,
+2026-10-08_Israel Hayom,2,7– 8 Oct,2026-10-08,Kantar,Kantar,Israel Hayom,555.0,LIKUD,21.0,,wikipedia,21.0,,,2026-10-08_israel-hayom,,
+2026-10-08_Israel Hayom,2,7– 8 Oct,2026-10-08,Kantar,Kantar,Israel Hayom,555.0,TOGETHER,13.0,,wikipedia,13.0,,,2026-10-08_israel-hayom,,
+2026-10-08_Israel Hayom,2,7– 8 Oct,2026-10-08,Kantar,Kantar,Israel Hayom,555.0,RZP_ZEHUT,6.0,,wikipedia,6.0,,,2026-10-08_israel-hayom,,
+2026-10-08_Israel Hayom,2,7– 8 Oct,2026-10-08,Kantar,Kantar,Israel Hayom,555.0,OTZMA,9.0,,wikipedia,9.0,,,2026-10-08_israel-hayom,,
+2026-10-08_Israel Hayom,2,7– 8 Oct,2026-10-08,Kantar,Kantar,Israel Hayom,555.0,BLUE_WHITE,0.0,1.2,wikipedia,,,,2026-10-08_israel-hayom,,1.2
+2026-10-08_Israel Hayom,2,7– 8 Oct,2026-10-08,Kantar,Kantar,Israel Hayom,555.0,SHAS,7.0,,wikipedia,7.0,,,2026-10-08_israel-hayom,,
+2026-10-08_Israel Hayom,2,7– 8 Oct,2026-10-08,Kantar,Kantar,Israel Hayom,555.0,UTJ,8.0,,wikipedia,8.0,,,2026-10-08_israel-hayom,,
+2026-10-08_Israel Hayom,2,7– 8 Oct,2026-10-08,Kantar,Kantar,Israel Hayom,555.0,YB,8.0,,wikipedia,8.0,,,2026-10-08_israel-hayom,,
+2026-10-08_Israel Hayom,2,7– 8 Oct,2026-10-08,Kantar,Kantar,Israel Hayom,555.0,RAAM,5.0,,wikipedia,5.0,,,2026-10-08_israel-hayom,,
+2026-10-08_Israel Hayom,2,7– 8 Oct,2026-10-08,Kantar,Kantar,Israel Hayom,555.0,JOINT,8.0,,wikipedia,8.0,,,2026-10-08_israel-hayom,,
+2026-10-08_Israel Hayom,2,7– 8 Oct,2026-10-08,Kantar,Kantar,Israel Hayom,555.0,DEMOCRATS,8.0,,wikipedia,8.0,,,2026-10-08_israel-hayom,,
+2026-10-08_Israel Hayom,2,7– 8 Oct,2026-10-08,Kantar,Kantar,Israel Hayom,555.0,YASHAR,22.0,,wikipedia,22.0,,,2026-10-08_israel-hayom,,
+2026-10-08_Israel Hayom,2,7– 8 Oct,2026-10-08,Kantar,Kantar,Israel Hayom,555.0,HENDEL_ZELICHA,5.0,,wikipedia,5.0,,,2026-10-08_israel-hayom,,
+2026-10-08_Israel Hayom,2,7– 8 Oct,2026-10-08,Kantar,Kantar,Israel Hayom,555.0,AMCHA,0.0,2.9,wikipedia,,,,2026-10-08_israel-hayom,,2.9
+2026-10-08_Israel Hayom,2,7– 8 Oct,2026-10-08,Kantar,Kantar,Israel Hayom,555.0,HAREDI_PUBLIC,,,wikipedia,,,,2026-10-08_israel-hayom,,
+2026-10-07_i24 News,2,7 Oct,2026-10-07,Direct Polls,DirectPolls,i24 News,504.0,LIKUD,26.0,,wikipedia,26.0,19.8,,2026-10-08_i24news,518,19.8
+2026-10-07_i24 News,2,7 Oct,2026-10-07,Direct Polls,DirectPolls,i24 News,504.0,TOGETHER,11.0,,wikipedia,11.0,8.4,,2026-10-08_i24news,518,8.4
+2026-10-07_i24 News,2,7 Oct,2026-10-07,Direct Polls,DirectPolls,i24 News,504.0,RZP_ZEHUT,6.0,,wikipedia,6.0,5.0,,2026-10-08_i24news,518,5.0
+2026-10-07_i24 News,2,7 Oct,2026-10-07,Direct Polls,DirectPolls,i24 News,504.0,OTZMA,9.0,,wikipedia,9.0,7.3,,2026-10-08_i24news,518,7.3
+2026-10-07_i24 News,2,7 Oct,2026-10-07,Direct Polls,DirectPolls,i24 News,504.0,BLUE_WHITE,0.0,1.0,wikipedia,0.0,,,2026-10-08_i24news,518,1.0
+2026-10-07_i24 News,2,7 Oct,2026-10-07,Direct Polls,DirectPolls,i24 News,504.0,SHAS,7.0,,wikipedia,7.0,5.7,,2026-10-08_i24news,518,5.7
+2026-10-07_i24 News,2,7 Oct,2026-10-07,Direct Polls,DirectPolls,i24 News,504.0,UTJ,8.0,,wikipedia,8.0,6.1,,2026-10-08_i24news,518,6.1
+2026-10-07_i24 News,2,7 Oct,2026-10-07,Direct Polls,DirectPolls,i24 News,504.0,YB,7.0,,wikipedia,7.0,5.6,,2026-10-08_i24news,518,5.6
+2026-10-07_i24 News,2,7 Oct,2026-10-07,Direct Polls,DirectPolls,i24 News,504.0,RAAM,5.0,,wikipedia,5.0,4.1,,2026-10-08_i24news,518,4.1
+2026-10-07_i24 News,2,7 Oct,2026-10-07,Direct Polls,DirectPolls,i24 News,504.0,JOINT,7.0,,wikipedia,7.0,5.4,,2026-10-08_i24news,518,5.4
+2026-10-07_i24 News,2,7 Oct,2026-10-07,Direct Polls,DirectPolls,i24 News,504.0,DEMOCRATS,10.0,,wikipedia,10.0,7.9,,2026-10-08_i24news,518,7.9
+2026-10-07_i24 News,2,7 Oct,2026-10-07,Direct Polls,DirectPolls,i24 News,504.0,YASHAR,20.0,,wikipedia,20.0,16.0,,2026-10-08_i24news,518,16.0
+2026-10-07_i24 News,2,7 Oct,2026-10-07,Direct Polls,DirectPolls,i24 News,504.0,HENDEL_ZELICHA,0.0,2.3,wikipedia,0.0,2.3,2.3,2026-10-08_i24news,518,2.3
+2026-10-07_i24 News,2,7 Oct,2026-10-07,Direct Polls,DirectPolls,i24 News,504.0,AMCHA,4.0,,wikipedia,4.0,3.3,,2026-10-08_i24news,518,3.3
+2026-10-07_i24 News,2,7 Oct,2026-10-07,Direct Polls,DirectPolls,i24 News,504.0,HAREDI_PUBLIC,0.0,1.0,wikipedia,0.0,,,2026-10-08_i24news,518,1.0
+2026-10-07_Channel 14,2,7 Oct,2026-10-07,SF+ND,NextData_Filber,Channel 14,2175.0,LIKUD,31.0,,wikipedia,31.0,24.0,,2026-10-07_channel-14,1079,24.0
+2026-10-07_Channel 14,2,7 Oct,2026-10-07,SF+ND,NextData_Filber,Channel 14,2175.0,TOGETHER,8.0,,wikipedia,8.0,6.2,,2026-10-07_channel-14,1079,6.2
+2026-10-07_Channel 14,2,7 Oct,2026-10-07,SF+ND,NextData_Filber,Channel 14,2175.0,RZP_ZEHUT,6.0,,wikipedia,6.0,4.6,,2026-10-07_channel-14,1079,4.6
+2026-10-07_Channel 14,2,7 Oct,2026-10-07,SF+ND,NextData_Filber,Channel 14,2175.0,OTZMA,8.0,,wikipedia,8.0,6.1,,2026-10-07_channel-14,1079,6.1
+2026-10-07_Channel 14,2,7 Oct,2026-10-07,SF+ND,NextData_Filber,Channel 14,2175.0,BLUE_WHITE,0.0,1.3,wikipedia,0.0,1.3,1.3,2026-10-07_channel-14,1079,1.3
+2026-10-07_Channel 14,2,7 Oct,2026-10-07,SF+ND,NextData_Filber,Channel 14,2175.0,SHAS,10.0,,wikipedia,10.0,7.9,,2026-10-07_channel-14,1079,7.9
+2026-10-07_Channel 14,2,7 Oct,2026-10-07,SF+ND,NextData_Filber,Channel 14,2175.0,UTJ,8.0,,wikipedia,8.0,6.3,,2026-10-07_channel-14,1079,6.3
+2026-10-07_Channel 14,2,7 Oct,2026-10-07,SF+ND,NextData_Filber,Channel 14,2175.0,YB,5.0,,wikipedia,5.0,3.9,,2026-10-07_channel-14,1079,3.9
+2026-10-07_Channel 14,2,7 Oct,2026-10-07,SF+ND,NextData_Filber,Channel 14,2175.0,RAAM,5.0,,wikipedia,5.0,4.0,,2026-10-07_channel-14,1079,4.0
+2026-10-07_Channel 14,2,7 Oct,2026-10-07,SF+ND,NextData_Filber,Channel 14,2175.0,JOINT,7.0,,wikipedia,7.0,5.3,,2026-10-07_channel-14,1079,5.3
+2026-10-07_Channel 14,2,7 Oct,2026-10-07,SF+ND,NextData_Filber,Channel 14,2175.0,DEMOCRATS,9.0,,wikipedia,9.0,6.7,,2026-10-07_channel-14,1079,6.7
+2026-10-07_Channel 14,2,7 Oct,2026-10-07,SF+ND,NextData_Filber,Channel 14,2175.0,YASHAR,23.0,,wikipedia,23.0,17.4,,2026-10-07_channel-14,1079,17.4
+2026-10-07_Channel 14,2,7 Oct,2026-10-07,SF+ND,NextData_Filber,Channel 14,2175.0,HENDEL_ZELICHA,0.0,1.8,wikipedia,0.0,1.8,1.8,2026-10-07_channel-14,1079,1.8
+2026-10-07_Channel 14,2,7 Oct,2026-10-07,SF+ND,NextData_Filber,Channel 14,2175.0,AMCHA,0.0,2.2,wikipedia,0.0,2.2,2.2,2026-10-07_channel-14,1079,2.2
+2026-10-07_Channel 14,2,7 Oct,2026-10-07,SF+ND,NextData_Filber,Channel 14,2175.0,HAREDI_PUBLIC,0.0,0.4,wikipedia,0.0,0.4,0.4,2026-10-07_channel-14,1079,0.4
+2026-10-07_Channel 13,2,7 Oct,2026-10-07,MP+TM+SN+A,Ch13_Madad2026,Channel 13,1013.0,LIKUD,20.0,,wikipedia,20.0,,,2026-10-07_channel-13,1263,
+2026-10-07_Channel 13,2,7 Oct,2026-10-07,MP+TM+SN+A,Ch13_Madad2026,Channel 13,1013.0,TOGETHER,12.0,,wikipedia,12.0,,,2026-10-07_channel-13,1263,
+2026-10-07_Channel 13,2,7 Oct,2026-10-07,MP+TM+SN+A,Ch13_Madad2026,Channel 13,1013.0,RZP_ZEHUT,7.0,,wikipedia,7.0,,,2026-10-07_channel-13,1263,
+2026-10-07_Channel 13,2,7 Oct,2026-10-07,MP+TM+SN+A,Ch13_Madad2026,Channel 13,1013.0,OTZMA,8.0,,wikipedia,8.0,,,2026-10-07_channel-13,1263,
+2026-10-07_Channel 13,2,7 Oct,2026-10-07,MP+TM+SN+A,Ch13_Madad2026,Channel 13,1013.0,BLUE_WHITE,0.0,0.8,wikipedia,0.0,,0.8,2026-10-07_channel-13,1263,0.8
+2026-10-07_Channel 13,2,7 Oct,2026-10-07,MP+TM+SN+A,Ch13_Madad2026,Channel 13,1013.0,SHAS,7.0,,wikipedia,7.0,,,2026-10-07_channel-13,1263,
+2026-10-07_Channel 13,2,7 Oct,2026-10-07,MP+TM+SN+A,Ch13_Madad2026,Channel 13,1013.0,UTJ,8.0,,wikipedia,8.0,,,2026-10-07_channel-13,1263,
+2026-10-07_Channel 13,2,7 Oct,2026-10-07,MP+TM+SN+A,Ch13_Madad2026,Channel 13,1013.0,YB,8.0,,wikipedia,8.0,,,2026-10-07_channel-13,1263,
+2026-10-07_Channel 13,2,7 Oct,2026-10-07,MP+TM+SN+A,Ch13_Madad2026,Channel 13,1013.0,RAAM,6.0,,wikipedia,6.0,,,2026-10-07_channel-13,1263,
+2026-10-07_Channel 13,2,7 Oct,2026-10-07,MP+TM+SN+A,Ch13_Madad2026,Channel 13,1013.0,JOINT,9.0,,wikipedia,9.0,,,2026-10-07_channel-13,1263,
+2026-10-07_Channel 13,2,7 Oct,2026-10-07,MP+TM+SN+A,Ch13_Madad2026,Channel 13,1013.0,DEMOCRATS,10.0,,wikipedia,10.0,,,2026-10-07_channel-13,1263,
+2026-10-07_Channel 13,2,7 Oct,2026-10-07,MP+TM+SN+A,Ch13_Madad2026,Channel 13,1013.0,YASHAR,20.0,,wikipedia,20.0,,,2026-10-07_channel-13,1263,
+2026-10-07_Channel 13,2,7 Oct,2026-10-07,MP+TM+SN+A,Ch13_Madad2026,Channel 13,1013.0,HENDEL_ZELICHA,0.0,2.9,wikipedia,0.0,,2.9,2026-10-07_channel-13,1263,2.9
+2026-10-07_Channel 13,2,7 Oct,2026-10-07,MP+TM+SN+A,Ch13_Madad2026,Channel 13,1013.0,AMCHA,5.0,,wikipedia,5.0,,,2026-10-07_channel-13,1263,
+2026-10-07_Channel 13,2,7 Oct,2026-10-07,MP+TM+SN+A,Ch13_Madad2026,Channel 13,1013.0,HAREDI_PUBLIC,0.0,1.1,wikipedia,0.0,,1.1,2026-10-07_channel-13,1263,1.1
+2026-10-05_HaHadashot 12,2,5 Oct,2026-10-05,Midgam R&C,Midgam,HaHadashot 12,501.0,LIKUD,21.0,,wikipedia,21.0,17.0,,2026-10-05_channel-12,501,17.0
+2026-10-05_HaHadashot 12,2,5 Oct,2026-10-05,Midgam R&C,Midgam,HaHadashot 12,501.0,TOGETHER,13.0,,wikipedia,13.0,10.5,,2026-10-05_channel-12,501,10.5
+2026-10-05_HaHadashot 12,2,5 Oct,2026-10-05,Midgam R&C,Midgam,HaHadashot 12,501.0,RZP_ZEHUT,6.0,,wikipedia,6.0,4.9,,2026-10-05_channel-12,501,4.9
+2026-10-05_HaHadashot 12,2,5 Oct,2026-10-05,Midgam R&C,Midgam,HaHadashot 12,501.0,OTZMA,7.0,,wikipedia,7.0,5.5,,2026-10-05_channel-12,501,5.5
+2026-10-05_HaHadashot 12,2,5 Oct,2026-10-05,Midgam R&C,Midgam,HaHadashot 12,501.0,BLUE_WHITE,0.0,0.5,wikipedia,0.0,,0.5,2026-10-05_channel-12,501,0.5
+2026-10-05_HaHadashot 12,2,5 Oct,2026-10-05,Midgam R&C,Midgam,HaHadashot 12,501.0,SHAS,7.0,,wikipedia,7.0,5.7,,2026-10-05_channel-12,501,5.7
+2026-10-05_HaHadashot 12,2,5 Oct,2026-10-05,Midgam R&C,Midgam,HaHadashot 12,501.0,UTJ,8.0,,wikipedia,8.0,6.5,,2026-10-05_channel-12,501,6.5
+2026-10-05_HaHadashot 12,2,5 Oct,2026-10-05,Midgam R&C,Midgam,HaHadashot 12,501.0,YB,9.0,,wikipedia,9.0,7.1,,2026-10-05_channel-12,501,7.1
+2026-10-05_HaHadashot 12,2,5 Oct,2026-10-05,Midgam R&C,Midgam,HaHadashot 12,501.0,RAAM,5.0,,wikipedia,5.0,4.1,,2026-10-05_channel-12,501,4.1
+2026-10-05_HaHadashot 12,2,5 Oct,2026-10-05,Midgam R&C,Midgam,HaHadashot 12,501.0,JOINT,8.0,,wikipedia,8.0,6.4,,2026-10-05_channel-12,501,6.4
+2026-10-05_HaHadashot 12,2,5 Oct,2026-10-05,Midgam R&C,Midgam,HaHadashot 12,501.0,DEMOCRATS,9.0,,wikipedia,9.0,7.2,,2026-10-05_channel-12,501,7.2
+2026-10-05_HaHadashot 12,2,5 Oct,2026-10-05,Midgam R&C,Midgam,HaHadashot 12,501.0,YASHAR,23.0,,wikipedia,23.0,18.7,,2026-10-05_channel-12,501,18.7
+2026-10-05_HaHadashot 12,2,5 Oct,2026-10-05,Midgam R&C,Midgam,HaHadashot 12,501.0,HENDEL_ZELICHA,4.0,,wikipedia,4.0,3.4,,2026-10-05_channel-12,501,3.4
+2026-10-05_HaHadashot 12,2,5 Oct,2026-10-05,Midgam R&C,Midgam,HaHadashot 12,501.0,AMCHA,0.0,1.5,wikipedia,0.0,1.5,1.5,2026-10-05_channel-12,501,1.5
+2026-10-05_HaHadashot 12,2,5 Oct,2026-10-05,Midgam R&C,Midgam,HaHadashot 12,501.0,HAREDI_PUBLIC,0.0,0.6,wikipedia,0.0,,0.6,2026-10-05_channel-12,501,0.6
+2026-10-04_Kan 11,2,4 Oct,2026-10-04,Kantar,Kantar,Kan 11,553.0,LIKUD,21.0,,wikipedia,21.0,16.2,,2026-10-04_kan-news,553,16.2
+2026-10-04_Kan 11,2,4 Oct,2026-10-04,Kantar,Kantar,Kan 11,553.0,TOGETHER,12.0,,wikipedia,12.0,9.4,,2026-10-04_kan-news,553,9.4
+2026-10-04_Kan 11,2,4 Oct,2026-10-04,Kantar,Kantar,Kan 11,553.0,RZP_ZEHUT,6.0,,wikipedia,6.0,4.6,,2026-10-04_kan-news,553,4.6
+2026-10-04_Kan 11,2,4 Oct,2026-10-04,Kantar,Kantar,Kan 11,553.0,OTZMA,8.0,,wikipedia,8.0,6.3,,2026-10-04_kan-news,553,6.3
+2026-10-04_Kan 11,2,4 Oct,2026-10-04,Kantar,Kantar,Kan 11,553.0,BLUE_WHITE,0.0,1.3,wikipedia,,1.3,,2026-10-04_kan-news,553,1.3
+2026-10-04_Kan 11,2,4 Oct,2026-10-04,Kantar,Kantar,Kan 11,553.0,SHAS,8.0,,wikipedia,8.0,6.3,,2026-10-04_kan-news,553,6.3
+2026-10-04_Kan 11,2,4 Oct,2026-10-04,Kantar,Kantar,Kan 11,553.0,UTJ,8.0,,wikipedia,8.0,6.3,,2026-10-04_kan-news,553,6.3
+2026-10-04_Kan 11,2,4 Oct,2026-10-04,Kantar,Kantar,Kan 11,553.0,YB,9.0,,wikipedia,9.0,6.9,,2026-10-04_kan-news,553,6.9
+2026-10-04_Kan 11,2,4 Oct,2026-10-04,Kantar,Kantar,Kan 11,553.0,RAAM,5.0,,wikipedia,5.0,3.9,,2026-10-04_kan-news,553,3.9
+2026-10-04_Kan 11,2,4 Oct,2026-10-04,Kantar,Kantar,Kan 11,553.0,JOINT,8.0,,wikipedia,8.0,6.3,,2026-10-04_kan-news,553,6.3
+2026-10-04_Kan 11,2,4 Oct,2026-10-04,Kantar,Kantar,Kan 11,553.0,DEMOCRATS,8.0,,wikipedia,8.0,6.3,,2026-10-04_kan-news,553,6.3
+2026-10-04_Kan 11,2,4 Oct,2026-10-04,Kantar,Kantar,Kan 11,553.0,YASHAR,23.0,,wikipedia,23.0,18.0,,2026-10-04_kan-news,553,18.0
+2026-10-04_Kan 11,2,4 Oct,2026-10-04,Kantar,Kantar,Kan 11,553.0,HENDEL_ZELICHA,4.0,,wikipedia,4.0,3.4,,2026-10-04_kan-news,553,3.4
+2026-10-04_Kan 11,2,4 Oct,2026-10-04,Kantar,Kantar,Kan 11,553.0,AMCHA,0.0,2.6,wikipedia,,2.6,,2026-10-04_kan-news,553,2.6
+2026-10-04_Kan 11,2,4 Oct,2026-10-04,Kantar,Kantar,Kan 11,553.0,HAREDI_PUBLIC,0.0,0.9,wikipedia,,0.9,,2026-10-04_kan-news,553,0.9
+2026-10-01_i24 News,2,1 Oct,2026-10-01,Direct Polls,DirectPolls,i24 News,504.0,LIKUD,28.0,,wikipedia,28.0,22.0,,2026-10-01_i24news,504,22.0
+2026-10-01_i24 News,2,1 Oct,2026-10-01,Direct Polls,DirectPolls,i24 News,504.0,TOGETHER,9.0,,wikipedia,9.0,7.4,,2026-10-01_i24news,504,7.4
+2026-10-01_i24 News,2,1 Oct,2026-10-01,Direct Polls,DirectPolls,i24 News,504.0,RZP_ZEHUT,5.0,,wikipedia,5.0,4.3,,2026-10-01_i24news,504,4.3
+2026-10-01_i24 News,2,1 Oct,2026-10-01,Direct Polls,DirectPolls,i24 News,504.0,OTZMA,8.0,,wikipedia,8.0,6.4,,2026-10-01_i24news,504,6.4
+2026-10-01_i24 News,2,1 Oct,2026-10-01,Direct Polls,DirectPolls,i24 News,504.0,BLUE_WHITE,0.0,,wikipedia,0.0,,,2026-10-01_i24news,504,
+2026-10-01_i24 News,2,1 Oct,2026-10-01,Direct Polls,DirectPolls,i24 News,504.0,SHAS,7.0,,wikipedia,7.0,5.5,,2026-10-01_i24news,504,5.5
+2026-10-01_i24 News,2,1 Oct,2026-10-01,Direct Polls,DirectPolls,i24 News,504.0,UTJ,8.0,,wikipedia,8.0,6.1,,2026-10-01_i24news,504,6.1
+2026-10-01_i24 News,2,1 Oct,2026-10-01,Direct Polls,DirectPolls,i24 News,504.0,YB,7.0,,wikipedia,7.0,5.6,,2026-10-01_i24news,504,5.6
+2026-10-01_i24 News,2,1 Oct,2026-10-01,Direct Polls,DirectPolls,i24 News,504.0,RAAM,5.0,,wikipedia,5.0,4.2,,2026-10-01_i24news,504,4.2
+2026-10-01_i24 News,2,1 Oct,2026-10-01,Direct Polls,DirectPolls,i24 News,504.0,JOINT,8.0,,wikipedia,8.0,6.5,,2026-10-01_i24news,504,6.5
+2026-10-01_i24 News,2,1 Oct,2026-10-01,Direct Polls,DirectPolls,i24 News,504.0,DEMOCRATS,9.0,,wikipedia,9.0,7.1,,2026-10-01_i24news,504,7.1
+2026-10-01_i24 News,2,1 Oct,2026-10-01,Direct Polls,DirectPolls,i24 News,504.0,YASHAR,22.0,,wikipedia,22.0,17.1,,2026-10-01_i24news,504,17.1
+2026-10-01_i24 News,2,1 Oct,2026-10-01,Direct Polls,DirectPolls,i24 News,504.0,HENDEL_ZELICHA,0.0,1.81,wikipedia,0.0,1.8,1.8,2026-10-01_i24news,504,1.8
+2026-10-01_i24 News,2,1 Oct,2026-10-01,Direct Polls,DirectPolls,i24 News,504.0,AMCHA,4.0,,wikipedia,4.0,3.3,,2026-10-01_i24news,504,3.3
+2026-10-01_i24 News,2,1 Oct,2026-10-01,Direct Polls,DirectPolls,i24 News,504.0,HAREDI_PUBLIC,0.0,,wikipedia,0.0,,,2026-10-01_i24news,504,
+2026-10-01_Channel 14,2,1 Oct,2026-10-01,SF+ND,NextData_Filber,Channel 14,2175.0,LIKUD,32.0,,wikipedia,32.0,24.9,,2026-10-01_channel-14,2145,24.9
+2026-10-01_Channel 14,2,1 Oct,2026-10-01,SF+ND,NextData_Filber,Channel 14,2175.0,TOGETHER,8.0,,wikipedia,8.0,6.1,,2026-10-01_channel-14,2145,6.1
+2026-10-01_Channel 14,2,1 Oct,2026-10-01,SF+ND,NextData_Filber,Channel 14,2175.0,RZP_ZEHUT,7.0,,wikipedia,7.0,5.2,,2026-10-01_channel-14,2145,5.2
+2026-10-01_Channel 14,2,1 Oct,2026-10-01,SF+ND,NextData_Filber,Channel 14,2175.0,OTZMA,7.0,,wikipedia,7.0,5.5,,2026-10-01_channel-14,2145,5.5
+2026-10-01_Channel 14,2,1 Oct,2026-10-01,SF+ND,NextData_Filber,Channel 14,2175.0,BLUE_WHITE,0.0,0.4,wikipedia,0.0,0.4,0.4,2026-10-01_channel-14,2145,0.4
+2026-10-01_Channel 14,2,1 Oct,2026-10-01,SF+ND,NextData_Filber,Channel 14,2175.0,SHAS,10.0,,wikipedia,10.0,7.7,,2026-10-01_channel-14,2145,7.7
+2026-10-01_Channel 14,2,1 Oct,2026-10-01,SF+ND,NextData_Filber,Channel 14,2175.0,UTJ,8.0,,wikipedia,8.0,6.1,,2026-10-01_channel-14,2145,6.1
+2026-10-01_Channel 14,2,1 Oct,2026-10-01,SF+ND,NextData_Filber,Channel 14,2175.0,YB,6.0,,wikipedia,6.0,4.7,,2026-10-01_channel-14,2145,4.7
+2026-10-01_Channel 14,2,1 Oct,2026-10-01,SF+ND,NextData_Filber,Channel 14,2175.0,RAAM,5.0,,wikipedia,5.0,3.6,,2026-10-01_channel-14,2145,3.6
+2026-10-01_Channel 14,2,1 Oct,2026-10-01,SF+ND,NextData_Filber,Channel 14,2175.0,JOINT,7.0,,wikipedia,7.0,5.1,,2026-10-01_channel-14,2145,5.1
+2026-10-01_Channel 14,2,1 Oct,2026-10-01,SF+ND,NextData_Filber,Channel 14,2175.0,DEMOCRATS,9.0,,wikipedia,9.0,7.1,,2026-10-01_channel-14,2145,7.1
+2026-10-01_Channel 14,2,1 Oct,2026-10-01,SF+ND,NextData_Filber,Channel 14,2175.0,YASHAR,21.0,,wikipedia,21.0,16.4,,2026-10-01_channel-14,2145,16.4
+2026-10-01_Channel 14,2,1 Oct,2026-10-01,SF+ND,NextData_Filber,Channel 14,2175.0,HENDEL_ZELICHA,0.0,1.2,wikipedia,0.0,1.2,1.2,2026-10-01_channel-14,2145,1.2
+2026-10-01_Channel 14,2,1 Oct,2026-10-01,SF+ND,NextData_Filber,Channel 14,2175.0,AMCHA,0.0,1.7,wikipedia,0.0,1.7,1.7,2026-10-01_channel-14,2145,1.7
+2026-10-01_Channel 14,2,1 Oct,2026-10-01,SF+ND,NextData_Filber,Channel 14,2175.0,HAREDI_PUBLIC,0.0,0.2,wikipedia,0.0,0.2,0.2,2026-10-01_channel-14,2145,0.2
+2026-10-01_Zman Yisrael,2,30 Sep – 1 Oct,2026-10-01,Yossi Tatika,Tatika,Zman Yisrael,500.0,LIKUD,21.0,,wikipedia,21.0,,,2026-10-01_zman,,
+2026-10-01_Zman Yisrael,2,30 Sep – 1 Oct,2026-10-01,Yossi Tatika,Tatika,Zman Yisrael,500.0,TOGETHER,10.0,,wikipedia,10.0,,,2026-10-01_zman,,
+2026-10-01_Zman Yisrael,2,30 Sep – 1 Oct,2026-10-01,Yossi Tatika,Tatika,Zman Yisrael,500.0,RZP_ZEHUT,5.0,,wikipedia,5.0,,,2026-10-01_zman,,
+2026-10-01_Zman Yisrael,2,30 Sep – 1 Oct,2026-10-01,Yossi Tatika,Tatika,Zman Yisrael,500.0,OTZMA,6.0,,wikipedia,6.0,,,2026-10-01_zman,,
+2026-10-01_Zman Yisrael,2,30 Sep – 1 Oct,2026-10-01,Yossi Tatika,Tatika,Zman Yisrael,500.0,BLUE_WHITE,0.0,1.4,wikipedia,0.0,,1.4,2026-10-01_zman,,1.4
+2026-10-01_Zman Yisrael,2,30 Sep – 1 Oct,2026-10-01,Yossi Tatika,Tatika,Zman Yisrael,500.0,SHAS,9.0,,wikipedia,9.0,,,2026-10-01_zman,,
+2026-10-01_Zman Yisrael,2,30 Sep – 1 Oct,2026-10-01,Yossi Tatika,Tatika,Zman Yisrael,500.0,UTJ,8.0,,wikipedia,8.0,,,2026-10-01_zman,,
+2026-10-01_Zman Yisrael,2,30 Sep – 1 Oct,2026-10-01,Yossi Tatika,Tatika,Zman Yisrael,500.0,YB,10.0,,wikipedia,10.0,,,2026-10-01_zman,,
+2026-10-01_Zman Yisrael,2,30 Sep – 1 Oct,2026-10-01,Yossi Tatika,Tatika,Zman Yisrael,500.0,RAAM,5.0,,wikipedia,5.0,,,2026-10-01_zman,,
+2026-10-01_Zman Yisrael,2,30 Sep – 1 Oct,2026-10-01,Yossi Tatika,Tatika,Zman Yisrael,500.0,JOINT,8.0,,wikipedia,8.0,,,2026-10-01_zman,,
+2026-10-01_Zman Yisrael,2,30 Sep – 1 Oct,2026-10-01,Yossi Tatika,Tatika,Zman Yisrael,500.0,DEMOCRATS,8.0,,wikipedia,8.0,,,2026-10-01_zman,,
+2026-10-01_Zman Yisrael,2,30 Sep – 1 Oct,2026-10-01,Yossi Tatika,Tatika,Zman Yisrael,500.0,YASHAR,21.0,,wikipedia,21.0,,,2026-10-01_zman,,
+2026-10-01_Zman Yisrael,2,30 Sep – 1 Oct,2026-10-01,Yossi Tatika,Tatika,Zman Yisrael,500.0,HENDEL_ZELICHA,5.0,,wikipedia,5.0,,,2026-10-01_zman,,
+2026-10-01_Zman Yisrael,2,30 Sep – 1 Oct,2026-10-01,Yossi Tatika,Tatika,Zman Yisrael,500.0,AMCHA,4.0,,wikipedia,4.0,,,2026-10-01_zman,,
+2026-10-01_Zman Yisrael,2,30 Sep – 1 Oct,2026-10-01,Yossi Tatika,Tatika,Zman Yisrael,500.0,HAREDI_PUBLIC,,,wikipedia,,,,2026-10-01_zman,,
+2026-10-01_Maariv,2,30 Sep – 1 Oct,2026-10-01,LRI+P4A,Lazar_Panels,Maariv,602.0,LIKUD,19.0,,wikipedia,19.0,14.8,,2026-10-02_maariv,602,14.8
+2026-10-01_Maariv,2,30 Sep – 1 Oct,2026-10-01,LRI+P4A,Lazar_Panels,Maariv,602.0,TOGETHER,13.0,,wikipedia,13.0,11.3,,2026-10-02_maariv,602,11.3
+2026-10-01_Maariv,2,30 Sep – 1 Oct,2026-10-01,LRI+P4A,Lazar_Panels,Maariv,602.0,RZP_ZEHUT,5.0,,wikipedia,5.0,3.9,,2026-10-02_maariv,602,3.9
+2026-10-01_Maariv,2,30 Sep – 1 Oct,2026-10-01,LRI+P4A,Lazar_Panels,Maariv,602.0,OTZMA,9.0,,wikipedia,9.0,7.6,,2026-10-02_maariv,602,7.6
+2026-10-01_Maariv,2,30 Sep – 1 Oct,2026-10-01,LRI+P4A,Lazar_Panels,Maariv,602.0,BLUE_WHITE,0.0,0.7,wikipedia,0.0,0.7,0.7,2026-10-02_maariv,602,0.7
+2026-10-01_Maariv,2,30 Sep – 1 Oct,2026-10-01,LRI+P4A,Lazar_Panels,Maariv,602.0,SHAS,7.0,,wikipedia,7.0,5.7,,2026-10-02_maariv,602,5.7
+2026-10-01_Maariv,2,30 Sep – 1 Oct,2026-10-01,LRI+P4A,Lazar_Panels,Maariv,602.0,UTJ,7.0,,wikipedia,7.0,5.5,,2026-10-02_maariv,602,5.5
+2026-10-01_Maariv,2,30 Sep – 1 Oct,2026-10-01,LRI+P4A,Lazar_Panels,Maariv,602.0,YB,9.0,,wikipedia,9.0,7.4,,2026-10-02_maariv,602,7.4
+2026-10-01_Maariv,2,30 Sep – 1 Oct,2026-10-01,LRI+P4A,Lazar_Panels,Maariv,602.0,RAAM,5.0,,wikipedia,5.0,4.7,,2026-10-02_maariv,602,4.7
+2026-10-01_Maariv,2,30 Sep – 1 Oct,2026-10-01,LRI+P4A,Lazar_Panels,Maariv,602.0,JOINT,7.0,,wikipedia,7.0,6.0,,2026-10-02_maariv,602,6.0
+2026-10-01_Maariv,2,30 Sep – 1 Oct,2026-10-01,LRI+P4A,Lazar_Panels,Maariv,602.0,DEMOCRATS,10.0,,wikipedia,10.0,8.6,,2026-10-02_maariv,602,8.6
+2026-10-01_Maariv,2,30 Sep – 1 Oct,2026-10-01,LRI+P4A,Lazar_Panels,Maariv,602.0,YASHAR,21.0,,wikipedia,21.0,15.4,,2026-10-02_maariv,602,15.4
+2026-10-01_Maariv,2,30 Sep – 1 Oct,2026-10-01,LRI+P4A,Lazar_Panels,Maariv,602.0,HENDEL_ZELICHA,4.0,,wikipedia,4.0,3.6,,2026-10-02_maariv,602,3.6
+2026-10-01_Maariv,2,30 Sep – 1 Oct,2026-10-01,LRI+P4A,Lazar_Panels,Maariv,602.0,AMCHA,4.0,,wikipedia,4.0,3.5,,2026-10-02_maariv,602,3.5
+2026-10-01_Maariv,2,30 Sep – 1 Oct,2026-10-01,LRI+P4A,Lazar_Panels,Maariv,602.0,HAREDI_PUBLIC,0.0,0.6,wikipedia,0.0,0.6,0.6,2026-10-02_maariv,602,0.6
+2026-09-30_Channel 13,2,30 Sep,2026-09-30,MP+TM+SN+A,Ch13_Madad2026,Channel 13,1013.0,LIKUD,19.0,,wikipedia,19.0,,,2026-09-30_channel-13,1013,
+2026-09-30_Channel 13,2,30 Sep,2026-09-30,MP+TM+SN+A,Ch13_Madad2026,Channel 13,1013.0,TOGETHER,11.0,,wikipedia,11.0,,,2026-09-30_channel-13,1013,
+2026-09-30_Channel 13,2,30 Sep,2026-09-30,MP+TM+SN+A,Ch13_Madad2026,Channel 13,1013.0,RZP_ZEHUT,7.0,,wikipedia,7.0,,,2026-09-30_channel-13,1013,
+2026-09-30_Channel 13,2,30 Sep,2026-09-30,MP+TM+SN+A,Ch13_Madad2026,Channel 13,1013.0,OTZMA,8.0,,wikipedia,8.0,,,2026-09-30_channel-13,1013,
+2026-09-30_Channel 13,2,30 Sep,2026-09-30,MP+TM+SN+A,Ch13_Madad2026,Channel 13,1013.0,BLUE_WHITE,0.0,0.9,wikipedia,0.0,,0.9,2026-09-30_channel-13,1013,0.9
+2026-09-30_Channel 13,2,30 Sep,2026-09-30,MP+TM+SN+A,Ch13_Madad2026,Channel 13,1013.0,SHAS,7.0,,wikipedia,7.0,,,2026-09-30_channel-13,1013,
+2026-09-30_Channel 13,2,30 Sep,2026-09-30,MP+TM+SN+A,Ch13_Madad2026,Channel 13,1013.0,UTJ,8.0,,wikipedia,8.0,,,2026-09-30_channel-13,1013,
+2026-09-30_Channel 13,2,30 Sep,2026-09-30,MP+TM+SN+A,Ch13_Madad2026,Channel 13,1013.0,YB,9.0,,wikipedia,9.0,,,2026-09-30_channel-13,1013,
+2026-09-30_Channel 13,2,30 Sep,2026-09-30,MP+TM+SN+A,Ch13_Madad2026,Channel 13,1013.0,RAAM,5.0,,wikipedia,5.0,,,2026-09-30_channel-13,1013,
+2026-09-30_Channel 13,2,30 Sep,2026-09-30,MP+TM+SN+A,Ch13_Madad2026,Channel 13,1013.0,JOINT,9.0,,wikipedia,9.0,,,2026-09-30_channel-13,1013,
+2026-09-30_Channel 13,2,30 Sep,2026-09-30,MP+TM+SN+A,Ch13_Madad2026,Channel 13,1013.0,DEMOCRATS,11.0,,wikipedia,11.0,,,2026-09-30_channel-13,1013,
+2026-09-30_Channel 13,2,30 Sep,2026-09-30,MP+TM+SN+A,Ch13_Madad2026,Channel 13,1013.0,YASHAR,21.0,,wikipedia,21.0,,,2026-09-30_channel-13,1013,
+2026-09-30_Channel 13,2,30 Sep,2026-09-30,MP+TM+SN+A,Ch13_Madad2026,Channel 13,1013.0,HENDEL_ZELICHA,0.0,2.5,wikipedia,0.0,,2.8,2026-09-30_channel-13,1013,2.5
+2026-09-30_Channel 13,2,30 Sep,2026-09-30,MP+TM+SN+A,Ch13_Madad2026,Channel 13,1013.0,AMCHA,5.0,,wikipedia,5.0,,,2026-09-30_channel-13,1013,
+2026-09-30_Channel 13,2,30 Sep,2026-09-30,MP+TM+SN+A,Ch13_Madad2026,Channel 13,1013.0,HAREDI_PUBLIC,0.0,1.3,wikipedia,0.0,,1.3,2026-09-30_channel-13,1013,1.3
+2026-09-29_Channel 16,2,29 Sep,2026-09-29,Maagar Mochot,MaagarMochot,Channel 16,550.0,LIKUD,19.0,,wikipedia,19.0,,,2026-09-29_c16,550,
+2026-09-29_Channel 16,2,29 Sep,2026-09-29,Maagar Mochot,MaagarMochot,Channel 16,550.0,TOGETHER,14.0,,wikipedia,14.0,,,2026-09-29_c16,550,
+2026-09-29_Channel 16,2,29 Sep,2026-09-29,Maagar Mochot,MaagarMochot,Channel 16,550.0,RZP_ZEHUT,6.0,,wikipedia,6.0,,,2026-09-29_c16,550,
+2026-09-29_Channel 16,2,29 Sep,2026-09-29,Maagar Mochot,MaagarMochot,Channel 16,550.0,OTZMA,8.0,,wikipedia,8.0,,,2026-09-29_c16,550,
+2026-09-29_Channel 16,2,29 Sep,2026-09-29,Maagar Mochot,MaagarMochot,Channel 16,550.0,BLUE_WHITE,0.0,0.4,wikipedia,,,,2026-09-29_c16,550,0.4
+2026-09-29_Channel 16,2,29 Sep,2026-09-29,Maagar Mochot,MaagarMochot,Channel 16,550.0,SHAS,8.0,,wikipedia,8.0,,,2026-09-29_c16,550,
+2026-09-29_Channel 16,2,29 Sep,2026-09-29,Maagar Mochot,MaagarMochot,Channel 16,550.0,UTJ,7.0,,wikipedia,7.0,,,2026-09-29_c16,550,
+2026-09-29_Channel 16,2,29 Sep,2026-09-29,Maagar Mochot,MaagarMochot,Channel 16,550.0,YB,7.0,,wikipedia,7.0,,,2026-09-29_c16,550,
+2026-09-29_Channel 16,2,29 Sep,2026-09-29,Maagar Mochot,MaagarMochot,Channel 16,550.0,RAAM,5.0,,wikipedia,5.0,,,2026-09-29_c16,550,
+2026-09-29_Channel 16,2,29 Sep,2026-09-29,Maagar Mochot,MaagarMochot,Channel 16,550.0,JOINT,7.0,,wikipedia,7.0,,,2026-09-29_c16,550,
+2026-09-29_Channel 16,2,29 Sep,2026-09-29,Maagar Mochot,MaagarMochot,Channel 16,550.0,DEMOCRATS,9.0,,wikipedia,9.0,,,2026-09-29_c16,550,
+2026-09-29_Channel 16,2,29 Sep,2026-09-29,Maagar Mochot,MaagarMochot,Channel 16,550.0,YASHAR,21.0,,wikipedia,21.0,,,2026-09-29_c16,550,
+2026-09-29_Channel 16,2,29 Sep,2026-09-29,Maagar Mochot,MaagarMochot,Channel 16,550.0,HENDEL_ZELICHA,4.0,,wikipedia,4.0,,,2026-09-29_c16,550,
+2026-09-29_Channel 16,2,29 Sep,2026-09-29,Maagar Mochot,MaagarMochot,Channel 16,550.0,AMCHA,5.0,,wikipedia,5.0,,,2026-09-29_c16,550,
+2026-09-29_Channel 16,2,29 Sep,2026-09-29,Maagar Mochot,MaagarMochot,Channel 16,550.0,HAREDI_PUBLIC,0.0,0.6,wikipedia,,,,2026-09-29_c16,550,0.6
+2026-09-28_Channel 14,2,28 Sep,2026-09-28,SF+ND,NextData_Filber,Channel 14,573.0,LIKUD,31.0,,wikipedia,31.0,24.0,,2026-09-28_channel-14,573,24.0
+2026-09-28_Channel 14,2,28 Sep,2026-09-28,SF+ND,NextData_Filber,Channel 14,573.0,TOGETHER,9.0,,wikipedia,9.0,6.9,,2026-09-28_channel-14,573,6.9
+2026-09-28_Channel 14,2,28 Sep,2026-09-28,SF+ND,NextData_Filber,Channel 14,573.0,RZP_ZEHUT,7.0,,wikipedia,7.0,5.3,,2026-09-28_channel-14,573,5.3
+2026-09-28_Channel 14,2,28 Sep,2026-09-28,SF+ND,NextData_Filber,Channel 14,573.0,OTZMA,7.0,,wikipedia,7.0,5.1,,2026-09-28_channel-14,573,5.1
+2026-09-28_Channel 14,2,28 Sep,2026-09-28,SF+ND,NextData_Filber,Channel 14,573.0,BLUE_WHITE,0.0,0.6,wikipedia,0.0,0.6,0.6,2026-09-28_channel-14,573,0.6
+2026-09-28_Channel 14,2,28 Sep,2026-09-28,SF+ND,NextData_Filber,Channel 14,573.0,SHAS,10.0,,wikipedia,10.0,7.5,,2026-09-28_channel-14,573,7.5
+2026-09-28_Channel 14,2,28 Sep,2026-09-28,SF+ND,NextData_Filber,Channel 14,573.0,UTJ,8.0,,wikipedia,8.0,6.4,,2026-09-28_channel-14,573,6.4
+2026-09-28_Channel 14,2,28 Sep,2026-09-28,SF+ND,NextData_Filber,Channel 14,573.0,YB,6.0,,wikipedia,6.0,4.8,,2026-09-28_channel-14,573,4.8
+2026-09-28_Channel 14,2,28 Sep,2026-09-28,SF+ND,NextData_Filber,Channel 14,573.0,RAAM,5.0,,wikipedia,5.0,3.8,,2026-09-28_channel-14,573,3.8
+2026-09-28_Channel 14,2,28 Sep,2026-09-28,SF+ND,NextData_Filber,Channel 14,573.0,JOINT,7.0,,wikipedia,7.0,5.2,,2026-09-28_channel-14,573,5.2
+2026-09-28_Channel 14,2,28 Sep,2026-09-28,SF+ND,NextData_Filber,Channel 14,573.0,DEMOCRATS,9.0,,wikipedia,9.0,7.1,,2026-09-28_channel-14,573,7.1
+2026-09-28_Channel 14,2,28 Sep,2026-09-28,SF+ND,NextData_Filber,Channel 14,573.0,YASHAR,21.0,,wikipedia,21.0,16.3,,2026-09-28_channel-14,573,16.3
+2026-09-28_Channel 14,2,28 Sep,2026-09-28,SF+ND,NextData_Filber,Channel 14,573.0,HENDEL_ZELICHA,0.0,2.1,wikipedia,0.0,2.1,2.1,2026-09-28_channel-14,573,2.1
+2026-09-28_Channel 14,2,28 Sep,2026-09-28,SF+ND,NextData_Filber,Channel 14,573.0,AMCHA,0.0,1.6,wikipedia,0.0,1.6,1.6,2026-09-28_channel-14,573,1.6
+2026-09-28_Channel 14,2,28 Sep,2026-09-28,SF+ND,NextData_Filber,Channel 14,573.0,HAREDI_PUBLIC,0.0,0.2,wikipedia,0.0,0.2,0.2,2026-09-28_channel-14,573,0.2
+2026-09-27_Kan 11,2,27 Sep,2026-09-27,Kantar,Kantar,Kan 11,552.0,LIKUD,21.0,,wikipedia,21.0,16.2,,2026-09-27_kan-news,552,16.2
+2026-09-27_Kan 11,2,27 Sep,2026-09-27,Kantar,Kantar,Kan 11,552.0,TOGETHER,11.0,,wikipedia,11.0,9.0,,2026-09-27_kan-news,552,9.0
+2026-09-27_Kan 11,2,27 Sep,2026-09-27,Kantar,Kantar,Kan 11,552.0,RZP_ZEHUT,6.0,,wikipedia,6.0,5.1,,2026-09-27_kan-news,552,5.1
+2026-09-27_Kan 11,2,27 Sep,2026-09-27,Kantar,Kantar,Kan 11,552.0,OTZMA,7.0,,wikipedia,7.0,5.8,,2026-09-27_kan-news,552,5.8
+2026-09-27_Kan 11,2,27 Sep,2026-09-27,Kantar,Kantar,Kan 11,552.0,BLUE_WHITE,,,wikipedia,,0.7,,2026-09-27_kan-news,552,0.7
+2026-09-27_Kan 11,2,27 Sep,2026-09-27,Kantar,Kantar,Kan 11,552.0,SHAS,7.0,,wikipedia,7.0,5.5,,2026-09-27_kan-news,552,5.5
+2026-09-27_Kan 11,2,27 Sep,2026-09-27,Kantar,Kantar,Kan 11,552.0,UTJ,7.0,,wikipedia,7.0,5.7,,2026-09-27_kan-news,552,5.7
+2026-09-27_Kan 11,2,27 Sep,2026-09-27,Kantar,Kantar,Kan 11,552.0,YB,9.0,,wikipedia,9.0,7.1,,2026-09-27_kan-news,552,7.1
+2026-09-27_Kan 11,2,27 Sep,2026-09-27,Kantar,Kantar,Kan 11,552.0,RAAM,5.0,,wikipedia,5.0,4.4,,2026-09-27_kan-news,552,4.4
+2026-09-27_Kan 11,2,27 Sep,2026-09-27,Kantar,Kantar,Kan 11,552.0,JOINT,7.0,,wikipedia,7.0,5.8,,2026-09-27_kan-news,552,5.8
+2026-09-27_Kan 11,2,27 Sep,2026-09-27,Kantar,Kantar,Kan 11,552.0,DEMOCRATS,9.0,,wikipedia,9.0,7.1,,2026-09-27_kan-news,552,7.1
+2026-09-27_Kan 11,2,27 Sep,2026-09-27,Kantar,Kantar,Kan 11,552.0,YASHAR,23.0,,wikipedia,23.0,18.6,,2026-09-27_kan-news,552,18.6
+2026-09-27_Kan 11,2,27 Sep,2026-09-27,Kantar,Kantar,Kan 11,552.0,HENDEL_ZELICHA,4.0,,wikipedia,4.0,3.6,,2026-09-27_kan-news,552,3.6
+2026-09-27_Kan 11,2,27 Sep,2026-09-27,Kantar,Kantar,Kan 11,552.0,AMCHA,4.0,,wikipedia,4.0,3.5,,2026-09-27_kan-news,552,3.5
+2026-09-27_Kan 11,2,27 Sep,2026-09-27,Kantar,Kantar,Kan 11,552.0,HAREDI_PUBLIC,,,wikipedia,,0.9,,2026-09-27_kan-news,552,0.9
+2026-09-24_Channel 16,2,24 Sep,2026-09-24,Maagar Mochot,MaagarMochot,Channel 16,553.0,LIKUD,19.0,,wikipedia,19.0,,,2026-09-24_c16,,
+2026-09-24_Channel 16,2,24 Sep,2026-09-24,Maagar Mochot,MaagarMochot,Channel 16,553.0,TOGETHER,13.0,,wikipedia,13.0,,,2026-09-24_c16,,
+2026-09-24_Channel 16,2,24 Sep,2026-09-24,Maagar Mochot,MaagarMochot,Channel 16,553.0,RZP_ZEHUT,5.0,,wikipedia,5.0,,,2026-09-24_c16,,
+2026-09-24_Channel 16,2,24 Sep,2026-09-24,Maagar Mochot,MaagarMochot,Channel 16,553.0,OTZMA,9.0,,wikipedia,9.0,,,2026-09-24_c16,,
+2026-09-24_Channel 16,2,24 Sep,2026-09-24,Maagar Mochot,MaagarMochot,Channel 16,553.0,BLUE_WHITE,0.0,1.0,wikipedia,,,,2026-09-24_c16,,1.0
+2026-09-24_Channel 16,2,24 Sep,2026-09-24,Maagar Mochot,MaagarMochot,Channel 16,553.0,SHAS,8.0,,wikipedia,8.0,,,2026-09-24_c16,,
+2026-09-24_Channel 16,2,24 Sep,2026-09-24,Maagar Mochot,MaagarMochot,Channel 16,553.0,UTJ,7.0,,wikipedia,7.0,,,2026-09-24_c16,,
+2026-09-24_Channel 16,2,24 Sep,2026-09-24,Maagar Mochot,MaagarMochot,Channel 16,553.0,YB,8.0,,wikipedia,8.0,,,2026-09-24_c16,,
+2026-09-24_Channel 16,2,24 Sep,2026-09-24,Maagar Mochot,MaagarMochot,Channel 16,553.0,RAAM,5.0,,wikipedia,5.0,,,2026-09-24_c16,,
+2026-09-24_Channel 16,2,24 Sep,2026-09-24,Maagar Mochot,MaagarMochot,Channel 16,553.0,JOINT,7.0,,wikipedia,7.0,,,2026-09-24_c16,,
+2026-09-24_Channel 16,2,24 Sep,2026-09-24,Maagar Mochot,MaagarMochot,Channel 16,553.0,DEMOCRATS,8.0,,wikipedia,8.0,,,2026-09-24_c16,,
+2026-09-24_Channel 16,2,24 Sep,2026-09-24,Maagar Mochot,MaagarMochot,Channel 16,553.0,YASHAR,23.0,,wikipedia,23.0,,,2026-09-24_c16,,
+2026-09-24_Channel 16,2,24 Sep,2026-09-24,Maagar Mochot,MaagarMochot,Channel 16,553.0,HENDEL_ZELICHA,4.0,,wikipedia,4.0,,,2026-09-24_c16,,
+2026-09-24_Channel 16,2,24 Sep,2026-09-24,Maagar Mochot,MaagarMochot,Channel 16,553.0,AMCHA,4.0,,wikipedia,4.0,,,2026-09-24_c16,,
+2026-09-24_Channel 16,2,24 Sep,2026-09-24,Maagar Mochot,MaagarMochot,Channel 16,553.0,HAREDI_PUBLIC,0.0,0.4,wikipedia,,,,2026-09-24_c16,,0.4
+2026-09-24_i24 News,2,24 Sep,2026-09-24,Direct Polls,DirectPolls,i24 News,537.0,LIKUD,27.0,,wikipedia,27.0,20.4,,2026-09-24_i24news,537,20.4
+2026-09-24_i24 News,2,24 Sep,2026-09-24,Direct Polls,DirectPolls,i24 News,537.0,TOGETHER,9.0,,wikipedia,9.0,7.2,,2026-09-24_i24news,537,7.2
+2026-09-24_i24 News,2,24 Sep,2026-09-24,Direct Polls,DirectPolls,i24 News,537.0,RZP_ZEHUT,6.0,,wikipedia,6.0,4.4,,2026-09-24_i24news,537,4.4
+2026-09-24_i24 News,2,24 Sep,2026-09-24,Direct Polls,DirectPolls,i24 News,537.0,OTZMA,8.0,,wikipedia,8.0,6.6,,2026-09-24_i24news,537,6.6
+2026-09-24_i24 News,2,24 Sep,2026-09-24,Direct Polls,DirectPolls,i24 News,537.0,BLUE_WHITE,0.0,1.0,wikipedia,0.0,,,2026-09-24_i24news,537,1.0
+2026-09-24_i24 News,2,24 Sep,2026-09-24,Direct Polls,DirectPolls,i24 News,537.0,SHAS,7.0,,wikipedia,7.0,5.3,,2026-09-24_i24news,537,5.3
+2026-09-24_i24 News,2,24 Sep,2026-09-24,Direct Polls,DirectPolls,i24 News,537.0,UTJ,8.0,,wikipedia,8.0,6.1,,2026-09-24_i24news,537,6.1
+2026-09-24_i24 News,2,24 Sep,2026-09-24,Direct Polls,DirectPolls,i24 News,537.0,YB,7.0,,wikipedia,7.0,5.6,,2026-09-24_i24news,537,5.6
+2026-09-24_i24 News,2,24 Sep,2026-09-24,Direct Polls,DirectPolls,i24 News,537.0,RAAM,6.0,,wikipedia,6.0,4.4,,2026-09-24_i24news,537,4.4
+2026-09-24_i24 News,2,24 Sep,2026-09-24,Direct Polls,DirectPolls,i24 News,537.0,JOINT,7.0,,wikipedia,7.0,5.7,,2026-09-24_i24news,537,5.7
+2026-09-24_i24 News,2,24 Sep,2026-09-24,Direct Polls,DirectPolls,i24 News,537.0,DEMOCRATS,9.0,,wikipedia,9.0,7.0,,2026-09-24_i24news,537,7.0
+2026-09-24_i24 News,2,24 Sep,2026-09-24,Direct Polls,DirectPolls,i24 News,537.0,YASHAR,22.0,,wikipedia,22.0,17.5,,2026-09-24_i24news,537,17.5
+2026-09-24_i24 News,2,24 Sep,2026-09-24,Direct Polls,DirectPolls,i24 News,537.0,HENDEL_ZELICHA,0.0,1.6,wikipedia,0.0,1.6,1.6,2026-09-24_i24news,537,1.6
+2026-09-24_i24 News,2,24 Sep,2026-09-24,Direct Polls,DirectPolls,i24 News,537.0,AMCHA,4.0,,wikipedia,4.0,3.3,,2026-09-24_i24news,537,3.3
+2026-09-24_i24 News,2,24 Sep,2026-09-24,Direct Polls,DirectPolls,i24 News,537.0,HAREDI_PUBLIC,0.0,1.0,wikipedia,0.0,,,2026-09-24_i24news,537,1.0
+2026-09-24_Zman Yisrael,2,23– 24 Sep,2026-09-24,Yossi Tatika,Tatika,Zman Yisrael,500.0,LIKUD,21.0,,wikipedia,21.0,,,2026-09-24_zman,,
+2026-09-24_Zman Yisrael,2,23– 24 Sep,2026-09-24,Yossi Tatika,Tatika,Zman Yisrael,500.0,TOGETHER,12.0,,wikipedia,12.0,,,2026-09-24_zman,,
+2026-09-24_Zman Yisrael,2,23– 24 Sep,2026-09-24,Yossi Tatika,Tatika,Zman Yisrael,500.0,RZP_ZEHUT,4.0,,wikipedia,4.0,,,2026-09-24_zman,,
+2026-09-24_Zman Yisrael,2,23– 24 Sep,2026-09-24,Yossi Tatika,Tatika,Zman Yisrael,500.0,OTZMA,6.0,,wikipedia,6.0,,,2026-09-24_zman,,
+2026-09-24_Zman Yisrael,2,23– 24 Sep,2026-09-24,Yossi Tatika,Tatika,Zman Yisrael,500.0,BLUE_WHITE,0.0,1.6,wikipedia,0.0,,1.6,2026-09-24_zman,,1.6
+2026-09-24_Zman Yisrael,2,23– 24 Sep,2026-09-24,Yossi Tatika,Tatika,Zman Yisrael,500.0,SHAS,10.0,,wikipedia,10.0,,,2026-09-24_zman,,
+2026-09-24_Zman Yisrael,2,23– 24 Sep,2026-09-24,Yossi Tatika,Tatika,Zman Yisrael,500.0,UTJ,8.0,,wikipedia,8.0,,,2026-09-24_zman,,
+2026-09-24_Zman Yisrael,2,23– 24 Sep,2026-09-24,Yossi Tatika,Tatika,Zman Yisrael,500.0,YB,10.0,,wikipedia,10.0,,,2026-09-24_zman,,
+2026-09-24_Zman Yisrael,2,23– 24 Sep,2026-09-24,Yossi Tatika,Tatika,Zman Yisrael,500.0,RAAM,6.0,,wikipedia,6.0,,,2026-09-24_zman,,
+2026-09-24_Zman Yisrael,2,23– 24 Sep,2026-09-24,Yossi Tatika,Tatika,Zman Yisrael,500.0,JOINT,8.0,,wikipedia,8.0,,,2026-09-24_zman,,
+2026-09-24_Zman Yisrael,2,23– 24 Sep,2026-09-24,Yossi Tatika,Tatika,Zman Yisrael,500.0,DEMOCRATS,8.0,,wikipedia,8.0,,,2026-09-24_zman,,
+2026-09-24_Zman Yisrael,2,23– 24 Sep,2026-09-24,Yossi Tatika,Tatika,Zman Yisrael,500.0,YASHAR,23.0,,wikipedia,23.0,,,2026-09-24_zman,,
+2026-09-24_Zman Yisrael,2,23– 24 Sep,2026-09-24,Yossi Tatika,Tatika,Zman Yisrael,500.0,HENDEL_ZELICHA,0.0,2.6,wikipedia,0.0,,2.6,2026-09-24_zman,,2.6
+2026-09-24_Zman Yisrael,2,23– 24 Sep,2026-09-24,Yossi Tatika,Tatika,Zman Yisrael,500.0,AMCHA,4.0,,wikipedia,4.0,,,2026-09-24_zman,,
+2026-09-24_Zman Yisrael,2,23– 24 Sep,2026-09-24,Yossi Tatika,Tatika,Zman Yisrael,500.0,HAREDI_PUBLIC,,,wikipedia,,,,2026-09-24_zman,,
+2026-09-24_Maariv,2,23– 24 Sep,2026-09-24,LRI+P4A,Lazar_Panels,Maariv,610.0,LIKUD,18.0,,wikipedia,18.0,14.4,,2026-09-25_maariv,610,14.4
+2026-09-24_Maariv,2,23– 24 Sep,2026-09-24,LRI+P4A,Lazar_Panels,Maariv,610.0,TOGETHER,13.0,,wikipedia,13.0,11.0,,2026-09-25_maariv,610,11.0
+2026-09-24_Maariv,2,23– 24 Sep,2026-09-24,LRI+P4A,Lazar_Panels,Maariv,610.0,RZP_ZEHUT,6.0,,wikipedia,6.0,4.8,,2026-09-25_maariv,610,4.8
+2026-09-24_Maariv,2,23– 24 Sep,2026-09-24,LRI+P4A,Lazar_Panels,Maariv,610.0,OTZMA,9.0,,wikipedia,9.0,7.2,,2026-09-25_maariv,610,7.2
+2026-09-24_Maariv,2,23– 24 Sep,2026-09-24,LRI+P4A,Lazar_Panels,Maariv,610.0,BLUE_WHITE,0.0,1.3,wikipedia,0.0,1.3,1.3,2026-09-25_maariv,610,1.3
+2026-09-24_Maariv,2,23– 24 Sep,2026-09-24,LRI+P4A,Lazar_Panels,Maariv,610.0,SHAS,6.0,,wikipedia,6.0,5.0,,2026-09-25_maariv,610,5.0
+2026-09-24_Maariv,2,23– 24 Sep,2026-09-24,LRI+P4A,Lazar_Panels,Maariv,610.0,UTJ,6.0,,wikipedia,6.0,5.0,,2026-09-25_maariv,610,5.0
+2026-09-24_Maariv,2,23– 24 Sep,2026-09-24,LRI+P4A,Lazar_Panels,Maariv,610.0,YB,9.0,,wikipedia,9.0,7.7,,2026-09-25_maariv,610,7.7
+2026-09-24_Maariv,2,23– 24 Sep,2026-09-24,LRI+P4A,Lazar_Panels,Maariv,610.0,RAAM,5.0,,wikipedia,5.0,4.4,,2026-09-25_maariv,610,4.4
+2026-09-24_Maariv,2,23– 24 Sep,2026-09-24,LRI+P4A,Lazar_Panels,Maariv,610.0,JOINT,7.0,,wikipedia,7.0,5.4,,2026-09-25_maariv,610,5.4
+2026-09-24_Maariv,2,23– 24 Sep,2026-09-24,LRI+P4A,Lazar_Panels,Maariv,610.0,DEMOCRATS,11.0,,wikipedia,11.0,9.3,,2026-09-25_maariv,610,9.3
+2026-09-24_Maariv,2,23– 24 Sep,2026-09-24,LRI+P4A,Lazar_Panels,Maariv,610.0,YASHAR,22.0,,wikipedia,22.0,15.9,,2026-09-25_maariv,610,15.9
+2026-09-24_Maariv,2,23– 24 Sep,2026-09-24,LRI+P4A,Lazar_Panels,Maariv,610.0,HENDEL_ZELICHA,4.0,,wikipedia,4.0,3.4,,2026-09-25_maariv,610,3.4
+2026-09-24_Maariv,2,23– 24 Sep,2026-09-24,LRI+P4A,Lazar_Panels,Maariv,610.0,AMCHA,4.0,,wikipedia,4.0,3.4,,2026-09-25_maariv,610,3.4
+2026-09-24_Maariv,2,23– 24 Sep,2026-09-24,LRI+P4A,Lazar_Panels,Maariv,610.0,HAREDI_PUBLIC,0.0,0.9,wikipedia,0.0,0.9,0.9,2026-09-25_maariv,610,0.9
+2026-09-23_Channel 14,2,23 Sep,2026-09-23,SF+ND,NextData_Filber,Channel 14,647.0,LIKUD,32.0,,wikipedia,,,,,,
+2026-09-23_Channel 14,2,23 Sep,2026-09-23,SF+ND,NextData_Filber,Channel 14,647.0,TOGETHER,7.0,,wikipedia,,,,,,
+2026-09-23_Channel 14,2,23 Sep,2026-09-23,SF+ND,NextData_Filber,Channel 14,647.0,RZP_ZEHUT,7.0,,wikipedia,,,,,,
+2026-09-23_Channel 14,2,23 Sep,2026-09-23,SF+ND,NextData_Filber,Channel 14,647.0,OTZMA,6.0,,wikipedia,,,,,,
+2026-09-23_Channel 14,2,23 Sep,2026-09-23,SF+ND,NextData_Filber,Channel 14,647.0,BLUE_WHITE,0.0,0.3,wikipedia,,,,,,0.3
+2026-09-23_Channel 14,2,23 Sep,2026-09-23,SF+ND,NextData_Filber,Channel 14,647.0,SHAS,11.0,,wikipedia,,,,,,
+2026-09-23_Channel 14,2,23 Sep,2026-09-23,SF+ND,NextData_Filber,Channel 14,647.0,UTJ,7.0,,wikipedia,,,,,,
+2026-09-23_Channel 14,2,23 Sep,2026-09-23,SF+ND,NextData_Filber,Channel 14,647.0,YB,7.0,,wikipedia,,,,,,
+2026-09-23_Channel 14,2,23 Sep,2026-09-23,SF+ND,NextData_Filber,Channel 14,647.0,RAAM,5.0,,wikipedia,,,,,,
+2026-09-23_Channel 14,2,23 Sep,2026-09-23,SF+ND,NextData_Filber,Channel 14,647.0,JOINT,7.0,,wikipedia,,,,,,
+2026-09-23_Channel 14,2,23 Sep,2026-09-23,SF+ND,NextData_Filber,Channel 14,647.0,DEMOCRATS,9.0,,wikipedia,,,,,,
+2026-09-23_Channel 14,2,23 Sep,2026-09-23,SF+ND,NextData_Filber,Channel 14,647.0,YASHAR,22.0,,wikipedia,,,,,,
+2026-09-23_Channel 14,2,23 Sep,2026-09-23,SF+ND,NextData_Filber,Channel 14,647.0,HENDEL_ZELICHA,0.0,2.2,wikipedia,,,,,,2.2
+2026-09-23_Channel 14,2,23 Sep,2026-09-23,SF+ND,NextData_Filber,Channel 14,647.0,AMCHA,0.0,1.9,wikipedia,,,,,,1.9
+2026-09-23_Channel 14,2,23 Sep,2026-09-23,SF+ND,NextData_Filber,Channel 14,647.0,HAREDI_PUBLIC,0.0,0.5,wikipedia,,,,,,0.5
+2026-09-23_Channel 13,2,23 Sep,2026-09-23,MP+TM+SN+A,Ch13_Madad2026,Channel 13,1503.0,LIKUD,18.0,,wikipedia,,,,,,
+2026-09-23_Channel 13,2,23 Sep,2026-09-23,MP+TM+SN+A,Ch13_Madad2026,Channel 13,1503.0,TOGETHER,11.0,,wikipedia,,,,,,
+2026-09-23_Channel 13,2,23 Sep,2026-09-23,MP+TM+SN+A,Ch13_Madad2026,Channel 13,1503.0,RZP_ZEHUT,6.0,,wikipedia,,,,,,
+2026-09-23_Channel 13,2,23 Sep,2026-09-23,MP+TM+SN+A,Ch13_Madad2026,Channel 13,1503.0,OTZMA,7.0,,wikipedia,,,,,,
+2026-09-23_Channel 13,2,23 Sep,2026-09-23,MP+TM+SN+A,Ch13_Madad2026,Channel 13,1503.0,BLUE_WHITE,0.0,1.0,wikipedia,,,,,,1.0
+2026-09-23_Channel 13,2,23 Sep,2026-09-23,MP+TM+SN+A,Ch13_Madad2026,Channel 13,1503.0,SHAS,8.0,,wikipedia,,,,,,
+2026-09-23_Channel 13,2,23 Sep,2026-09-23,MP+TM+SN+A,Ch13_Madad2026,Channel 13,1503.0,UTJ,7.0,,wikipedia,,,,,,
+2026-09-23_Channel 13,2,23 Sep,2026-09-23,MP+TM+SN+A,Ch13_Madad2026,Channel 13,1503.0,YB,8.0,,wikipedia,,,,,,
+2026-09-23_Channel 13,2,23 Sep,2026-09-23,MP+TM+SN+A,Ch13_Madad2026,Channel 13,1503.0,RAAM,5.0,,wikipedia,,,,,,
+2026-09-23_Channel 13,2,23 Sep,2026-09-23,MP+TM+SN+A,Ch13_Madad2026,Channel 13,1503.0,JOINT,8.0,,wikipedia,,,,,,
+2026-09-23_Channel 13,2,23 Sep,2026-09-23,MP+TM+SN+A,Ch13_Madad2026,Channel 13,1503.0,DEMOCRATS,11.0,,wikipedia,,,,,,
+2026-09-23_Channel 13,2,23 Sep,2026-09-23,MP+TM+SN+A,Ch13_Madad2026,Channel 13,1503.0,YASHAR,22.0,,wikipedia,,,,,,
+2026-09-23_Channel 13,2,23 Sep,2026-09-23,MP+TM+SN+A,Ch13_Madad2026,Channel 13,1503.0,HENDEL_ZELICHA,4.0,,wikipedia,,,,,,
+2026-09-23_Channel 13,2,23 Sep,2026-09-23,MP+TM+SN+A,Ch13_Madad2026,Channel 13,1503.0,AMCHA,5.0,,wikipedia,,,,,,
+2026-09-23_Channel 13,2,23 Sep,2026-09-23,MP+TM+SN+A,Ch13_Madad2026,Channel 13,1503.0,HAREDI_PUBLIC,,,wikipedia,,,,,,
+2026-09-22_HaHadashot 12,2,22 Sep,2026-09-22,Midgam R&C,Midgam,HaHadashot 12,501.0,LIKUD,20.0,,wikipedia,,,,,,
+2026-09-22_HaHadashot 12,2,22 Sep,2026-09-22,Midgam R&C,Midgam,HaHadashot 12,501.0,TOGETHER,13.0,,wikipedia,,,,,,
+2026-09-22_HaHadashot 12,2,22 Sep,2026-09-22,Midgam R&C,Midgam,HaHadashot 12,501.0,RZP_ZEHUT,5.0,,wikipedia,,,,,,
+2026-09-22_HaHadashot 12,2,22 Sep,2026-09-22,Midgam R&C,Midgam,HaHadashot 12,501.0,OTZMA,6.0,,wikipedia,,,,,,
+2026-09-22_HaHadashot 12,2,22 Sep,2026-09-22,Midgam R&C,Midgam,HaHadashot 12,501.0,BLUE_WHITE,0.0,0.7,wikipedia,,,,,,0.7
+2026-09-22_HaHadashot 12,2,22 Sep,2026-09-22,Midgam R&C,Midgam,HaHadashot 12,501.0,SHAS,7.0,,wikipedia,,,,,,
+2026-09-22_HaHadashot 12,2,22 Sep,2026-09-22,Midgam R&C,Midgam,HaHadashot 12,501.0,UTJ,8.0,,wikipedia,,,,,,
+2026-09-22_HaHadashot 12,2,22 Sep,2026-09-22,Midgam R&C,Midgam,HaHadashot 12,501.0,YB,9.0,,wikipedia,,,,,,
+2026-09-22_HaHadashot 12,2,22 Sep,2026-09-22,Midgam R&C,Midgam,HaHadashot 12,501.0,RAAM,5.0,,wikipedia,,,,,,
+2026-09-22_HaHadashot 12,2,22 Sep,2026-09-22,Midgam R&C,Midgam,HaHadashot 12,501.0,JOINT,7.0,,wikipedia,,,,,,
+2026-09-22_HaHadashot 12,2,22 Sep,2026-09-22,Midgam R&C,Midgam,HaHadashot 12,501.0,DEMOCRATS,9.0,,wikipedia,,,,,,
+2026-09-22_HaHadashot 12,2,22 Sep,2026-09-22,Midgam R&C,Midgam,HaHadashot 12,501.0,YASHAR,23.0,,wikipedia,,,,,,
+2026-09-22_HaHadashot 12,2,22 Sep,2026-09-22,Midgam R&C,Midgam,HaHadashot 12,501.0,HENDEL_ZELICHA,4.0,,wikipedia,,,,,,
+2026-09-22_HaHadashot 12,2,22 Sep,2026-09-22,Midgam R&C,Midgam,HaHadashot 12,501.0,AMCHA,4.0,,wikipedia,,,,,,
+2026-09-22_HaHadashot 12,2,22 Sep,2026-09-22,Midgam R&C,Midgam,HaHadashot 12,501.0,HAREDI_PUBLIC,0.0,0.3,wikipedia,,,,,,0.3
+2026-09-17_Channel 14,2,17 Sep,2026-09-17,SF+ND,NextData_Filber,Channel 14,817.0,LIKUD,31.0,,wikipedia,,,,,,
+2026-09-17_Channel 14,2,17 Sep,2026-09-17,SF+ND,NextData_Filber,Channel 14,817.0,TOGETHER,9.0,,wikipedia,,,,,,
+2026-09-17_Channel 14,2,17 Sep,2026-09-17,SF+ND,NextData_Filber,Channel 14,817.0,RZP_ZEHUT,7.0,,wikipedia,,,,,,
+2026-09-17_Channel 14,2,17 Sep,2026-09-17,SF+ND,NextData_Filber,Channel 14,817.0,OTZMA,8.0,,wikipedia,,,,,,
+2026-09-17_Channel 14,2,17 Sep,2026-09-17,SF+ND,NextData_Filber,Channel 14,817.0,BLUE_WHITE,0.0,0.4,wikipedia,,,,,,0.4
+2026-09-17_Channel 14,2,17 Sep,2026-09-17,SF+ND,NextData_Filber,Channel 14,817.0,SHAS,10.0,,wikipedia,,,,,,
+2026-09-17_Channel 14,2,17 Sep,2026-09-17,SF+ND,NextData_Filber,Channel 14,817.0,UTJ,8.0,,wikipedia,,,,,,
+2026-09-17_Channel 14,2,17 Sep,2026-09-17,SF+ND,NextData_Filber,Channel 14,817.0,YB,7.0,,wikipedia,,,,,,
+2026-09-17_Channel 14,2,17 Sep,2026-09-17,SF+ND,NextData_Filber,Channel 14,817.0,RAAM,5.0,,wikipedia,,,,,,
+2026-09-17_Channel 14,2,17 Sep,2026-09-17,SF+ND,NextData_Filber,Channel 14,817.0,JOINT,7.0,,wikipedia,,,,,,
+2026-09-17_Channel 14,2,17 Sep,2026-09-17,SF+ND,NextData_Filber,Channel 14,817.0,DEMOCRATS,8.0,,wikipedia,,,,,,
+2026-09-17_Channel 14,2,17 Sep,2026-09-17,SF+ND,NextData_Filber,Channel 14,817.0,YASHAR,20.0,,wikipedia,,,,,,
+2026-09-17_Channel 14,2,17 Sep,2026-09-17,SF+ND,NextData_Filber,Channel 14,817.0,HENDEL_ZELICHA,0.0,2.2,wikipedia,,,,,,2.2
+2026-09-17_Channel 14,2,17 Sep,2026-09-17,SF+ND,NextData_Filber,Channel 14,817.0,AMCHA,0.0,2.6,wikipedia,,,,,,2.6
+2026-09-17_Channel 14,2,17 Sep,2026-09-17,SF+ND,NextData_Filber,Channel 14,817.0,HAREDI_PUBLIC,0.0,0.3,wikipedia,,,,,,0.3
+2026-09-17_i24 News,2,17 Sep,2026-09-17,Direct Polls,DirectPolls,i24 News,519.0,LIKUD,27.0,,wikipedia,,,,,,
+2026-09-17_i24 News,2,17 Sep,2026-09-17,Direct Polls,DirectPolls,i24 News,519.0,TOGETHER,9.0,,wikipedia,,,,,,
+2026-09-17_i24 News,2,17 Sep,2026-09-17,Direct Polls,DirectPolls,i24 News,519.0,RZP_ZEHUT,6.0,,wikipedia,,,,,,
+2026-09-17_i24 News,2,17 Sep,2026-09-17,Direct Polls,DirectPolls,i24 News,519.0,OTZMA,7.0,,wikipedia,,,,,,
+2026-09-17_i24 News,2,17 Sep,2026-09-17,Direct Polls,DirectPolls,i24 News,519.0,BLUE_WHITE,0.0,1.0,wikipedia,,,,,,1.0
+2026-09-17_i24 News,2,17 Sep,2026-09-17,Direct Polls,DirectPolls,i24 News,519.0,SHAS,7.0,,wikipedia,,,,,,
+2026-09-17_i24 News,2,17 Sep,2026-09-17,Direct Polls,DirectPolls,i24 News,519.0,UTJ,8.0,,wikipedia,,,,,,
+2026-09-17_i24 News,2,17 Sep,2026-09-17,Direct Polls,DirectPolls,i24 News,519.0,YB,8.0,,wikipedia,,,,,,
+2026-09-17_i24 News,2,17 Sep,2026-09-17,Direct Polls,DirectPolls,i24 News,519.0,RAAM,5.0,,wikipedia,,,,,,
+2026-09-17_i24 News,2,17 Sep,2026-09-17,Direct Polls,DirectPolls,i24 News,519.0,JOINT,7.0,,wikipedia,,,,,,
+2026-09-17_i24 News,2,17 Sep,2026-09-17,Direct Polls,DirectPolls,i24 News,519.0,DEMOCRATS,10.0,,wikipedia,,,,,,
+2026-09-17_i24 News,2,17 Sep,2026-09-17,Direct Polls,DirectPolls,i24 News,519.0,YASHAR,21.0,,wikipedia,,,,,,
+2026-09-17_i24 News,2,17 Sep,2026-09-17,Direct Polls,DirectPolls,i24 News,519.0,HENDEL_ZELICHA,0.0,2.2,wikipedia,,,,,,2.2
+2026-09-17_i24 News,2,17 Sep,2026-09-17,Direct Polls,DirectPolls,i24 News,519.0,AMCHA,5.0,,wikipedia,,,,,,
+2026-09-17_i24 News,2,17 Sep,2026-09-17,Direct Polls,DirectPolls,i24 News,519.0,HAREDI_PUBLIC,0.0,1.0,wikipedia,,,,,,1.0
+2026-09-17_Maariv,2,16– 17 Sep,2026-09-17,LRI+P4A,Lazar_Panels,Maariv,600.0,LIKUD,18.0,,wikipedia,,,,,,
+2026-09-17_Maariv,2,16– 17 Sep,2026-09-17,LRI+P4A,Lazar_Panels,Maariv,600.0,TOGETHER,13.0,,wikipedia,,,,,,
+2026-09-17_Maariv,2,16– 17 Sep,2026-09-17,LRI+P4A,Lazar_Panels,Maariv,600.0,RZP_ZEHUT,6.0,,wikipedia,,,,,,
+2026-09-17_Maariv,2,16– 17 Sep,2026-09-17,LRI+P4A,Lazar_Panels,Maariv,600.0,OTZMA,8.0,,wikipedia,,,,,,
+2026-09-17_Maariv,2,16– 17 Sep,2026-09-17,LRI+P4A,Lazar_Panels,Maariv,600.0,BLUE_WHITE,0.0,1.1,wikipedia,,,,,,1.1
+2026-09-17_Maariv,2,16– 17 Sep,2026-09-17,LRI+P4A,Lazar_Panels,Maariv,600.0,SHAS,7.0,,wikipedia,,,,,,
+2026-09-17_Maariv,2,16– 17 Sep,2026-09-17,LRI+P4A,Lazar_Panels,Maariv,600.0,UTJ,7.0,,wikipedia,,,,,,
+2026-09-17_Maariv,2,16– 17 Sep,2026-09-17,LRI+P4A,Lazar_Panels,Maariv,600.0,YB,9.0,,wikipedia,,,,,,
+2026-09-17_Maariv,2,16– 17 Sep,2026-09-17,LRI+P4A,Lazar_Panels,Maariv,600.0,RAAM,5.0,,wikipedia,,,,,,
+2026-09-17_Maariv,2,16– 17 Sep,2026-09-17,LRI+P4A,Lazar_Panels,Maariv,600.0,JOINT,7.0,,wikipedia,,,,,,
+2026-09-17_Maariv,2,16– 17 Sep,2026-09-17,LRI+P4A,Lazar_Panels,Maariv,600.0,DEMOCRATS,9.0,,wikipedia,,,,,,
+2026-09-17_Maariv,2,16– 17 Sep,2026-09-17,LRI+P4A,Lazar_Panels,Maariv,600.0,YASHAR,23.0,,wikipedia,,,,,,
+2026-09-17_Maariv,2,16– 17 Sep,2026-09-17,LRI+P4A,Lazar_Panels,Maariv,600.0,HENDEL_ZELICHA,4.0,,wikipedia,,,,,,
+2026-09-17_Maariv,2,16– 17 Sep,2026-09-17,LRI+P4A,Lazar_Panels,Maariv,600.0,AMCHA,4.0,,wikipedia,,,,,,
+2026-09-17_Maariv,2,16– 17 Sep,2026-09-17,LRI+P4A,Lazar_Panels,Maariv,600.0,HAREDI_PUBLIC,0.0,0.6,wikipedia,,,,,,0.6
+2026-09-17_Israel Hayom,2,16– 17 Sep,2026-09-17,Kantar,Kantar,Israel Hayom,551.0,LIKUD,20.0,,wikipedia,,,,,,
+2026-09-17_Israel Hayom,2,16– 17 Sep,2026-09-17,Kantar,Kantar,Israel Hayom,551.0,TOGETHER,13.0,,wikipedia,,,,,,
+2026-09-17_Israel Hayom,2,16– 17 Sep,2026-09-17,Kantar,Kantar,Israel Hayom,551.0,RZP_ZEHUT,6.0,,wikipedia,,,,,,
+2026-09-17_Israel Hayom,2,16– 17 Sep,2026-09-17,Kantar,Kantar,Israel Hayom,551.0,OTZMA,8.0,,wikipedia,,,,,,
+2026-09-17_Israel Hayom,2,16– 17 Sep,2026-09-17,Kantar,Kantar,Israel Hayom,551.0,BLUE_WHITE,0.0,1.2,wikipedia,,,,,,1.2
+2026-09-17_Israel Hayom,2,16– 17 Sep,2026-09-17,Kantar,Kantar,Israel Hayom,551.0,SHAS,7.0,,wikipedia,,,,,,
+2026-09-17_Israel Hayom,2,16– 17 Sep,2026-09-17,Kantar,Kantar,Israel Hayom,551.0,UTJ,7.0,,wikipedia,,,,,,
+2026-09-17_Israel Hayom,2,16– 17 Sep,2026-09-17,Kantar,Kantar,Israel Hayom,551.0,YB,8.0,,wikipedia,,,,,,
+2026-09-17_Israel Hayom,2,16– 17 Sep,2026-09-17,Kantar,Kantar,Israel Hayom,551.0,RAAM,5.0,,wikipedia,,,,,,
+2026-09-17_Israel Hayom,2,16– 17 Sep,2026-09-17,Kantar,Kantar,Israel Hayom,551.0,JOINT,7.0,,wikipedia,,,,,,
+2026-09-17_Israel Hayom,2,16– 17 Sep,2026-09-17,Kantar,Kantar,Israel Hayom,551.0,DEMOCRATS,9.0,,wikipedia,,,,,,
+2026-09-17_Israel Hayom,2,16– 17 Sep,2026-09-17,Kantar,Kantar,Israel Hayom,551.0,YASHAR,22.0,,wikipedia,,,,,,
+2026-09-17_Israel Hayom,2,16– 17 Sep,2026-09-17,Kantar,Kantar,Israel Hayom,551.0,HENDEL_ZELICHA,4.0,,wikipedia,,,,,,
+2026-09-17_Israel Hayom,2,16– 17 Sep,2026-09-17,Kantar,Kantar,Israel Hayom,551.0,AMCHA,4.0,,wikipedia,,,,,,
+2026-09-17_Israel Hayom,2,16– 17 Sep,2026-09-17,Kantar,Kantar,Israel Hayom,551.0,HAREDI_PUBLIC,0.0,0.8,wikipedia,,,,,,0.8
+2026-09-17_Zman Yisrael,2,16– 17 Sep,2026-09-17,Yossi Tatika,Tatika,Zman Yisrael,500.0,LIKUD,22.0,,wikipedia,,,,,,
+2026-09-17_Zman Yisrael,2,16– 17 Sep,2026-09-17,Yossi Tatika,Tatika,Zman Yisrael,500.0,TOGETHER,14.0,,wikipedia,,,,,,
+2026-09-17_Zman Yisrael,2,16– 17 Sep,2026-09-17,Yossi Tatika,Tatika,Zman Yisrael,500.0,RZP_ZEHUT,4.0,,wikipedia,,,,,,
+2026-09-17_Zman Yisrael,2,16– 17 Sep,2026-09-17,Yossi Tatika,Tatika,Zman Yisrael,500.0,OTZMA,7.0,,wikipedia,,,,,,
+2026-09-17_Zman Yisrael,2,16– 17 Sep,2026-09-17,Yossi Tatika,Tatika,Zman Yisrael,500.0,BLUE_WHITE,0.0,2.0,wikipedia,,,,,,2.0
+2026-09-17_Zman Yisrael,2,16– 17 Sep,2026-09-17,Yossi Tatika,Tatika,Zman Yisrael,500.0,SHAS,9.0,,wikipedia,,,,,,
+2026-09-17_Zman Yisrael,2,16– 17 Sep,2026-09-17,Yossi Tatika,Tatika,Zman Yisrael,500.0,UTJ,9.0,,wikipedia,,,,,,
+2026-09-17_Zman Yisrael,2,16– 17 Sep,2026-09-17,Yossi Tatika,Tatika,Zman Yisrael,500.0,YB,9.0,,wikipedia,,,,,,
+2026-09-17_Zman Yisrael,2,16– 17 Sep,2026-09-17,Yossi Tatika,Tatika,Zman Yisrael,500.0,RAAM,6.0,,wikipedia,,,,,,
+2026-09-17_Zman Yisrael,2,16– 17 Sep,2026-09-17,Yossi Tatika,Tatika,Zman Yisrael,500.0,JOINT,8.0,,wikipedia,,,,,,
+2026-09-17_Zman Yisrael,2,16– 17 Sep,2026-09-17,Yossi Tatika,Tatika,Zman Yisrael,500.0,DEMOCRATS,8.0,,wikipedia,,,,,,
+2026-09-17_Zman Yisrael,2,16– 17 Sep,2026-09-17,Yossi Tatika,Tatika,Zman Yisrael,500.0,YASHAR,24.0,,wikipedia,,,,,,
+2026-09-17_Zman Yisrael,2,16– 17 Sep,2026-09-17,Yossi Tatika,Tatika,Zman Yisrael,500.0,HENDEL_ZELICHA,0.0,2.2,wikipedia,,,,,,2.2
+2026-09-17_Zman Yisrael,2,16– 17 Sep,2026-09-17,Yossi Tatika,Tatika,Zman Yisrael,500.0,AMCHA,0.0,3.0,wikipedia,,,,,,3.0
+2026-09-17_Zman Yisrael,2,16– 17 Sep,2026-09-17,Yossi Tatika,Tatika,Zman Yisrael,500.0,HAREDI_PUBLIC,,,wikipedia,,,,,,
+2026-09-16_Channel 16,2,16 Sep,2026-09-16,Maagar Mochot,MaagarMochot,Channel 16,500.0,LIKUD,18.0,,wikipedia,,,,,,
+2026-09-16_Channel 16,2,16 Sep,2026-09-16,Maagar Mochot,MaagarMochot,Channel 16,500.0,TOGETHER,16.0,,wikipedia,,,,,,
+2026-09-16_Channel 16,2,16 Sep,2026-09-16,Maagar Mochot,MaagarMochot,Channel 16,500.0,RZP_ZEHUT,5.0,,wikipedia,,,,,,
+2026-09-16_Channel 16,2,16 Sep,2026-09-16,Maagar Mochot,MaagarMochot,Channel 16,500.0,OTZMA,9.0,,wikipedia,,,,,,
+2026-09-16_Channel 16,2,16 Sep,2026-09-16,Maagar Mochot,MaagarMochot,Channel 16,500.0,BLUE_WHITE,,,wikipedia,,,,,,
+2026-09-16_Channel 16,2,16 Sep,2026-09-16,Maagar Mochot,MaagarMochot,Channel 16,500.0,SHAS,9.0,,wikipedia,,,,,,
+2026-09-16_Channel 16,2,16 Sep,2026-09-16,Maagar Mochot,MaagarMochot,Channel 16,500.0,UTJ,7.0,,wikipedia,,,,,,
+2026-09-16_Channel 16,2,16 Sep,2026-09-16,Maagar Mochot,MaagarMochot,Channel 16,500.0,YB,7.0,,wikipedia,,,,,,
+2026-09-16_Channel 16,2,16 Sep,2026-09-16,Maagar Mochot,MaagarMochot,Channel 16,500.0,RAAM,5.0,,wikipedia,,,,,,
+2026-09-16_Channel 16,2,16 Sep,2026-09-16,Maagar Mochot,MaagarMochot,Channel 16,500.0,JOINT,6.0,,wikipedia,,,,,,
+2026-09-16_Channel 16,2,16 Sep,2026-09-16,Maagar Mochot,MaagarMochot,Channel 16,500.0,DEMOCRATS,9.0,,wikipedia,,,,,,
+2026-09-16_Channel 16,2,16 Sep,2026-09-16,Maagar Mochot,MaagarMochot,Channel 16,500.0,YASHAR,21.0,,wikipedia,,,,,,
+2026-09-16_Channel 16,2,16 Sep,2026-09-16,Maagar Mochot,MaagarMochot,Channel 16,500.0,HENDEL_ZELICHA,4.0,,wikipedia,,,,,,
+2026-09-16_Channel 16,2,16 Sep,2026-09-16,Maagar Mochot,MaagarMochot,Channel 16,500.0,AMCHA,4.0,,wikipedia,,,,,,
+2026-09-16_Channel 16,2,16 Sep,2026-09-16,Maagar Mochot,MaagarMochot,Channel 16,500.0,HAREDI_PUBLIC,,,wikipedia,,,,,,
+2026-09-15_Channel 13,2,15 Sep,2026-09-15,MP+TM+SN+A,Ch13_Madad2026,Channel 13,886.0,LIKUD,18.0,,wikipedia,,,,,,
+2026-09-15_Channel 13,2,15 Sep,2026-09-15,MP+TM+SN+A,Ch13_Madad2026,Channel 13,886.0,TOGETHER,12.0,,wikipedia,,,,,,
+2026-09-15_Channel 13,2,15 Sep,2026-09-15,MP+TM+SN+A,Ch13_Madad2026,Channel 13,886.0,RZP_ZEHUT,8.0,,wikipedia,,,,,,
+2026-09-15_Channel 13,2,15 Sep,2026-09-15,MP+TM+SN+A,Ch13_Madad2026,Channel 13,886.0,OTZMA,8.0,,wikipedia,,,,,,
+2026-09-15_Channel 13,2,15 Sep,2026-09-15,MP+TM+SN+A,Ch13_Madad2026,Channel 13,886.0,BLUE_WHITE,0.0,0.8,wikipedia,,,,,,0.8
+2026-09-15_Channel 13,2,15 Sep,2026-09-15,MP+TM+SN+A,Ch13_Madad2026,Channel 13,886.0,SHAS,7.0,,wikipedia,,,,,,
+2026-09-15_Channel 13,2,15 Sep,2026-09-15,MP+TM+SN+A,Ch13_Madad2026,Channel 13,886.0,UTJ,7.0,,wikipedia,,,,,,
+2026-09-15_Channel 13,2,15 Sep,2026-09-15,MP+TM+SN+A,Ch13_Madad2026,Channel 13,886.0,YB,8.0,,wikipedia,,,,,,
+2026-09-15_Channel 13,2,15 Sep,2026-09-15,MP+TM+SN+A,Ch13_Madad2026,Channel 13,886.0,RAAM,6.0,,wikipedia,,,,,,
+2026-09-15_Channel 13,2,15 Sep,2026-09-15,MP+TM+SN+A,Ch13_Madad2026,Channel 13,886.0,JOINT,8.0,,wikipedia,,,,,,
+2026-09-15_Channel 13,2,15 Sep,2026-09-15,MP+TM+SN+A,Ch13_Madad2026,Channel 13,886.0,DEMOCRATS,10.0,,wikipedia,,,,,,
+2026-09-15_Channel 13,2,15 Sep,2026-09-15,MP+TM+SN+A,Ch13_Madad2026,Channel 13,886.0,YASHAR,22.0,,wikipedia,,,,,,
+2026-09-15_Channel 13,2,15 Sep,2026-09-15,MP+TM+SN+A,Ch13_Madad2026,Channel 13,886.0,HENDEL_ZELICHA,0.0,3.1,wikipedia,,,,,,3.1
+2026-09-15_Channel 13,2,15 Sep,2026-09-15,MP+TM+SN+A,Ch13_Madad2026,Channel 13,886.0,AMCHA,6.0,,wikipedia,,,,,,
+2026-09-15_Channel 13,2,15 Sep,2026-09-15,MP+TM+SN+A,Ch13_Madad2026,Channel 13,886.0,HAREDI_PUBLIC,0.0,1.8,wikipedia,,,,,,1.8
+2026-09-15_Channel 14,2,15 Sep,2026-09-15,SF+ND,NextData_Filber,Channel 14,483.0,LIKUD,30.0,,wikipedia,,,,,,
+2026-09-15_Channel 14,2,15 Sep,2026-09-15,SF+ND,NextData_Filber,Channel 14,483.0,TOGETHER,8.0,,wikipedia,,,,,,
+2026-09-15_Channel 14,2,15 Sep,2026-09-15,SF+ND,NextData_Filber,Channel 14,483.0,RZP_ZEHUT,8.0,,wikipedia,,,,,,
+2026-09-15_Channel 14,2,15 Sep,2026-09-15,SF+ND,NextData_Filber,Channel 14,483.0,OTZMA,8.0,,wikipedia,,,,,,
+2026-09-15_Channel 14,2,15 Sep,2026-09-15,SF+ND,NextData_Filber,Channel 14,483.0,BLUE_WHITE,0.0,0.4,wikipedia,,,,,,0.4
+2026-09-15_Channel 14,2,15 Sep,2026-09-15,SF+ND,NextData_Filber,Channel 14,483.0,SHAS,10.0,,wikipedia,,,,,,
+2026-09-15_Channel 14,2,15 Sep,2026-09-15,SF+ND,NextData_Filber,Channel 14,483.0,UTJ,8.0,,wikipedia,,,,,,
+2026-09-15_Channel 14,2,15 Sep,2026-09-15,SF+ND,NextData_Filber,Channel 14,483.0,YB,6.0,,wikipedia,,,,,,
+2026-09-15_Channel 14,2,15 Sep,2026-09-15,SF+ND,NextData_Filber,Channel 14,483.0,RAAM,5.0,,wikipedia,,,,,,
+2026-09-15_Channel 14,2,15 Sep,2026-09-15,SF+ND,NextData_Filber,Channel 14,483.0,JOINT,7.0,,wikipedia,,,,,,
+2026-09-15_Channel 14,2,15 Sep,2026-09-15,SF+ND,NextData_Filber,Channel 14,483.0,DEMOCRATS,9.0,,wikipedia,,,,,,
+2026-09-15_Channel 14,2,15 Sep,2026-09-15,SF+ND,NextData_Filber,Channel 14,483.0,YASHAR,21.0,,wikipedia,,,,,,
+2026-09-15_Channel 14,2,15 Sep,2026-09-15,SF+ND,NextData_Filber,Channel 14,483.0,HENDEL_ZELICHA,0.0,2.1,wikipedia,,,,,,2.1
+2026-09-15_Channel 14,2,15 Sep,2026-09-15,SF+ND,NextData_Filber,Channel 14,483.0,AMCHA,0.0,2.3,wikipedia,,,,,,2.3
+2026-09-15_Channel 14,2,15 Sep,2026-09-15,SF+ND,NextData_Filber,Channel 14,483.0,HAREDI_PUBLIC,0.0,0.2,wikipedia,,,,,,0.2
+2026-09-14_HaHadashot 12,2,14 Sep,2026-09-14,Midgam R&C,Midgam,HaHadashot 12,,LIKUD,20.0,,wikipedia,,,,,,
+2026-09-14_HaHadashot 12,2,14 Sep,2026-09-14,Midgam R&C,Midgam,HaHadashot 12,,TOGETHER,13.0,,wikipedia,,,,,,
+2026-09-14_HaHadashot 12,2,14 Sep,2026-09-14,Midgam R&C,Midgam,HaHadashot 12,,RZP_ZEHUT,5.0,,wikipedia,,,,,,
+2026-09-14_HaHadashot 12,2,14 Sep,2026-09-14,Midgam R&C,Midgam,HaHadashot 12,,OTZMA,6.0,,wikipedia,,,,,,
+2026-09-14_HaHadashot 12,2,14 Sep,2026-09-14,Midgam R&C,Midgam,HaHadashot 12,,BLUE_WHITE,0.0,0.5,wikipedia,,,,,,0.5
+2026-09-14_HaHadashot 12,2,14 Sep,2026-09-14,Midgam R&C,Midgam,HaHadashot 12,,SHAS,7.0,,wikipedia,,,,,,
+2026-09-14_HaHadashot 12,2,14 Sep,2026-09-14,Midgam R&C,Midgam,HaHadashot 12,,UTJ,8.0,,wikipedia,,,,,,
+2026-09-14_HaHadashot 12,2,14 Sep,2026-09-14,Midgam R&C,Midgam,HaHadashot 12,,YB,8.0,,wikipedia,,,,,,
+2026-09-14_HaHadashot 12,2,14 Sep,2026-09-14,Midgam R&C,Midgam,HaHadashot 12,,RAAM,4.0,,wikipedia,,,,,,
+2026-09-14_HaHadashot 12,2,14 Sep,2026-09-14,Midgam R&C,Midgam,HaHadashot 12,,JOINT,8.0,,wikipedia,,,,,,
+2026-09-14_HaHadashot 12,2,14 Sep,2026-09-14,Midgam R&C,Midgam,HaHadashot 12,,DEMOCRATS,10.0,,wikipedia,,,,,,
+2026-09-14_HaHadashot 12,2,14 Sep,2026-09-14,Midgam R&C,Midgam,HaHadashot 12,,YASHAR,23.0,,wikipedia,,,,,,
+2026-09-14_HaHadashot 12,2,14 Sep,2026-09-14,Midgam R&C,Midgam,HaHadashot 12,,HENDEL_ZELICHA,4.0,,wikipedia,,,,,,
+2026-09-14_HaHadashot 12,2,14 Sep,2026-09-14,Midgam R&C,Midgam,HaHadashot 12,,AMCHA,4.0,,wikipedia,,,,,,
+2026-09-14_HaHadashot 12,2,14 Sep,2026-09-14,Midgam R&C,Midgam,HaHadashot 12,,HAREDI_PUBLIC,,,wikipedia,,,,,,
+2026-09-14_Kan 11,2,14 Sep,2026-09-14,Kantar,Kantar,Kan 11,,LIKUD,20.0,,wikipedia,,,,,,
+2026-09-14_Kan 11,2,14 Sep,2026-09-14,Kantar,Kantar,Kan 11,,TOGETHER,12.0,,wikipedia,,,,,,
+2026-09-14_Kan 11,2,14 Sep,2026-09-14,Kantar,Kantar,Kan 11,,RZP_ZEHUT,6.0,,wikipedia,,,,,,
+2026-09-14_Kan 11,2,14 Sep,2026-09-14,Kantar,Kantar,Kan 11,,OTZMA,8.0,,wikipedia,,,,,,
+2026-09-14_Kan 11,2,14 Sep,2026-09-14,Kantar,Kantar,Kan 11,,BLUE_WHITE,,,wikipedia,,,,,,
+2026-09-14_Kan 11,2,14 Sep,2026-09-14,Kantar,Kantar,Kan 11,,SHAS,7.0,,wikipedia,,,,,,
+2026-09-14_Kan 11,2,14 Sep,2026-09-14,Kantar,Kantar,Kan 11,,UTJ,7.0,,wikipedia,,,,,,
+2026-09-14_Kan 11,2,14 Sep,2026-09-14,Kantar,Kantar,Kan 11,,YB,8.0,,wikipedia,,,,,,
+2026-09-14_Kan 11,2,14 Sep,2026-09-14,Kantar,Kantar,Kan 11,,RAAM,5.0,,wikipedia,,,,,,
+2026-09-14_Kan 11,2,14 Sep,2026-09-14,Kantar,Kantar,Kan 11,,JOINT,7.0,,wikipedia,,,,,,
+2026-09-14_Kan 11,2,14 Sep,2026-09-14,Kantar,Kantar,Kan 11,,DEMOCRATS,8.0,,wikipedia,,,,,,
+2026-09-14_Kan 11,2,14 Sep,2026-09-14,Kantar,Kantar,Kan 11,,YASHAR,24.0,,wikipedia,,,,,,
+2026-09-14_Kan 11,2,14 Sep,2026-09-14,Kantar,Kantar,Kan 11,,HENDEL_ZELICHA,4.0,,wikipedia,,,,,,
+2026-09-14_Kan 11,2,14 Sep,2026-09-14,Kantar,Kantar,Kan 11,,AMCHA,4.0,,wikipedia,,,,,,
+2026-09-14_Kan 11,2,14 Sep,2026-09-14,Kantar,Kantar,Kan 11,,HAREDI_PUBLIC,,,wikipedia,,,,,,
+2026-09-10_Maariv,2,9– 10 Sep,2026-09-10,LRI+P4A,Lazar_Panels,Maariv,601.0,LIKUD,19.0,,wikipedia,,,,,,
+2026-09-10_Maariv,2,9– 10 Sep,2026-09-10,LRI+P4A,Lazar_Panels,Maariv,601.0,TOGETHER,14.0,,wikipedia,,,,,,
+2026-09-10_Maariv,2,9– 10 Sep,2026-09-10,LRI+P4A,Lazar_Panels,Maariv,601.0,RZP_ZEHUT,5.0,,wikipedia,,,,,,
+2026-09-10_Maariv,2,9– 10 Sep,2026-09-10,LRI+P4A,Lazar_Panels,Maariv,601.0,OTZMA,8.0,,wikipedia,,,,,,
+2026-09-10_Maariv,2,9– 10 Sep,2026-09-10,LRI+P4A,Lazar_Panels,Maariv,601.0,BLUE_WHITE,0.0,1.1,wikipedia,,,,,,1.1
+2026-09-10_Maariv,2,9– 10 Sep,2026-09-10,LRI+P4A,Lazar_Panels,Maariv,601.0,SHAS,7.0,,wikipedia,,,,,,
+2026-09-10_Maariv,2,9– 10 Sep,2026-09-10,LRI+P4A,Lazar_Panels,Maariv,601.0,UTJ,7.0,,wikipedia,,,,,,
+2026-09-10_Maariv,2,9– 10 Sep,2026-09-10,LRI+P4A,Lazar_Panels,Maariv,601.0,YB,9.0,,wikipedia,,,,,,
+2026-09-10_Maariv,2,9– 10 Sep,2026-09-10,LRI+P4A,Lazar_Panels,Maariv,601.0,RAAM,5.0,,wikipedia,,,,,,
+2026-09-10_Maariv,2,9– 10 Sep,2026-09-10,LRI+P4A,Lazar_Panels,Maariv,601.0,JOINT,7.0,,wikipedia,,,,,,
+2026-09-10_Maariv,2,9– 10 Sep,2026-09-10,LRI+P4A,Lazar_Panels,Maariv,601.0,DEMOCRATS,10.0,,wikipedia,,,,,,
+2026-09-10_Maariv,2,9– 10 Sep,2026-09-10,LRI+P4A,Lazar_Panels,Maariv,601.0,YASHAR,25.0,,wikipedia,,,,,,
+2026-09-10_Maariv,2,9– 10 Sep,2026-09-10,LRI+P4A,Lazar_Panels,Maariv,601.0,HENDEL_ZELICHA,0.0,3.0,wikipedia,,,,,,3.0
+2026-09-10_Maariv,2,9– 10 Sep,2026-09-10,LRI+P4A,Lazar_Panels,Maariv,601.0,AMCHA,4.0,,wikipedia,,,,,,
+2026-09-10_Maariv,2,9– 10 Sep,2026-09-10,LRI+P4A,Lazar_Panels,Maariv,601.0,HAREDI_PUBLIC,0.0,0.4,wikipedia,,,,,,0.4
+2026-09-10_Zman Yisrael,2,9– 10 Sep,2026-09-10,Yossi Tatika,Tatika,Zman Yisrael,500.0,LIKUD,23.0,,wikipedia,,,,,,
+2026-09-10_Zman Yisrael,2,9– 10 Sep,2026-09-10,Yossi Tatika,Tatika,Zman Yisrael,500.0,TOGETHER,15.0,,wikipedia,,,,,,
+2026-09-10_Zman Yisrael,2,9– 10 Sep,2026-09-10,Yossi Tatika,Tatika,Zman Yisrael,500.0,RZP_ZEHUT,4.0,,wikipedia,,,,,,
+2026-09-10_Zman Yisrael,2,9– 10 Sep,2026-09-10,Yossi Tatika,Tatika,Zman Yisrael,500.0,OTZMA,6.0,,wikipedia,,,,,,
+2026-09-10_Zman Yisrael,2,9– 10 Sep,2026-09-10,Yossi Tatika,Tatika,Zman Yisrael,500.0,BLUE_WHITE,0.0,1.4,wikipedia,,,,,,1.4
+2026-09-10_Zman Yisrael,2,9– 10 Sep,2026-09-10,Yossi Tatika,Tatika,Zman Yisrael,500.0,SHAS,10.0,,wikipedia,,,,,,
+2026-09-10_Zman Yisrael,2,9– 10 Sep,2026-09-10,Yossi Tatika,Tatika,Zman Yisrael,500.0,UTJ,9.0,,wikipedia,,,,,,
+2026-09-10_Zman Yisrael,2,9– 10 Sep,2026-09-10,Yossi Tatika,Tatika,Zman Yisrael,500.0,YB,10.0,,wikipedia,,,,,,
+2026-09-10_Zman Yisrael,2,9– 10 Sep,2026-09-10,Yossi Tatika,Tatika,Zman Yisrael,500.0,RAAM,5.0,,wikipedia,,,,,,
+2026-09-10_Zman Yisrael,2,9– 10 Sep,2026-09-10,Yossi Tatika,Tatika,Zman Yisrael,500.0,JOINT,7.0,,wikipedia,,,,,,
+2026-09-10_Zman Yisrael,2,9– 10 Sep,2026-09-10,Yossi Tatika,Tatika,Zman Yisrael,500.0,DEMOCRATS,8.0,,wikipedia,,,,,,
+2026-09-10_Zman Yisrael,2,9– 10 Sep,2026-09-10,Yossi Tatika,Tatika,Zman Yisrael,500.0,YASHAR,23.0,,wikipedia,,,,,,
+2026-09-10_Zman Yisrael,2,9– 10 Sep,2026-09-10,Yossi Tatika,Tatika,Zman Yisrael,500.0,HENDEL_ZELICHA,0.0,2.8,wikipedia,,,,,,2.8
+2026-09-10_Zman Yisrael,2,9– 10 Sep,2026-09-10,Yossi Tatika,Tatika,Zman Yisrael,500.0,AMCHA,0.0,2.8,wikipedia,,,,,,2.8
+2026-09-10_Zman Yisrael,2,9– 10 Sep,2026-09-10,Yossi Tatika,Tatika,Zman Yisrael,500.0,HAREDI_PUBLIC,,,wikipedia,,,,,,
+2026-09-09_Channel 16,2,9 Sep,2026-09-09,Maagar Mochot,MaagarMochot,Channel 16,,LIKUD,20.0,,wikipedia,,,,,,
+2026-09-09_Channel 16,2,9 Sep,2026-09-09,Maagar Mochot,MaagarMochot,Channel 16,,TOGETHER,16.0,,wikipedia,,,,,,
+2026-09-09_Channel 16,2,9 Sep,2026-09-09,Maagar Mochot,MaagarMochot,Channel 16,,RZP_ZEHUT,4.0,,wikipedia,,,,,,
+2026-09-09_Channel 16,2,9 Sep,2026-09-09,Maagar Mochot,MaagarMochot,Channel 16,,OTZMA,9.0,,wikipedia,,,,,,
+2026-09-09_Channel 16,2,9 Sep,2026-09-09,Maagar Mochot,MaagarMochot,Channel 16,,BLUE_WHITE,0.0,1.0,wikipedia,,,,,,1.0
+2026-09-09_Channel 16,2,9 Sep,2026-09-09,Maagar Mochot,MaagarMochot,Channel 16,,SHAS,9.0,,wikipedia,,,,,,
+2026-09-09_Channel 16,2,9 Sep,2026-09-09,Maagar Mochot,MaagarMochot,Channel 16,,UTJ,7.0,,wikipedia,,,,,,
+2026-09-09_Channel 16,2,9 Sep,2026-09-09,Maagar Mochot,MaagarMochot,Channel 16,,YB,7.0,,wikipedia,,,,,,
+2026-09-09_Channel 16,2,9 Sep,2026-09-09,Maagar Mochot,MaagarMochot,Channel 16,,RAAM,5.0,,wikipedia,,,,,,
+2026-09-09_Channel 16,2,9 Sep,2026-09-09,Maagar Mochot,MaagarMochot,Channel 16,,JOINT,7.0,,wikipedia,,,,,,
+2026-09-09_Channel 16,2,9 Sep,2026-09-09,Maagar Mochot,MaagarMochot,Channel 16,,DEMOCRATS,9.0,,wikipedia,,,,,,
+2026-09-09_Channel 16,2,9 Sep,2026-09-09,Maagar Mochot,MaagarMochot,Channel 16,,YASHAR,23.0,,wikipedia,,,,,,
+2026-09-09_Channel 16,2,9 Sep,2026-09-09,Maagar Mochot,MaagarMochot,Channel 16,,HENDEL_ZELICHA,0.0,2.0,wikipedia,,,,,,2.0
+2026-09-09_Channel 16,2,9 Sep,2026-09-09,Maagar Mochot,MaagarMochot,Channel 16,,AMCHA,4.0,,wikipedia,,,,,,
+2026-09-09_Channel 16,2,9 Sep,2026-09-09,Maagar Mochot,MaagarMochot,Channel 16,,HAREDI_PUBLIC,0.0,0.7,wikipedia,,,,,,0.7
+2026-09-09_Channel 13,2,9 Sep,2026-09-09,MP+TM+SN+A,Ch13_Madad2026,Channel 13,1119.0,LIKUD,19.0,,wikipedia,,,,,,
+2026-09-09_Channel 13,2,9 Sep,2026-09-09,MP+TM+SN+A,Ch13_Madad2026,Channel 13,1119.0,TOGETHER,13.0,,wikipedia,,,,,,
+2026-09-09_Channel 13,2,9 Sep,2026-09-09,MP+TM+SN+A,Ch13_Madad2026,Channel 13,1119.0,RZP_ZEHUT,6.0,,wikipedia,,,,,,
+2026-09-09_Channel 13,2,9 Sep,2026-09-09,MP+TM+SN+A,Ch13_Madad2026,Channel 13,1119.0,OTZMA,9.0,,wikipedia,,,,,,
+2026-09-09_Channel 13,2,9 Sep,2026-09-09,MP+TM+SN+A,Ch13_Madad2026,Channel 13,1119.0,BLUE_WHITE,0.0,1.1,wikipedia,,,,,,1.1
+2026-09-09_Channel 13,2,9 Sep,2026-09-09,MP+TM+SN+A,Ch13_Madad2026,Channel 13,1119.0,SHAS,7.0,,wikipedia,,,,,,
+2026-09-09_Channel 13,2,9 Sep,2026-09-09,MP+TM+SN+A,Ch13_Madad2026,Channel 13,1119.0,UTJ,8.0,,wikipedia,,,,,,
+2026-09-09_Channel 13,2,9 Sep,2026-09-09,MP+TM+SN+A,Ch13_Madad2026,Channel 13,1119.0,YB,8.0,,wikipedia,,,,,,
+2026-09-09_Channel 13,2,9 Sep,2026-09-09,MP+TM+SN+A,Ch13_Madad2026,Channel 13,1119.0,RAAM,6.0,,wikipedia,,,,,,
+2026-09-09_Channel 13,2,9 Sep,2026-09-09,MP+TM+SN+A,Ch13_Madad2026,Channel 13,1119.0,JOINT,8.0,,wikipedia,,,,,,
+2026-09-09_Channel 13,2,9 Sep,2026-09-09,MP+TM+SN+A,Ch13_Madad2026,Channel 13,1119.0,DEMOCRATS,10.0,,wikipedia,,,,,,
+2026-09-09_Channel 13,2,9 Sep,2026-09-09,MP+TM+SN+A,Ch13_Madad2026,Channel 13,1119.0,YASHAR,22.0,,wikipedia,,,,,,
+2026-09-09_Channel 13,2,9 Sep,2026-09-09,MP+TM+SN+A,Ch13_Madad2026,Channel 13,1119.0,HENDEL_ZELICHA,0.0,3.2,wikipedia,,,,,,3.2
+2026-09-09_Channel 13,2,9 Sep,2026-09-09,MP+TM+SN+A,Ch13_Madad2026,Channel 13,1119.0,AMCHA,4.0,,wikipedia,,,,,,
+2026-09-09_Channel 13,2,9 Sep,2026-09-09,MP+TM+SN+A,Ch13_Madad2026,Channel 13,1119.0,HAREDI_PUBLIC,0.0,1.1,wikipedia,,,,,,1.1
+2026-09-09_i24 News,2,9 Sep,2026-09-09,Direct Polls,DirectPolls,i24 News,1054.0,LIKUD,27.0,,wikipedia,,,,,,
+2026-09-09_i24 News,2,9 Sep,2026-09-09,Direct Polls,DirectPolls,i24 News,1054.0,TOGETHER,10.0,,wikipedia,,,,,,
+2026-09-09_i24 News,2,9 Sep,2026-09-09,Direct Polls,DirectPolls,i24 News,1054.0,RZP_ZEHUT,6.0,,wikipedia,,,,,,
+2026-09-09_i24 News,2,9 Sep,2026-09-09,Direct Polls,DirectPolls,i24 News,1054.0,OTZMA,8.0,,wikipedia,,,,,,
+2026-09-09_i24 News,2,9 Sep,2026-09-09,Direct Polls,DirectPolls,i24 News,1054.0,BLUE_WHITE,0.0,1.1,wikipedia,,,,,,1.1
+2026-09-09_i24 News,2,9 Sep,2026-09-09,Direct Polls,DirectPolls,i24 News,1054.0,SHAS,7.0,,wikipedia,,,,,,
+2026-09-09_i24 News,2,9 Sep,2026-09-09,Direct Polls,DirectPolls,i24 News,1054.0,UTJ,8.0,,wikipedia,,,,,,
+2026-09-09_i24 News,2,9 Sep,2026-09-09,Direct Polls,DirectPolls,i24 News,1054.0,YB,7.0,,wikipedia,,,,,,
+2026-09-09_i24 News,2,9 Sep,2026-09-09,Direct Polls,DirectPolls,i24 News,1054.0,RAAM,5.0,,wikipedia,,,,,,
+2026-09-09_i24 News,2,9 Sep,2026-09-09,Direct Polls,DirectPolls,i24 News,1054.0,JOINT,7.0,,wikipedia,,,,,,
+2026-09-09_i24 News,2,9 Sep,2026-09-09,Direct Polls,DirectPolls,i24 News,1054.0,DEMOCRATS,9.0,,wikipedia,,,,,,
+2026-09-09_i24 News,2,9 Sep,2026-09-09,Direct Polls,DirectPolls,i24 News,1054.0,YASHAR,22.0,,wikipedia,,,,,,
+2026-09-09_i24 News,2,9 Sep,2026-09-09,Direct Polls,DirectPolls,i24 News,1054.0,HENDEL_ZELICHA,0.0,1.4,wikipedia,,,,,,1.4
+2026-09-09_i24 News,2,9 Sep,2026-09-09,Direct Polls,DirectPolls,i24 News,1054.0,AMCHA,4.0,,wikipedia,,,,,,
+2026-09-09_i24 News,2,9 Sep,2026-09-09,Direct Polls,DirectPolls,i24 News,1054.0,HAREDI_PUBLIC,0.0,1.0,wikipedia,,,,,,1.0
+2026-09-09_Channel 14,2,9 Sep,2026-09-09,SF+ND,NextData_Filber,Channel 14,537.0,LIKUD,31.0,,wikipedia,,,,,,
+2026-09-09_Channel 14,2,9 Sep,2026-09-09,SF+ND,NextData_Filber,Channel 14,537.0,TOGETHER,7.0,,wikipedia,,,,,,
+2026-09-09_Channel 14,2,9 Sep,2026-09-09,SF+ND,NextData_Filber,Channel 14,537.0,RZP_ZEHUT,8.0,,wikipedia,,,,,,
+2026-09-09_Channel 14,2,9 Sep,2026-09-09,SF+ND,NextData_Filber,Channel 14,537.0,OTZMA,8.0,,wikipedia,,,,,,
+2026-09-09_Channel 14,2,9 Sep,2026-09-09,SF+ND,NextData_Filber,Channel 14,537.0,BLUE_WHITE,0.0,0.2,wikipedia,,,,,,0.2
+2026-09-09_Channel 14,2,9 Sep,2026-09-09,SF+ND,NextData_Filber,Channel 14,537.0,SHAS,10.0,,wikipedia,,,,,,
+2026-09-09_Channel 14,2,9 Sep,2026-09-09,SF+ND,NextData_Filber,Channel 14,537.0,UTJ,7.0,,wikipedia,,,,,,
+2026-09-09_Channel 14,2,9 Sep,2026-09-09,SF+ND,NextData_Filber,Channel 14,537.0,YB,7.0,,wikipedia,,,,,,
+2026-09-09_Channel 14,2,9 Sep,2026-09-09,SF+ND,NextData_Filber,Channel 14,537.0,RAAM,6.0,,wikipedia,,,,,,
+2026-09-09_Channel 14,2,9 Sep,2026-09-09,SF+ND,NextData_Filber,Channel 14,537.0,JOINT,6.0,,wikipedia,,,,,,
+2026-09-09_Channel 14,2,9 Sep,2026-09-09,SF+ND,NextData_Filber,Channel 14,537.0,DEMOCRATS,8.0,,wikipedia,,,,,,
+2026-09-09_Channel 14,2,9 Sep,2026-09-09,SF+ND,NextData_Filber,Channel 14,537.0,YASHAR,22.0,,wikipedia,,,,,,
+2026-09-09_Channel 14,2,9 Sep,2026-09-09,SF+ND,NextData_Filber,Channel 14,537.0,HENDEL_ZELICHA,0.0,1.4,wikipedia,,,,,,1.4
+2026-09-09_Channel 14,2,9 Sep,2026-09-09,SF+ND,NextData_Filber,Channel 14,537.0,AMCHA,0.0,2.1,wikipedia,,,,,,2.1
+2026-09-09_Channel 14,2,9 Sep,2026-09-09,SF+ND,NextData_Filber,Channel 14,537.0,HAREDI_PUBLIC,0.0,0.1,wikipedia,,,,,,0.1
+2026-09-09_Walla,2,9 Sep,2026-09-09,LRI+P4A,Lazar_Panels,Walla,506.0,LIKUD,21.0,,wikipedia,,,,,,
+2026-09-09_Walla,2,9 Sep,2026-09-09,LRI+P4A,Lazar_Panels,Walla,506.0,TOGETHER,14.0,,wikipedia,,,,,,
+2026-09-09_Walla,2,9 Sep,2026-09-09,LRI+P4A,Lazar_Panels,Walla,506.0,RZP_ZEHUT,5.0,,wikipedia,,,,,,
+2026-09-09_Walla,2,9 Sep,2026-09-09,LRI+P4A,Lazar_Panels,Walla,506.0,OTZMA,7.0,,wikipedia,,,,,,
+2026-09-09_Walla,2,9 Sep,2026-09-09,LRI+P4A,Lazar_Panels,Walla,506.0,BLUE_WHITE,0.0,0.9,wikipedia,,,,,,0.9
+2026-09-09_Walla,2,9 Sep,2026-09-09,LRI+P4A,Lazar_Panels,Walla,506.0,SHAS,7.0,,wikipedia,,,,,,
+2026-09-09_Walla,2,9 Sep,2026-09-09,LRI+P4A,Lazar_Panels,Walla,506.0,UTJ,7.0,,wikipedia,,,,,,
+2026-09-09_Walla,2,9 Sep,2026-09-09,LRI+P4A,Lazar_Panels,Walla,506.0,YB,9.0,,wikipedia,,,,,,
+2026-09-09_Walla,2,9 Sep,2026-09-09,LRI+P4A,Lazar_Panels,Walla,506.0,RAAM,5.0,,wikipedia,,,,,,
+2026-09-09_Walla,2,9 Sep,2026-09-09,LRI+P4A,Lazar_Panels,Walla,506.0,JOINT,7.0,,wikipedia,,,,,,
+2026-09-09_Walla,2,9 Sep,2026-09-09,LRI+P4A,Lazar_Panels,Walla,506.0,DEMOCRATS,9.0,,wikipedia,,,,,,
+2026-09-09_Walla,2,9 Sep,2026-09-09,LRI+P4A,Lazar_Panels,Walla,506.0,YASHAR,25.0,,wikipedia,,,,,,
+2026-09-09_Walla,2,9 Sep,2026-09-09,LRI+P4A,Lazar_Panels,Walla,506.0,HENDEL_ZELICHA,0.0,2.8,wikipedia,,,,,,2.8
+2026-09-09_Walla,2,9 Sep,2026-09-09,LRI+P4A,Lazar_Panels,Walla,506.0,AMCHA,4.0,,wikipedia,,,,,,
+2026-09-09_Walla,2,9 Sep,2026-09-09,LRI+P4A,Lazar_Panels,Walla,506.0,HAREDI_PUBLIC,0.0,0.2,wikipedia,,,,,,0.2
+2026-09-09_Kan 11,2,9 Sep,2026-09-09,Kantar,Kantar,Kan 11,554.0,LIKUD,21.0,,wikipedia,,,,,,
+2026-09-09_Kan 11,2,9 Sep,2026-09-09,Kantar,Kantar,Kan 11,554.0,TOGETHER,12.0,,wikipedia,,,,,,
+2026-09-09_Kan 11,2,9 Sep,2026-09-09,Kantar,Kantar,Kan 11,554.0,RZP_ZEHUT,5.0,,wikipedia,,,,,,
+2026-09-09_Kan 11,2,9 Sep,2026-09-09,Kantar,Kantar,Kan 11,554.0,OTZMA,7.0,,wikipedia,,,,,,
+2026-09-09_Kan 11,2,9 Sep,2026-09-09,Kantar,Kantar,Kan 11,554.0,BLUE_WHITE,0.0,0.8,wikipedia,,,,,,0.8
+2026-09-09_Kan 11,2,9 Sep,2026-09-09,Kantar,Kantar,Kan 11,554.0,SHAS,7.0,,wikipedia,,,,,,
+2026-09-09_Kan 11,2,9 Sep,2026-09-09,Kantar,Kantar,Kan 11,554.0,UTJ,8.0,,wikipedia,,,,,,
+2026-09-09_Kan 11,2,9 Sep,2026-09-09,Kantar,Kantar,Kan 11,554.0,YB,7.0,,wikipedia,,,,,,
+2026-09-09_Kan 11,2,9 Sep,2026-09-09,Kantar,Kantar,Kan 11,554.0,RAAM,5.0,,wikipedia,,,,,,
+2026-09-09_Kan 11,2,9 Sep,2026-09-09,Kantar,Kantar,Kan 11,554.0,JOINT,7.0,,wikipedia,,,,,,
+2026-09-09_Kan 11,2,9 Sep,2026-09-09,Kantar,Kantar,Kan 11,554.0,DEMOCRATS,9.0,,wikipedia,,,,,,
+2026-09-09_Kan 11,2,9 Sep,2026-09-09,Kantar,Kantar,Kan 11,554.0,YASHAR,24.0,,wikipedia,,,,,,
+2026-09-09_Kan 11,2,9 Sep,2026-09-09,Kantar,Kantar,Kan 11,554.0,HENDEL_ZELICHA,4.0,,wikipedia,,,,,,
+2026-09-09_Kan 11,2,9 Sep,2026-09-09,Kantar,Kantar,Kan 11,554.0,AMCHA,4.0,,wikipedia,,,,,,
+2026-09-09_Kan 11,2,9 Sep,2026-09-09,Kantar,Kantar,Kan 11,554.0,HAREDI_PUBLIC,0.0,0.9,wikipedia,,,,,,0.9
+2026-09-09_HaHadashot 12,2,9 Sep,2026-09-09,Midgam R&C,Midgam,HaHadashot 12,504.0,LIKUD,21.0,,wikipedia,,,,,,
+2026-09-09_HaHadashot 12,2,9 Sep,2026-09-09,Midgam R&C,Midgam,HaHadashot 12,504.0,TOGETHER,13.0,,wikipedia,,,,,,
+2026-09-09_HaHadashot 12,2,9 Sep,2026-09-09,Midgam R&C,Midgam,HaHadashot 12,504.0,RZP_ZEHUT,5.0,,wikipedia,,,,,,
+2026-09-09_HaHadashot 12,2,9 Sep,2026-09-09,Midgam R&C,Midgam,HaHadashot 12,504.0,OTZMA,6.0,,wikipedia,,,,,,
+2026-09-09_HaHadashot 12,2,9 Sep,2026-09-09,Midgam R&C,Midgam,HaHadashot 12,504.0,BLUE_WHITE,0.0,1.4,wikipedia,,,,,,1.4
+2026-09-09_HaHadashot 12,2,9 Sep,2026-09-09,Midgam R&C,Midgam,HaHadashot 12,504.0,SHAS,7.0,,wikipedia,,,,,,
+2026-09-09_HaHadashot 12,2,9 Sep,2026-09-09,Midgam R&C,Midgam,HaHadashot 12,504.0,UTJ,8.0,,wikipedia,,,,,,
+2026-09-09_HaHadashot 12,2,9 Sep,2026-09-09,Midgam R&C,Midgam,HaHadashot 12,504.0,YB,9.0,,wikipedia,,,,,,
+2026-09-09_HaHadashot 12,2,9 Sep,2026-09-09,Midgam R&C,Midgam,HaHadashot 12,504.0,RAAM,4.0,,wikipedia,,,,,,
+2026-09-09_HaHadashot 12,2,9 Sep,2026-09-09,Midgam R&C,Midgam,HaHadashot 12,504.0,JOINT,7.0,,wikipedia,,,,,,
+2026-09-09_HaHadashot 12,2,9 Sep,2026-09-09,Midgam R&C,Midgam,HaHadashot 12,504.0,DEMOCRATS,10.0,,wikipedia,,,,,,
+2026-09-09_HaHadashot 12,2,9 Sep,2026-09-09,Midgam R&C,Midgam,HaHadashot 12,504.0,YASHAR,25.0,,wikipedia,,,,,,
+2026-09-09_HaHadashot 12,2,9 Sep,2026-09-09,Midgam R&C,Midgam,HaHadashot 12,504.0,HENDEL_ZELICHA,0.0,2.9,wikipedia,,,,,,2.9
+2026-09-09_HaHadashot 12,2,9 Sep,2026-09-09,Midgam R&C,Midgam,HaHadashot 12,504.0,AMCHA,5.0,,wikipedia,,,,,,
+2026-09-09_HaHadashot 12,2,9 Sep,2026-09-09,Midgam R&C,Midgam,HaHadashot 12,504.0,HAREDI_PUBLIC,0.0,1.0,wikipedia,,,,,,1.0
+2026-09-08_Maariv,2,7– 8 Sep,2026-09-08,LRI+P4A,Lazar_Panels,Maariv,600.0,LIKUD,20.0,,wikipedia,,,,,,
+2026-09-08_Maariv,2,7– 8 Sep,2026-09-08,LRI+P4A,Lazar_Panels,Maariv,600.0,TOGETHER,13.0,,wikipedia,,,,,,
+2026-09-08_Maariv,2,7– 8 Sep,2026-09-08,LRI+P4A,Lazar_Panels,Maariv,600.0,RZP_ZEHUT,5.0,,wikipedia,,,,,,
+2026-09-08_Maariv,2,7– 8 Sep,2026-09-08,LRI+P4A,Lazar_Panels,Maariv,600.0,OTZMA,8.0,,wikipedia,,,,,,
+2026-09-08_Maariv,2,7– 8 Sep,2026-09-08,LRI+P4A,Lazar_Panels,Maariv,600.0,BLUE_WHITE,0.0,1.3,wikipedia,,,,,,1.3
+2026-09-08_Maariv,2,7– 8 Sep,2026-09-08,LRI+P4A,Lazar_Panels,Maariv,600.0,SHAS,7.0,,wikipedia,,,,,,
+2026-09-08_Maariv,2,7– 8 Sep,2026-09-08,LRI+P4A,Lazar_Panels,Maariv,600.0,UTJ,7.0,,wikipedia,,,,,,
+2026-09-08_Maariv,2,7– 8 Sep,2026-09-08,LRI+P4A,Lazar_Panels,Maariv,600.0,YB,9.0,,wikipedia,,,,,,
+2026-09-08_Maariv,2,7– 8 Sep,2026-09-08,LRI+P4A,Lazar_Panels,Maariv,600.0,RAAM,5.0,,wikipedia,,,,,,
+2026-09-08_Maariv,2,7– 8 Sep,2026-09-08,LRI+P4A,Lazar_Panels,Maariv,600.0,JOINT,7.0,,wikipedia,,,,,,
+2026-09-08_Maariv,2,7– 8 Sep,2026-09-08,LRI+P4A,Lazar_Panels,Maariv,600.0,DEMOCRATS,10.0,,wikipedia,,,,,,
+2026-09-08_Maariv,2,7– 8 Sep,2026-09-08,LRI+P4A,Lazar_Panels,Maariv,600.0,YASHAR,25.0,,wikipedia,,,,,,
+2026-09-08_Maariv,2,7– 8 Sep,2026-09-08,LRI+P4A,Lazar_Panels,Maariv,600.0,HENDEL_ZELICHA,4.0,,wikipedia,,,,,,
+2026-09-08_Maariv,2,7– 8 Sep,2026-09-08,LRI+P4A,Lazar_Panels,Maariv,600.0,AMCHA,0.0,2.8,wikipedia,,,,,,2.8
+2026-09-08_Maariv,2,7– 8 Sep,2026-09-08,LRI+P4A,Lazar_Panels,Maariv,600.0,HAREDI_PUBLIC,0.0,0.4,wikipedia,,,,,,0.4
+2026-09-07_— N/a,2,7 Sep,2026-09-07,S.M.L.T.,Other:s_m_l_t_,— N/a,2185.0,LIKUD,25.0,,wikipedia,,,,,,
+2026-09-07_— N/a,2,7 Sep,2026-09-07,S.M.L.T.,Other:s_m_l_t_,— N/a,2185.0,TOGETHER,9.0,,wikipedia,,,,,,
+2026-09-07_— N/a,2,7 Sep,2026-09-07,S.M.L.T.,Other:s_m_l_t_,— N/a,2185.0,RZP_ZEHUT,8.0,,wikipedia,,,,,,
+2026-09-07_— N/a,2,7 Sep,2026-09-07,S.M.L.T.,Other:s_m_l_t_,— N/a,2185.0,OTZMA,9.0,,wikipedia,,,,,,
+2026-09-07_— N/a,2,7 Sep,2026-09-07,S.M.L.T.,Other:s_m_l_t_,— N/a,2185.0,BLUE_WHITE,4.0,,wikipedia,,,,,,
+2026-09-07_— N/a,2,7 Sep,2026-09-07,S.M.L.T.,Other:s_m_l_t_,— N/a,2185.0,SHAS,10.0,,wikipedia,,,,,,
+2026-09-07_— N/a,2,7 Sep,2026-09-07,S.M.L.T.,Other:s_m_l_t_,— N/a,2185.0,UTJ,7.0,,wikipedia,,,,,,
+2026-09-07_— N/a,2,7 Sep,2026-09-07,S.M.L.T.,Other:s_m_l_t_,— N/a,2185.0,YB,7.0,,wikipedia,,,,,,
+2026-09-07_— N/a,2,7 Sep,2026-09-07,S.M.L.T.,Other:s_m_l_t_,— N/a,2185.0,RAAM,5.0,,wikipedia,,,,,,
+2026-09-07_— N/a,2,7 Sep,2026-09-07,S.M.L.T.,Other:s_m_l_t_,— N/a,2185.0,JOINT,7.0,,wikipedia,,,,,,
+2026-09-07_— N/a,2,7 Sep,2026-09-07,S.M.L.T.,Other:s_m_l_t_,— N/a,2185.0,DEMOCRATS,9.0,,wikipedia,,,,,,
+2026-09-07_— N/a,2,7 Sep,2026-09-07,S.M.L.T.,Other:s_m_l_t_,— N/a,2185.0,YASHAR,20.0,,wikipedia,,,,,,
+2026-09-07_— N/a,2,7 Sep,2026-09-07,S.M.L.T.,Other:s_m_l_t_,— N/a,2185.0,HENDEL_ZELICHA,0.0,1.79,wikipedia,,,,,,1.79
+2026-09-07_— N/a,2,7 Sep,2026-09-07,S.M.L.T.,Other:s_m_l_t_,— N/a,2185.0,AMCHA,0.0,2.08,wikipedia,,,,,,2.08
+2026-09-07_— N/a,2,7 Sep,2026-09-07,S.M.L.T.,Other:s_m_l_t_,— N/a,2185.0,HAREDI_PUBLIC,0.0,0.24,wikipedia,,,,,,0.24
+2026-09-07_Channel 14,2,7 Sep,2026-09-07,SF+ND,NextData_Filber,Channel 14,1057.0,LIKUD,30.0,,wikipedia,,,,,,
+2026-09-07_Channel 14,2,7 Sep,2026-09-07,SF+ND,NextData_Filber,Channel 14,1057.0,TOGETHER,6.0,,wikipedia,,,,,,
+2026-09-07_Channel 14,2,7 Sep,2026-09-07,SF+ND,NextData_Filber,Channel 14,1057.0,RZP_ZEHUT,8.0,,wikipedia,,,,,,
+2026-09-07_Channel 14,2,7 Sep,2026-09-07,SF+ND,NextData_Filber,Channel 14,1057.0,OTZMA,8.0,,wikipedia,,,,,,
+2026-09-07_Channel 14,2,7 Sep,2026-09-07,SF+ND,NextData_Filber,Channel 14,1057.0,BLUE_WHITE,0.0,0.4,wikipedia,,,,,,0.4
+2026-09-07_Channel 14,2,7 Sep,2026-09-07,SF+ND,NextData_Filber,Channel 14,1057.0,SHAS,10.0,,wikipedia,,,,,,
+2026-09-07_Channel 14,2,7 Sep,2026-09-07,SF+ND,NextData_Filber,Channel 14,1057.0,UTJ,7.0,,wikipedia,,,,,,
+2026-09-07_Channel 14,2,7 Sep,2026-09-07,SF+ND,NextData_Filber,Channel 14,1057.0,YB,6.0,,wikipedia,,,,,,
+2026-09-07_Channel 14,2,7 Sep,2026-09-07,SF+ND,NextData_Filber,Channel 14,1057.0,RAAM,5.0,,wikipedia,,,,,,
+2026-09-07_Channel 14,2,7 Sep,2026-09-07,SF+ND,NextData_Filber,Channel 14,1057.0,JOINT,8.0,,wikipedia,,,,,,
+2026-09-07_Channel 14,2,7 Sep,2026-09-07,SF+ND,NextData_Filber,Channel 14,1057.0,DEMOCRATS,10.0,,wikipedia,,,,,,
+2026-09-07_Channel 14,2,7 Sep,2026-09-07,SF+ND,NextData_Filber,Channel 14,1057.0,YASHAR,22.0,,wikipedia,,,,,,
+2026-09-07_Channel 14,2,7 Sep,2026-09-07,SF+ND,NextData_Filber,Channel 14,1057.0,HENDEL_ZELICHA,0.0,2.1,wikipedia,,,,,,2.1
+2026-09-07_Channel 14,2,7 Sep,2026-09-07,SF+ND,NextData_Filber,Channel 14,1057.0,AMCHA,0.0,3.0,wikipedia,,,,,,3.0
+2026-09-07_Channel 14,2,7 Sep,2026-09-07,SF+ND,NextData_Filber,Channel 14,1057.0,HAREDI_PUBLIC,0.0,0.3,wikipedia,,,,,,0.3
+2026-09-07_HaHadashot 12,2,7 Sep,2026-09-07,Midgam R&C,Midgam,HaHadashot 12,503.0,LIKUD,21.0,,wikipedia,,,,,,
+2026-09-07_HaHadashot 12,2,7 Sep,2026-09-07,Midgam R&C,Midgam,HaHadashot 12,503.0,TOGETHER,13.0,,wikipedia,,,,,,
+2026-09-07_HaHadashot 12,2,7 Sep,2026-09-07,Midgam R&C,Midgam,HaHadashot 12,503.0,RZP_ZEHUT,6.0,,wikipedia,,,,,,
+2026-09-07_HaHadashot 12,2,7 Sep,2026-09-07,Midgam R&C,Midgam,HaHadashot 12,503.0,OTZMA,6.0,,wikipedia,,,,,,
+2026-09-07_HaHadashot 12,2,7 Sep,2026-09-07,Midgam R&C,Midgam,HaHadashot 12,503.0,BLUE_WHITE,0.0,1.0,wikipedia,,,,,,1.0
+2026-09-07_HaHadashot 12,2,7 Sep,2026-09-07,Midgam R&C,Midgam,HaHadashot 12,503.0,SHAS,7.0,,wikipedia,,,,,,
+2026-09-07_HaHadashot 12,2,7 Sep,2026-09-07,Midgam R&C,Midgam,HaHadashot 12,503.0,UTJ,8.0,,wikipedia,,,,,,
+2026-09-07_HaHadashot 12,2,7 Sep,2026-09-07,Midgam R&C,Midgam,HaHadashot 12,503.0,YB,8.0,,wikipedia,,,,,,
+2026-09-07_HaHadashot 12,2,7 Sep,2026-09-07,Midgam R&C,Midgam,HaHadashot 12,503.0,RAAM,4.0,,wikipedia,,,,,,
+2026-09-07_HaHadashot 12,2,7 Sep,2026-09-07,Midgam R&C,Midgam,HaHadashot 12,503.0,JOINT,7.0,,wikipedia,,,,,,
+2026-09-07_HaHadashot 12,2,7 Sep,2026-09-07,Midgam R&C,Midgam,HaHadashot 12,503.0,DEMOCRATS,11.0,,wikipedia,,,,,,
+2026-09-07_HaHadashot 12,2,7 Sep,2026-09-07,Midgam R&C,Midgam,HaHadashot 12,503.0,YASHAR,25.0,,wikipedia,,,,,,
+2026-09-07_HaHadashot 12,2,7 Sep,2026-09-07,Midgam R&C,Midgam,HaHadashot 12,503.0,HENDEL_ZELICHA,0.0,2.7,wikipedia,,,,,,2.7
+2026-09-07_HaHadashot 12,2,7 Sep,2026-09-07,Midgam R&C,Midgam,HaHadashot 12,503.0,AMCHA,4.0,,wikipedia,,,,,,
+2026-09-07_HaHadashot 12,2,7 Sep,2026-09-07,Midgam R&C,Midgam,HaHadashot 12,503.0,HAREDI_PUBLIC,0.0,1.2,wikipedia,,,,,,1.2
+2026-09-06_Kan 11,2,6 Sep,2026-09-06,Kantar,Kantar,Kan 11,551.0,LIKUD,20.0,,wikipedia,,,,,,
+2026-09-06_Kan 11,2,6 Sep,2026-09-06,Kantar,Kantar,Kan 11,551.0,TOGETHER,13.0,,wikipedia,,,,,,
+2026-09-06_Kan 11,2,6 Sep,2026-09-06,Kantar,Kantar,Kan 11,551.0,RZP_ZEHUT,6.0,,wikipedia,,,,,,
+2026-09-06_Kan 11,2,6 Sep,2026-09-06,Kantar,Kantar,Kan 11,551.0,OTZMA,7.0,,wikipedia,,,,,,
+2026-09-06_Kan 11,2,6 Sep,2026-09-06,Kantar,Kantar,Kan 11,551.0,BLUE_WHITE,,,wikipedia,,,,,,
+2026-09-06_Kan 11,2,6 Sep,2026-09-06,Kantar,Kantar,Kan 11,551.0,SHAS,7.0,,wikipedia,,,,,,
+2026-09-06_Kan 11,2,6 Sep,2026-09-06,Kantar,Kantar,Kan 11,551.0,UTJ,8.0,,wikipedia,,,,,,
+2026-09-06_Kan 11,2,6 Sep,2026-09-06,Kantar,Kantar,Kan 11,551.0,YB,7.0,,wikipedia,,,,,,
+2026-09-06_Kan 11,2,6 Sep,2026-09-06,Kantar,Kantar,Kan 11,551.0,RAAM,6.0,,wikipedia,,,,,,
+2026-09-06_Kan 11,2,6 Sep,2026-09-06,Kantar,Kantar,Kan 11,551.0,JOINT,7.0,,wikipedia,,,,,,
+2026-09-06_Kan 11,2,6 Sep,2026-09-06,Kantar,Kantar,Kan 11,551.0,DEMOCRATS,8.0,,wikipedia,,,,,,
+2026-09-06_Kan 11,2,6 Sep,2026-09-06,Kantar,Kantar,Kan 11,551.0,YASHAR,23.0,,wikipedia,,,,,,
+2026-09-06_Kan 11,2,6 Sep,2026-09-06,Kantar,Kantar,Kan 11,551.0,HENDEL_ZELICHA,4.0,,wikipedia,,,,,,
+2026-09-06_Kan 11,2,6 Sep,2026-09-06,Kantar,Kantar,Kan 11,551.0,AMCHA,4.0,,wikipedia,,,,,,
+2026-09-06_Kan 11,2,6 Sep,2026-09-06,Kantar,Kantar,Kan 11,551.0,HAREDI_PUBLIC,,,wikipedia,,,,,,
+2026-10-06_Channel 16,-1,2026-10-06,2026-10-06,מאגר מוחות / יצחק כץ,MaagarMochot,Channel 16,,LIKUD,21.0,,agents,21.0,,,2026-10-06_c16,,
+2026-10-06_Channel 16,-1,2026-10-06,2026-10-06,מאגר מוחות / יצחק כץ,MaagarMochot,Channel 16,,YASHAR,23.0,,agents,23.0,,,2026-10-06_c16,,
+2026-10-06_Channel 16,-1,2026-10-06,2026-10-06,מאגר מוחות / יצחק כץ,MaagarMochot,Channel 16,,TOGETHER,14.0,,agents,14.0,,,2026-10-06_c16,,
+2026-10-06_Channel 16,-1,2026-10-06,2026-10-06,מאגר מוחות / יצחק כץ,MaagarMochot,Channel 16,,DEMOCRATS,9.0,,agents,9.0,,,2026-10-06_c16,,
+2026-10-06_Channel 16,-1,2026-10-06,2026-10-06,מאגר מוחות / יצחק כץ,MaagarMochot,Channel 16,,YB,7.0,,agents,7.0,,,2026-10-06_c16,,
+2026-10-06_Channel 16,-1,2026-10-06,2026-10-06,מאגר מוחות / יצחק כץ,MaagarMochot,Channel 16,,OTZMA,7.0,,agents,7.0,,,2026-10-06_c16,,
+2026-10-06_Channel 16,-1,2026-10-06,2026-10-06,מאגר מוחות / יצחק כץ,MaagarMochot,Channel 16,,SHAS,8.0,,agents,8.0,,,2026-10-06_c16,,
+2026-10-06_Channel 16,-1,2026-10-06,2026-10-06,מאגר מוחות / יצחק כץ,MaagarMochot,Channel 16,,UTJ,7.0,,agents,7.0,,,2026-10-06_c16,,
+2026-10-06_Channel 16,-1,2026-10-06,2026-10-06,מאגר מוחות / יצחק כץ,MaagarMochot,Channel 16,,RZP_ZEHUT,7.0,,agents,7.0,,,2026-10-06_c16,,
+2026-10-06_Channel 16,-1,2026-10-06,2026-10-06,מאגר מוחות / יצחק כץ,MaagarMochot,Channel 16,,JOINT,7.0,,agents,7.0,,,2026-10-06_c16,,
+2026-10-06_Channel 16,-1,2026-10-06,2026-10-06,מאגר מוחות / יצחק כץ,MaagarMochot,Channel 16,,RAAM,6.0,,agents,6.0,,,2026-10-06_c16,,
+2026-10-06_Channel 16,-1,2026-10-06,2026-10-06,מאגר מוחות / יצחק כץ,MaagarMochot,Channel 16,,HENDEL_ZELICHA,0.0,3.1,agents,0.0,,3.1,2026-10-06_c16,,3.1
+2026-10-06_Channel 16,-1,2026-10-06,2026-10-06,מאגר מוחות / יצחק כץ,MaagarMochot,Channel 16,,AMCHA,4.0,,agents,4.0,,,2026-10-06_c16,,
+2026-10-06_Channel 16,-1,2026-10-06,2026-10-06,מאגר מוחות / יצחק כץ,MaagarMochot,Channel 16,,BLUE_WHITE,0.0,1.8,agents,0.0,,1.8,2026-10-06_c16,,1.8
+2026-10-06_Channel 16,-1,2026-10-06,2026-10-06,מאגר מוחות / יצחק כץ,MaagarMochot,Channel 16,,HAREDI_PUBLIC,0.0,0.8,agents,0.0,,0.8,2026-10-06_c16,,0.8
+2026-10-14_Channel 14,-1,2026-10-14,2026-10-14,NEXT DATA / שלמה פילבר,NextData_Filber,Channel 14,,LIKUD,29.0,,agents,29.0,,,2026-10-14_channel-14,,
+2026-10-14_Channel 14,-1,2026-10-14,2026-10-14,NEXT DATA / שלמה פילבר,NextData_Filber,Channel 14,,YASHAR,20.0,,agents,20.0,,,2026-10-14_channel-14,,
+2026-10-14_Channel 14,-1,2026-10-14,2026-10-14,NEXT DATA / שלמה פילבר,NextData_Filber,Channel 14,,TOGETHER,11.0,,agents,11.0,,,2026-10-14_channel-14,,
+2026-10-14_Channel 14,-1,2026-10-14,2026-10-14,NEXT DATA / שלמה פילבר,NextData_Filber,Channel 14,,DEMOCRATS,8.0,,agents,8.0,,,2026-10-14_channel-14,,
+2026-10-14_Channel 14,-1,2026-10-14,2026-10-14,NEXT DATA / שלמה פילבר,NextData_Filber,Channel 14,,YB,5.0,,agents,5.0,,,2026-10-14_channel-14,,
+2026-10-14_Channel 14,-1,2026-10-14,2026-10-14,NEXT DATA / שלמה פילבר,NextData_Filber,Channel 14,,OTZMA,8.0,,agents,8.0,,,2026-10-14_channel-14,,
+2026-10-14_Channel 14,-1,2026-10-14,2026-10-14,NEXT DATA / שלמה פילבר,NextData_Filber,Channel 14,,SHAS,10.0,,agents,10.0,,,2026-10-14_channel-14,,
+2026-10-14_Channel 14,-1,2026-10-14,2026-10-14,NEXT DATA / שלמה פילבר,NextData_Filber,Channel 14,,UTJ,8.0,,agents,8.0,,,2026-10-14_channel-14,,
+2026-10-14_Channel 14,-1,2026-10-14,2026-10-14,NEXT DATA / שלמה פילבר,NextData_Filber,Channel 14,,RZP_ZEHUT,7.0,,agents,7.0,,,2026-10-14_channel-14,,
+2026-10-14_Channel 14,-1,2026-10-14,2026-10-14,NEXT DATA / שלמה פילבר,NextData_Filber,Channel 14,,JOINT,9.0,,agents,9.0,,,2026-10-14_channel-14,,
+2026-10-14_Channel 14,-1,2026-10-14,2026-10-14,NEXT DATA / שלמה פילבר,NextData_Filber,Channel 14,,RAAM,5.0,,agents,5.0,,,2026-10-14_channel-14,,
+2026-10-14_Channel 14,-1,2026-10-14,2026-10-14,NEXT DATA / שלמה פילבר,NextData_Filber,Channel 14,,HENDEL_ZELICHA,0.0,3.1,agents,0.0,,3.1,2026-10-14_channel-14,,3.1
+2026-10-14_Channel 14,-1,2026-10-14,2026-10-14,NEXT DATA / שלמה פילבר,NextData_Filber,Channel 14,,AMCHA,0.0,2.7,agents,0.0,,2.7,2026-10-14_channel-14,,2.7
+2026-10-14_Channel 14,-1,2026-10-14,2026-10-14,NEXT DATA / שלמה פילבר,NextData_Filber,Channel 14,,BLUE_WHITE,0.0,1.2,agents,0.0,,1.2,2026-10-14_channel-14,,1.2
+2026-10-14_Channel 14,-1,2026-10-14,2026-10-14,NEXT DATA / שלמה פילבר,NextData_Filber,Channel 14,,HAREDI_PUBLIC,0.0,0.4,agents,0.0,,0.4,2026-10-14_channel-14,,0.4
+2026-10-15_Israel Hayom,-1,2026-10-15,2026-10-15,קנטאר / דודי חסיד,Kantar,Israel Hayom,551,LIKUD,21.0,16.2,agents,21.0,16.2,,2026-10-15_israel-hayom,551,16.2
+2026-10-15_Israel Hayom,-1,2026-10-15,2026-10-15,קנטאר / דודי חסיד,Kantar,Israel Hayom,551,YASHAR,24.0,18.8,agents,24.0,18.8,,2026-10-15_israel-hayom,551,18.8
+2026-10-15_Israel Hayom,-1,2026-10-15,2026-10-15,קנטאר / דודי חסיד,Kantar,Israel Hayom,551,TOGETHER,12.0,9.2,agents,12.0,9.2,,2026-10-15_israel-hayom,551,9.2
+2026-10-15_Israel Hayom,-1,2026-10-15,2026-10-15,קנטאר / דודי חסיד,Kantar,Israel Hayom,551,DEMOCRATS,8.0,6.2,agents,8.0,6.2,,2026-10-15_israel-hayom,551,6.2
+2026-10-15_Israel Hayom,-1,2026-10-15,2026-10-15,קנטאר / דודי חסיד,Kantar,Israel Hayom,551,YB,8.0,6.3,agents,8.0,6.3,,2026-10-15_israel-hayom,551,6.3
+2026-10-15_Israel Hayom,-1,2026-10-15,2026-10-15,קנטאר / דודי חסיד,Kantar,Israel Hayom,551,OTZMA,9.0,7.0,agents,9.0,7.0,,2026-10-15_israel-hayom,551,7.0
+2026-10-15_Israel Hayom,-1,2026-10-15,2026-10-15,קנטאר / דודי חסיד,Kantar,Israel Hayom,551,SHAS,7.0,5.4,agents,7.0,5.4,,2026-10-15_israel-hayom,551,5.4
+2026-10-15_Israel Hayom,-1,2026-10-15,2026-10-15,קנטאר / דודי חסיד,Kantar,Israel Hayom,551,UTJ,7.0,5.5,agents,7.0,5.5,,2026-10-15_israel-hayom,551,5.5
+2026-10-15_Israel Hayom,-1,2026-10-15,2026-10-15,קנטאר / דודי חסיד,Kantar,Israel Hayom,551,RZP_ZEHUT,6.0,4.7,agents,6.0,4.7,,2026-10-15_israel-hayom,551,4.7
+2026-10-15_Israel Hayom,-1,2026-10-15,2026-10-15,קנטאר / דודי חסיד,Kantar,Israel Hayom,551,JOINT,9.0,6.9,agents,9.0,6.9,,2026-10-15_israel-hayom,551,6.9
+2026-10-15_Israel Hayom,-1,2026-10-15,2026-10-15,קנטאר / דודי חסיד,Kantar,Israel Hayom,551,RAAM,5.0,4.0,agents,5.0,4.0,,2026-10-15_israel-hayom,551,4.0
+2026-10-15_Israel Hayom,-1,2026-10-15,2026-10-15,קנטאר / דודי חסיד,Kantar,Israel Hayom,551,HENDEL_ZELICHA,4.0,3.8,agents,4.0,3.8,,2026-10-15_israel-hayom,551,3.8
+2026-10-15_Israel Hayom,-1,2026-10-15,2026-10-15,קנטאר / דודי חסיד,Kantar,Israel Hayom,551,AMCHA,0.0,3.0,agents,0.0,3.0,3.0,2026-10-15_israel-hayom,551,3.0
+2026-10-15_Israel Hayom,-1,2026-10-15,2026-10-15,קנטאר / דודי חסיד,Kantar,Israel Hayom,551,BLUE_WHITE,0.0,0.8,agents,0.0,0.8,0.8,2026-10-15_israel-hayom,551,0.8
+2026-10-15_Israel Hayom,-1,2026-10-15,2026-10-15,קנטאר / דודי חסיד,Kantar,Israel Hayom,551,HAREDI_PUBLIC,0.0,0.9,agents,0.0,0.9,0.9,2026-10-15_israel-hayom,551,0.9
+2026-10-22_Channel 16,-1,2026-10-22,2026-10-22,מאגר מוחות / יצחק כץ,MaagarMochot,Channel 16,,LIKUD,17.0,,agents,17.0,,,2026-10-22_c16,,
+2026-10-22_Channel 16,-1,2026-10-22,2026-10-22,מאגר מוחות / יצחק כץ,MaagarMochot,Channel 16,,YASHAR,20.0,,agents,20.0,,,2026-10-22_c16,,
+2026-10-22_Channel 16,-1,2026-10-22,2026-10-22,מאגר מוחות / יצחק כץ,MaagarMochot,Channel 16,,TOGETHER,14.0,,agents,14.0,,,2026-10-22_c16,,
+2026-10-22_Channel 16,-1,2026-10-22,2026-10-22,מאגר מוחות / יצחק כץ,MaagarMochot,Channel 16,,DEMOCRATS,9.0,,agents,9.0,,,2026-10-22_c16,,
+2026-10-22_Channel 16,-1,2026-10-22,2026-10-22,מאגר מוחות / יצחק כץ,MaagarMochot,Channel 16,,YB,7.0,,agents,7.0,,,2026-10-22_c16,,
+2026-10-22_Channel 16,-1,2026-10-22,2026-10-22,מאגר מוחות / יצחק כץ,MaagarMochot,Channel 16,,OTZMA,9.0,,agents,9.0,,,2026-10-22_c16,,
+2026-10-22_Channel 16,-1,2026-10-22,2026-10-22,מאגר מוחות / יצחק כץ,MaagarMochot,Channel 16,,SHAS,7.0,,agents,7.0,,,2026-10-22_c16,,
+2026-10-22_Channel 16,-1,2026-10-22,2026-10-22,מאגר מוחות / יצחק כץ,MaagarMochot,Channel 16,,UTJ,8.0,,agents,8.0,,,2026-10-22_c16,,
+2026-10-22_Channel 16,-1,2026-10-22,2026-10-22,מאגר מוחות / יצחק כץ,MaagarMochot,Channel 16,,RZP_ZEHUT,7.0,,agents,7.0,,,2026-10-22_c16,,
+2026-10-22_Channel 16,-1,2026-10-22,2026-10-22,מאגר מוחות / יצחק כץ,MaagarMochot,Channel 16,,JOINT,9.0,,agents,9.0,,,2026-10-22_c16,,
+2026-10-22_Channel 16,-1,2026-10-22,2026-10-22,מאגר מוחות / יצחק כץ,MaagarMochot,Channel 16,,RAAM,5.0,,agents,5.0,,,2026-10-22_c16,,
+2026-10-22_Channel 16,-1,2026-10-22,2026-10-22,מאגר מוחות / יצחק כץ,MaagarMochot,Channel 16,,HENDEL_ZELICHA,4.0,,agents,4.0,,,2026-10-22_c16,,
+2026-10-22_Channel 16,-1,2026-10-22,2026-10-22,מאגר מוחות / יצחק כץ,MaagarMochot,Channel 16,,AMCHA,4.0,,agents,4.0,,,2026-10-22_c16,,
+2026-10-22_Channel 16,-1,2026-10-22,2026-10-22,מאגר מוחות / יצחק כץ,MaagarMochot,Channel 16,,BLUE_WHITE,,,agents,,,,2026-10-22_c16,,
+2026-10-22_Channel 16,-1,2026-10-22,2026-10-22,מאגר מוחות / יצחק כץ,MaagarMochot,Channel 16,,HAREDI_PUBLIC,,,agents,,,,2026-10-22_c16,,
+2026-10-23_i24 News,-1,2026-10-23,2026-10-22,דיירקט פולס / צוריאל שרון,DirectPolls,i24 News,,LIKUD,26.0,,agents,26.0,,,2026-10-23_i24news,,
+2026-10-23_i24 News,-1,2026-10-23,2026-10-22,דיירקט פולס / צוריאל שרון,DirectPolls,i24 News,,YASHAR,21.0,,agents,21.0,,,2026-10-23_i24news,,
+2026-10-23_i24 News,-1,2026-10-23,2026-10-22,דיירקט פולס / צוריאל שרון,DirectPolls,i24 News,,TOGETHER,12.0,,agents,12.0,,,2026-10-23_i24news,,
+2026-10-23_i24 News,-1,2026-10-23,2026-10-22,דיירקט פולס / צוריאל שרון,DirectPolls,i24 News,,DEMOCRATS,8.0,,agents,8.0,,,2026-10-23_i24news,,
+2026-10-23_i24 News,-1,2026-10-23,2026-10-22,דיירקט פולס / צוריאל שרון,DirectPolls,i24 News,,YB,6.0,,agents,6.0,,,2026-10-23_i24news,,
+2026-10-23_i24 News,-1,2026-10-23,2026-10-22,דיירקט פולס / צוריאל שרון,DirectPolls,i24 News,,OTZMA,8.0,,agents,8.0,,,2026-10-23_i24news,,
+2026-10-23_i24 News,-1,2026-10-23,2026-10-22,דיירקט פולס / צוריאל שרון,DirectPolls,i24 News,,SHAS,8.0,,agents,8.0,,,2026-10-23_i24news,,
+2026-10-23_i24 News,-1,2026-10-23,2026-10-22,דיירקט פולס / צוריאל שרון,DirectPolls,i24 News,,UTJ,7.0,,agents,7.0,,,2026-10-23_i24news,,
+2026-10-23_i24 News,-1,2026-10-23,2026-10-22,דיירקט פולס / צוריאל שרון,DirectPolls,i24 News,,RZP_ZEHUT,6.0,,agents,6.0,,,2026-10-23_i24news,,
+2026-10-23_i24 News,-1,2026-10-23,2026-10-22,דיירקט פולס / צוריאל שרון,DirectPolls,i24 News,,JOINT,9.0,,agents,9.0,,,2026-10-23_i24news,,
+2026-10-23_i24 News,-1,2026-10-23,2026-10-22,דיירקט פולס / צוריאל שרון,DirectPolls,i24 News,,RAAM,5.0,,agents,5.0,,,2026-10-23_i24news,,
+2026-10-23_i24 News,-1,2026-10-23,2026-10-22,דיירקט פולס / צוריאל שרון,DirectPolls,i24 News,,HENDEL_ZELICHA,0.0,2.2,agents,0.0,,2.2,2026-10-23_i24news,,2.2
+2026-10-23_i24 News,-1,2026-10-23,2026-10-22,דיירקט פולס / צוריאל שרון,DirectPolls,i24 News,,AMCHA,4.0,,agents,4.0,,,2026-10-23_i24news,,
+2026-10-23_i24 News,-1,2026-10-23,2026-10-22,דיירקט פולס / צוריאל שרון,DirectPolls,i24 News,,BLUE_WHITE,,,agents,,,,2026-10-23_i24news,,
+2026-10-23_i24 News,-1,2026-10-23,2026-10-22,דיירקט פולס / צוריאל שרון,DirectPolls,i24 News,,HAREDI_PUBLIC,0.0,,agents,0.0,,,2026-10-23_i24news,,
+2026-10-23_Kan 11,-1,2026-10-23,2026-10-22,קנטאר / דודי חסיד,Kantar,Kan 11,,LIKUD,20.0,,agents,20.0,,,2026-10-23_kan-news,,
+2026-10-23_Kan 11,-1,2026-10-23,2026-10-22,קנטאר / דודי חסיד,Kantar,Kan 11,,YASHAR,22.0,,agents,22.0,,,2026-10-23_kan-news,,
+2026-10-23_Kan 11,-1,2026-10-23,2026-10-22,קנטאר / דודי חסיד,Kantar,Kan 11,,TOGETHER,14.0,,agents,14.0,,,2026-10-23_kan-news,,
+2026-10-23_Kan 11,-1,2026-10-23,2026-10-22,קנטאר / דודי חסיד,Kantar,Kan 11,,DEMOCRATS,8.0,,agents,8.0,,,2026-10-23_kan-news,,
+2026-10-23_Kan 11,-1,2026-10-23,2026-10-22,קנטאר / דודי חסיד,Kantar,Kan 11,,YB,8.0,,agents,8.0,,,2026-10-23_kan-news,,
+2026-10-23_Kan 11,-1,2026-10-23,2026-10-22,קנטאר / דודי חסיד,Kantar,Kan 11,,OTZMA,8.0,,agents,8.0,,,2026-10-23_kan-news,,
+2026-10-23_Kan 11,-1,2026-10-23,2026-10-22,קנטאר / דודי חסיד,Kantar,Kan 11,,SHAS,7.0,,agents,7.0,,,2026-10-23_kan-news,,
+2026-10-23_Kan 11,-1,2026-10-23,2026-10-22,קנטאר / דודי חסיד,Kantar,Kan 11,,UTJ,8.0,,agents,8.0,,,2026-10-23_kan-news,,
+2026-10-23_Kan 11,-1,2026-10-23,2026-10-22,קנטאר / דודי חסיד,Kantar,Kan 11,,RZP_ZEHUT,7.0,,agents,7.0,,,2026-10-23_kan-news,,
+2026-10-23_Kan 11,-1,2026-10-23,2026-10-22,קנטאר / דודי חסיד,Kantar,Kan 11,,JOINT,9.0,,agents,9.0,,,2026-10-23_kan-news,,
+2026-10-23_Kan 11,-1,2026-10-23,2026-10-22,קנטאר / דודי חסיד,Kantar,Kan 11,,RAAM,5.0,,agents,5.0,,,2026-10-23_kan-news,,
+2026-10-23_Kan 11,-1,2026-10-23,2026-10-22,קנטאר / דודי חסיד,Kantar,Kan 11,,HENDEL_ZELICHA,4.0,,agents,4.0,,,2026-10-23_kan-news,,
+2026-10-23_Kan 11,-1,2026-10-23,2026-10-22,קנטאר / דודי חסיד,Kantar,Kan 11,,AMCHA,0.0,2.9,agents,0.0,,2.9,2026-10-23_kan-news,,2.9
+2026-10-23_Kan 11,-1,2026-10-23,2026-10-22,קנטאר / דודי חסיד,Kantar,Kan 11,,BLUE_WHITE,,,agents,,,,2026-10-23_kan-news,,
+2026-10-23_Kan 11,-1,2026-10-23,2026-10-22,קנטאר / דודי חסיד,Kantar,Kan 11,,HAREDI_PUBLIC,0.0,,agents,0.0,,,2026-10-23_kan-news,,
+2026-10-23_ללא מפרסם תקשורתי (ד,-1,2026-10-23,2026-10-21,מכון די אר איי (DRI),DRI,DRI (CEC report only),939,LIKUD,28.0,21.93,agents,28.0,21.93,,2026-10-23_dri,939,21.93
+2026-10-23_ללא מפרסם תקשורתי (ד,-1,2026-10-23,2026-10-21,מכון די אר איי (DRI),DRI,DRI (CEC report only),939,YASHAR,23.0,17.12,agents,23.0,17.12,,2026-10-23_dri,939,17.12
+2026-10-23_ללא מפרסם תקשורתי (ד,-1,2026-10-23,2026-10-21,מכון די אר איי (DRI),DRI,DRI (CEC report only),939,TOGETHER,9.0,7.09,agents,9.0,7.09,,2026-10-23_dri,939,7.09
+2026-10-23_ללא מפרסם תקשורתי (ד,-1,2026-10-23,2026-10-21,מכון די אר איי (DRI),DRI,DRI (CEC report only),939,DEMOCRATS,8.0,6.63,agents,8.0,6.63,,2026-10-23_dri,939,6.63
+2026-10-23_ללא מפרסם תקשורתי (ד,-1,2026-10-23,2026-10-21,מכון די אר איי (DRI),DRI,DRI (CEC report only),939,YB,7.0,5.48,agents,7.0,5.48,,2026-10-23_dri,939,5.48
+2026-10-23_ללא מפרסם תקשורתי (ד,-1,2026-10-23,2026-10-21,מכון די אר איי (DRI),DRI,DRI (CEC report only),939,OTZMA,8.0,6.49,agents,8.0,6.49,,2026-10-23_dri,939,6.49
+2026-10-23_ללא מפרסם תקשורתי (ד,-1,2026-10-23,2026-10-21,מכון די אר איי (DRI),DRI,DRI (CEC report only),939,SHAS,8.0,6.66,agents,8.0,6.66,,2026-10-23_dri,939,6.66
+2026-10-23_ללא מפרסם תקשורתי (ד,-1,2026-10-23,2026-10-21,מכון די אר איי (DRI),DRI,DRI (CEC report only),939,UTJ,7.0,5.45,agents,7.0,5.45,,2026-10-23_dri,939,5.45
+2026-10-23_ללא מפרסם תקשורתי (ד,-1,2026-10-23,2026-10-21,מכון די אר איי (DRI),DRI,DRI (CEC report only),939,RZP_ZEHUT,9.0,6.96,agents,9.0,6.96,,2026-10-23_dri,939,6.96
+2026-10-23_ללא מפרסם תקשורתי (ד,-1,2026-10-23,2026-10-21,מכון די אר איי (DRI),DRI,DRI (CEC report only),939,JOINT,8.0,6.06,agents,8.0,6.06,,2026-10-23_dri,939,6.06
+2026-10-23_ללא מפרסם תקשורתי (ד,-1,2026-10-23,2026-10-21,מכון די אר איי (DRI),DRI,DRI (CEC report only),939,RAAM,5.0,4.12,agents,5.0,4.12,,2026-10-23_dri,939,4.12
+2026-10-23_ללא מפרסם תקשורתי (ד,-1,2026-10-23,2026-10-21,מכון די אר איי (DRI),DRI,DRI (CEC report only),939,HENDEL_ZELICHA,0.0,1.77,agents,0.0,1.77,1.77,2026-10-23_dri,939,1.77
+2026-10-23_ללא מפרסם תקשורתי (ד,-1,2026-10-23,2026-10-21,מכון די אר איי (DRI),DRI,DRI (CEC report only),939,AMCHA,0.0,1.81,agents,0.0,1.81,1.81,2026-10-23_dri,939,1.81
+2026-10-23_ללא מפרסם תקשורתי (ד,-1,2026-10-23,2026-10-21,מכון די אר איי (DRI),DRI,DRI (CEC report only),939,BLUE_WHITE,,,agents,,,,2026-10-23_dri,939,
+2026-10-23_ללא מפרסם תקשורתי (ד,-1,2026-10-23,2026-10-21,מכון די אר איי (DRI),DRI,DRI (CEC report only),939,HAREDI_PUBLIC,0.0,2.34,agents,0.0,2.34,2.34,2026-10-23_dri,939,2.34

@@ -1,0 +1,14 @@
+                           list             id  firm_min  firm_max        Q  df  p_value     I2
+                          Likud          LIKUD   13.9490   22.7651 250.5720   8   0.0000 0.9681
+             Yashar! (Eisenkot)         YASHAR   15.4752   18.3422  12.4476   8   0.1323 0.3573
+       Together (Bennett-Lapid)       TOGETHER    7.1852   11.6130  72.1066   8   0.0000 0.8891
+                  The Democrats      DEMOCRATS    6.4288    7.6944   5.9680   8   0.6508 0.0000
+               Yisrael Beiteinu             YB    4.4772    7.2039  36.8919   8   0.0000 0.7832
+                  Otzma Yehudit          OTZMA    6.0317    7.3972  10.6500   8   0.2223 0.2488
+                           Shas           SHAS    5.5174    7.5556  27.8915   8   0.0005 0.7132
+           United Torah Judaism            UTJ    5.6266    6.4456   1.8332   8   0.9857 0.0000
+      Religious Zionism & Zehut      RZP_ZEHUT    4.9290    7.1852   7.5746   8   0.4761 0.0000
+Joint List (Hadash-Ta'al-Balad)          JOINT    6.3359    7.3972   7.0504   8   0.5312 0.0000
+                          Ra'am           RAAM    4.1261    5.2094   6.0628   8   0.6402 0.0000
+  Hendel & Zelicha (Reservists) HENDEL_ZELICHA    1.7700    3.5040  29.6554   8   0.0002 0.7302
+          Amcha Israel (Winter)          AMCHA    1.8100    3.5040  47.4584   8   0.0000 0.8314
